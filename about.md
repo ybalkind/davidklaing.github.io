@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+I am an interdisciplinary data scientist and teacher, with special interests in data visualization and statistical software development, especially in the R ecosystem.
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+My full-time job is on the data science team at [Imbellus](https://www.imbellus.com/), a venture-backed startup that is building simulation-based cognitive assessments. At Imbellus I write scoring software, develop predictive models of hiring outcomes, and conduct analyses to inform assessment designs. I also present to clients, interview candidates for our growing team, and work across disciplines with our psychometricians, learning scientists, game designers, and engineers.
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+I also teach a [course](https://ubc-mds.github.io/2017-11-10-DSCI-542-communication/) on communication and argumentation in the [Master of Data Science program](https://masterdatascience.science.ubc.ca/) at the University of British Columbia. The course is about how to be clear, persuasive, and judicious when writing, speaking, and programming in data science contexts.
