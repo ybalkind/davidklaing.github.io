@@ -4,7 +4,6 @@ title: "Communication in data science: more than just the final report"
 description: A blog post about the course I taught in the Master of Data Science program in 2017.
 categories: blog
 published: true
-feature: assets/img/communication/ubc-mds-photo.png
 ---
 
 _Cross-posted from the [UBC MDS blog](https://ubc-mds.github.io/2017-11-10-DSCI-542-communication/)_.
