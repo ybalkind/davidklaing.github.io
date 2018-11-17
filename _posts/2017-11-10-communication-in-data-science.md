@@ -2,7 +2,7 @@
 layout: post
 title: "Communication in data science: more than just the final report"
 description: A blog post about the course I taught in the Master of Data Science program in 2017.
-comments: true
+categories: blog
 published: true
 feature: assets/img/communication/ubc-mds-photo.png
 ---
