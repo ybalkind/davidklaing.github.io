@@ -10,7 +10,7 @@ _Cross-posted from the [UBC MDS blog](https://ubc-mds.github.io/2017-11-10-DSCI-
 
 ----
 
-When people stress the importance of good communication in data science, they are usually saying something like what Hadley Wickham says in his book [R for Data Science](http://r4ds.had.co.nz/communicate-intro.html): "[It] doesn’t matter how great your analysis is unless you can explain it to others: you need to communicate your results." In other words, good communication is crucial to data science because it is the final step, without which all prior work would be wasted.
+When people stress the importance of good communication in data science, they are usually saying something like what Hadley Wickham says in his book [R for Data Science](https://r4ds.had.co.nz/communicate-intro.html): "[It] doesn’t matter how great your analysis is unless you can explain it to others: you need to communicate your results." In other words, good communication is crucial to data science because it is the final step, without which all prior work would be wasted.
 
 But communication is even more important than that. If you fail to communicate well with your client at the beginning of a project, you may waste your efforts answering the wrong question. If you fail to communicate well with your team, you may create inefficiencies in your workflow. And if you fail to communicate well with your future self, through careful documentation and clean code, you may find yourself circling back to redo old work. Communication is of course important at the end of the project too, but it's more than just a final bottleneck; it's important at every stage.
 
@@ -32,7 +32,7 @@ In contrast, here is a bottom-up explanation:
 
 A bottom-up explanation starts with examples, allowing the abstraction and generality to emerge out of concreteness and specificity.
 
-There are tradeoffs between these approaches, of course. Top-down explanations are useful within intellectual communities because they make it easier to build on prior abstractions. But data science is so interdisciplinary, and has so much contact with people outside the field, that bottom-up explanations are almost always best. 
+There are tradeoffs between these approaches, of course. Top-down explanations are useful within intellectual communities because they make it easier to build on prior abstractions. But data science is so interdisciplinary, and has so much contact with people outside the field, that bottom-up explanations are almost always best.
 
 The students put this insight to use by writing blog posts to explain technical data science concepts. Here are two examples of what they came up with:
 
