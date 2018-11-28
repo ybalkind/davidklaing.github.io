@@ -8,9 +8,20 @@ published: false
 
 {% include d3_example.html %}
 
-Some friends and I have been working my way through Michael Nielsen's excellent book, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/). One of the exercises in chapter 1 forced me to flex some math muscles that I haven't used in a long time, so I thought I would write up the answer that my friend Matthew helped me understand. The exercise is this:
+Some friends and I have been working my way through Michael Nielsen's excellent book, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/). One of the exercises in chapter 1 forced me to flex some math muscles that I haven't used in a long time, so I thought I would write up the answer that my friend Matthew helped me understand.
 
-> Prove that the choice of $\Delta v$ which minimizes $\nabla C \cdot \Delta v$ is $\Delta v = -\eta \nabla C$, where $\eta = \frac{\epsilon}{||\nabla C||}$ is determined by the size constraint, $\Delta v = \epsilon$. *Hint*: If you're not already familiar with the [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality), you may find it helpful to familiarize yourself with it.
+The exercise refers to Nielsen's explanation of gradient descent, an algorithm that finds the minimum of a multivariate loss function $C = f(v)$, where $v$ is a vector of model coefficients. In gradient descent, we vary $v$ one step at a time to move in the direction of $C$'s minimum. The challenge is this:
+
+> Prove that the choice of $\Delta v$ which minimizes $\nabla C \cdot \Delta v$ is $||\Delta v|| = -\eta \nabla C$, where $\eta = \frac{\epsilon}{||\nabla C||}$ is determined by the size constraint, $\Delta v = \epsilon$. *Hint*: If you're not already familiar with the [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality), you may find it helpful to familiarize yourself with it.
+
+A couple terms to wrap our heads around before we dive in:
+
+$\nabla C$ is the gradient of $C$. It's a vector of the partial derivatives of $C$ with respect to each of the variables that comprise $v$. It's to multi-variable calculus what the derivative is to single-variable calculus. Picture a tangent plane at the location where it's computed. The symbol $\nabla$ is the Greek letter *nabla*, but you can just pronounce $\nabla C$ as "grad C".
+
+$\Delta v$ is a vector representing the change in $v$ as we move from one point to the next. If $v = (1, 2)$ and $v' = (2, 3)$, then $\Delta v = (2-1, 3-2) = (1, 1)$. The symbol $\Delta$ is the Greek letter *delta*.
+
+$||\nabla C||$ and $||\Delta v||$ are the *norms* of $\nabla C$ and $\Delta v$, respectively. The norm of a vector is basically just its length, as computed by the Pythagoream theorem. If $v = (3, 4)$, then $||v|| = \sqrt{3^2+4^2} = 25$.
+
 
 The Cauchy-Schwarz Inequality basically just says that the length of the projection of one line on another can be at most as long as the product of the length of those two lines. In other words, the dot product of two vectors can't be bigger than the product of the lengths of those two vectors.
 
