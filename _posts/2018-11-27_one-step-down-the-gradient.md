@@ -6,15 +6,17 @@ categories: blog
 published: false
 ---
 
-{% include d3_example.html %}
+## The problem
 
 Some friends and I have been working my way through Michael Nielsen's excellent book, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/). One of the exercises in chapter 1 forced me to flex some math muscles that I haven't used in a long time, so I thought I would write up the answer that my friend Matthew helped me understand.
 
-The exercise refers to Nielsen's explanation of gradient descent, an algorithm that finds the minimum of a multivariate loss function $C = f(v)$, where $v$ is a vector of model coefficients. In gradient descent, we vary $v$ one step at a time to move in the direction of $C$'s minimum. The challenge is this:
+The exercise refers to Nielsen's explanation of gradient descent, an algorithm that finds the minimum of a loss function $C = f(v)$, where $v$ is a vector of model coefficients. In gradient descent, we vary $v$ one step at a time to move in the direction of $C$'s minimum. The challenge is this:
 
-> Prove that the choice of $\Delta v$ which minimizes $\nabla C \cdot \Delta v$ is $||\Delta v|| = -\eta \nabla C$, where $\eta = \frac{\epsilon}{||\nabla C||}$ is determined by the size constraint, $\Delta v = \epsilon$. *Hint*: If you're not already familiar with the [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality), you may find it helpful to familiarize yourself with it.
+> Prove that the choice of $\Delta v$ which minimizes $\nabla C \cdot \Delta v$ is $\Delta v = -\eta \nabla C$, where $\eta = \frac{\epsilon}{||\nabla C||}$ is determined by the size constraint, $||\Delta v|| = \epsilon$. *Hint*: If you're not already familiar with the [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality), you may find it helpful to familiarize yourself with it.
 
-A couple terms to wrap our heads around before we dive in:
+## Key terms
+
+A few terms to wrap our heads around before we dive in:
 
 $\nabla C$ is the gradient of $C$. It's a vector of the partial derivatives of $C$ with respect to each of the variables that comprise $v$. It's to multi-variable calculus what the derivative is to single-variable calculus. Picture a tangent plane at the location where it's computed. The symbol $\nabla$ is the Greek letter *nabla*, but you can just pronounce $\nabla C$ as "grad C".
 
@@ -22,12 +24,19 @@ $\Delta v$ is a vector representing the change in $v$ as we move from one point 
 
 $||\nabla C||$ and $||\Delta v||$ are the *norms* of $\nabla C$ and $\Delta v$, respectively. The norm of a vector is basically just its length, as computed by the Pythagoream theorem. If $v = (3, 4)$, then $||v|| = \sqrt{3^2+4^2} = 25$.
 
-
-The Cauchy-Schwarz Inequality basically just says that the length of the projection of one line on another can be at most as long as the product of the length of those two lines. In other words, the dot product of two vectors can't be bigger than the product of the lengths of those two vectors.
+The Cauchy-Schwarz Inequality essentially says that the length of the projection of one line on another can be at most as long as the product of the length of those two lines. In other words, the dot product of two vectors can't be bigger than the product of the lengths of those two vectors.
 
 $$|a \cdot b| <= ||a||||b||$$
 
-Subbing in $\nabla C$ and $\Delta v$, we get the following inequality:
+## The solution
+
+Let's start with the first part of the claim:
+
+> Prove that the choice of $\Delta v$ which minimizes $\nabla C \cdot \Delta v$ is $\Delta v = -\eta \nabla C$.
+
+Forgetting the size constraint for now, we'll just suppose that $\nabla$ is some constant. So, the claim is that to minimize the dot product $\nabla C \cdot \Delta v$ by replacing $\Delta v$, we need $\Delta v = -\eta \nabla C$. In other words, to minimize the dot product of a known vector and an unknown vector, we need the unknown vector to point in the opposite direction of the known vector. (Hence the negative.)
+
+This is just a property of the dot product! So that part isn't so interesting. The real challenge is to show that $\eta = \frac{\epsilon}{||\nabla C||}$, subject to the size constraint that $||\Delta v|| = \epsilon$. This is where the Cauchy-Schwarz inequality comes in handy. Since we're concerned with the dot product $\nabla C \cdot \Delta v$, the Cauchy-Schwarz inequality applies just as much to $\nabla C$ and $\Delta v$ as it would to $a$ and $b$. Subbing in $\nabla C$ and $\Delta v$, we get the following inequality:
 
 $$|\nabla C \cdot \Delta v| <= ||\nabla C|| ||\Delta v||$$
 
@@ -57,9 +66,9 @@ $$a \cdot a = \sum_ja_j^2$$
 
 If you think back to the Pythagorean theorem, the right-hand side of the above equation might look familiar. It's the square of the length of $a$!
 
-$$|a|=\sqrt{a_1^2+a_2^2 + ... + a_j^2}$$
+$$||a||=\sqrt{a_1^2+a_2^2 + ... + a_j^2}$$
 
-$$|a|=\sqrt{\sum_ja_j^2}$$
+$$||a||=\sqrt{\sum_ja_j^2}$$
 
 $$||a||^2=\sum_ja_j^2$$
 
@@ -75,4 +84,4 @@ And then we can rearrange to solve for $\eta$:
 
 $$\eta = \frac{\epsilon}{||\nabla C||}$$
 
-We've done it! We've shown that 
+We've done it! We've shown that if we want to constrain $\Delta v$ so that $||\Delta v|| = \epsilon$ and also minimize $\nabla C \cdot \Delta v$, then we need $\Delta v = -\eta\nabla C$.
