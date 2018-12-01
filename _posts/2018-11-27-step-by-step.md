@@ -95,4 +95,4 @@ We've done it! We've shown that if we want to constrain \\(\Delta v\\) so that \
 
 ------
 
-* Thanks to [this post](http://www.gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/) for helping me to figure out how to display inline LaTeX equations with Jekyll.
+* Thanks to [this post](http://www.gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/) and [this issue thread](https://github.com/mmistakes/minimal-mistakes/issues/735) for helping me to figure out how to display inline LaTeX equations with Jekyll.
