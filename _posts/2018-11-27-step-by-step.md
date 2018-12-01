@@ -29,7 +29,7 @@ We'll come back to this problem statement soon, but let's start by wrapping our 
 
 ### \\(\nabla C\\)
 
-\\(\nabla C\\) is the gradient of \\(C\\). It's a vector of the partial derivatives of \\(C\\) with respect to each of the variables that comprise \\(v\\). The gradient is to multi-variable calculus what the derivative is to single-variable calculus. Picture a tangent plane at the location where it's computed. The mathematical symbol \\(\nabla\\) is called *nabla*, but you can just pronounce \\(\nabla C\\) as "grad C".
+\\(\nabla C\\) is the gradient of \\(C\\). It's a vector of the partial derivatives of \\(C\\) with respect to each of the variables that comprise \\(v\\). The gradient is to multi-variable calculus what the derivative is to single-variable calculus. Picture a line on the \\(v_1\\)-\\(v_2\\) plane that is pointing in the direction of fastest increase along \\(C\\). The mathematical symbol \\(\nabla\\) is called *nabla*, but you can just pronounce \\(\nabla C\\) as "grad C".
 
 ### \\(\Delta v\\)
 
