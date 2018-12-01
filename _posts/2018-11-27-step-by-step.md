@@ -15,7 +15,7 @@ Some friends and I have been working our way through Michael Nielsen's excellent
 
 ## The problem
 
-The exercise refers to Nielsen's explanation of gradient descent, an algorithm that finds the minimum of a loss function \\(C = f(v)\\), where \\(\|v\|\\) is a vector of model coefficients. In gradient descent, we vary \\(v\\) one step at a time to move in the direction of \\(C\\)'s minimum. The challenge is this:
+The exercise refers to Nielsen's explanation of gradient descent, an algorithm that finds the minimum of a loss function \\(C = f(v)\\), where \\(\|\|v\|\|\\) is a vector of model coefficients. In gradient descent, we vary \\(v\\) one step at a time to move in the direction of \\(C\\)'s minimum. The challenge is this:
 
 > Prove that the choice of \\(\Delta v\\) which minimizes \\(\nabla C \cdot \Delta v\\) is \\(\Delta v = -\eta \nabla C\\), where \\(\eta = \frac{\epsilon}{\|\|\nabla C\|\|}\\) is determined by the size constraint, \\(\|\|\Delta v\|\| = \epsilon\\). *Hint*: If you're not already familiar with the [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality), you may find it helpful to familiarize yourself with it.
 
