@@ -4,7 +4,6 @@ title: KendRick LamaR
 description: Analysis of Kendrick Lamar's music and lyrics, using data from Spotify and Genius.
 categories: "blog"
 published: true
-feature: assets/img/kendrick/sentiment_plot.png
 ---
 
 Millions of people are listening to Kendrick Lamar's music, and many are analysing his lyrics too. On [Genius](https://genius.com/artists/Kendrick-lamar), a lyric annotation website, the songs on Kendrick's studio albums have over 70 million pageviews. Many of these songs have dozens of annotations, which are often refined by hundreds of contributors, including the Pulitzer-prize winning author [Michael Chabon](http://pitchfork.com/news/58421-kendrick-lamars-the-blacker-the-berry-gets-annotated-for-genius-by-pulitzer-winning-author-michael-chabon/).
@@ -26,24 +25,37 @@ Let's get started!
 
 One measure of this is the number of annotations for a given song. The only problem is that some songs have fewer lyrics than others, and no lyric can have more than one annotation. So, I used the number of annotations per word. 
 
-``` r
+```r
 # Read in the data.
-kendrick <- read.csv("../data/kendrick_data.csv")
+kendrick <- read_csv("../data/kendrick_data.csv")
 
 # Fix the factor levels for the albums.
-kendrick$album_name <- factor(kendrick$album_name, levels = c("Overly Dedicated", "Section.80", "good kid, m.A.A.d city", "To Pimp A Butterfly", "untitled unmastered.", "DAMN."))
+kendrick$album_name <- factor(
+  kendrick$album_name, 
+  levels = c(
+    "Overly Dedicated",
+    "Section.80",
+    "good kid, m.A.A.d city", 
+    "To Pimp A Butterfly", 
+    "untitled unmastered.", "DAMN."
+  )
+)
 
-# Remove Overly Dedicated (because it's technically a mixtape, not a studio album).
+# Remove Overly Dedicated (because it's technically a mixtape, 
+# not a studio album).
 kendrick <- kendrick %>% filter(album_name != "Overly Dedicated")
 
 # Fix the factor levels for the tracks.
-kendrick$track_name <- factor(kendrick$track_name, levels = as.character(kendrick$track_name))
+kendrick$track_name <- factor(
+  kendrick$track_name, 
+  levels = as.character(kendrick$track_name)
+)
 
 # Get the number of annotations per word.
 kendrick <- kendrick %>% mutate(ann_per_word = annotations/song_word_count)
 ```
 
-![](../assets/img/kendrick/annotation_plot.png)
+![](/assets/img/kendrick/annotation_plot.png)
 
 The data have offered up [For Free? - Interlude](https://genius.com/5047115) as the most analysed Kendrick Lamar song:
 
@@ -70,7 +82,7 @@ I wanted to know how musical and lyrical sentiment vary within and between Kendr
 
 Below is a plot of the valence of Kendrick's music across his studio albums.
 
-![](../assets/img/kendrick/valence_plot.png)
+![](/assets/img/kendrick/valence_plot.png)
 
 Kendrick fans will recognize many of these scores as vaguely correct, but several of them are not. For example, the highest-scoring song was [Blow My High (Members Only)](https://genius.com/Kendrick-lamar-blow-my-high-members-only-lyrics):
 
@@ -82,26 +94,27 @@ Kendrick fans will recognize many of these scores as vaguely correct, but severa
 
 While it's by no means a sad or even angry song, it doesn't reach emotional highs anywhere near what you'd expect from the Most Positive Song in Kendrick's career. I think it's fair to say that Spotify's valence variable is incomplete as a measure of overall sentiment. The main thing that is missing is the sentiment in the lyrics alone. I had to compute it myself.
 
-``` r
+```r
 # Change the text from factor to character.
 kendrick$lyrics <- as.character(kendrick$lyrics)
 
 # Get one word per row.
 tidy_kendrick <- kendrick %>% unnest_tokens(word, lyrics)
 
-# Remove stop words. (These are words like "the" and "a", which only carry syntactic meaning.)
+# Remove stop words. 
+# (These are words like "the" and "a", which only carry syntactic meaning.)
 cleaned_kendrick <- tidy_kendrick %>%
-        anti_join(stop_words)
+  anti_join(stop_words)
 
 # Get the sentiment of words in the Bing lexicon.
 bing <- get_sentiments("bing")
 
 # Get the sentiment across the tracks.
 kendrick_sentiment <- cleaned_kendrick %>%
-        inner_join(bing) %>%
-        count(track_name, sentiment) %>%
-        spread(sentiment, n, fill = 0) %>%
-        mutate(sentiment = (positive - negative)/(positive + negative))
+  inner_join(bing) %>%
+  count(track_name, sentiment) %>%
+  spread(sentiment, n, fill = 0) %>%
+  mutate(sentiment = (positive - negative)/(positive + negative))
 
 # Join the sentiment with the original dataset.
 kendrick <- inner_join(kendrick, kendrick_sentiment)
@@ -111,7 +124,7 @@ I joined the lyrics with the Bing lexicon — a list of words which are labelled
 
 Below I plot the lyrical sentiment across albums.
 
-![](../assets/img/kendrick/lyric_sent_plot.png)
+![](/assets/img/kendrick/lyric_sent_plot.png)
 
 Fans of Kendrick's music will recognize that many of the sentiment scores are in line with expectations. Happy songs like [LOVE. FEAT. ZACARI](https://genius.com/Kendrick-lamar-love-lyrics) and [Poetic Justice](https://genius.com/Kendrick-lamar-poetic-justice-lyrics) have high scores, and darker songs like [FEEL](https://genius.com/Kendrick-lamar-feel-lyrics) and [The Blacker the Berry](https://genius.com/Kendrick-lamar-the-blacker-the-berry-lyrics) have low scores.
 
@@ -141,24 +154,28 @@ That's another problem with this measure: in hip-hop, profanity isn't always int
 
 Still, my measure of lyrical sentiment usually captures the general mood of the lyrics. So, to get a more complete measure of the sentiment of each song, I converted the musical and lyrical sentiment scores to the same scale, then took the average between them.
 
-``` r
+```r
 # Transform the valence to the same scale as the sentiment.
-kendrick <- kendrick %>% mutate(valence = ((valence*2)-1))
+kendrick <- kendrick %>% 
+  mutate(valence = ((valence*2)-1))
 
 # Get a smarter measure of sentiment
-kendrick <- kendrick %>% mutate(smart_sentiment = (sentiment + valence)/2)
+kendrick <- kendrick %>% 
+  mutate(smart_sentiment = (sentiment + valence)/2)
 ```
 
 I think the resulting plot gives the best generalization of musical and lyrical sentiment:
 
-![](../assets/img/kendrick/sentiment_plot.png)
+![](/assets/img/kendrick/sentiment_plot.png)
 
 Proclamations about extreme positivity and negativity are now more rare, and I think they're more accurate. Here are the five most negative songs in Kendrick's discography:
 
-``` r
+```r
 kendrick %>%
-        select(track_name, smart_sentiment) %>%
-        arrange(smart_sentiment) %>% head(5) %>% kable()
+  select(track_name, smart_sentiment) %>%
+  arrange(smart_sentiment) %>% 
+  head(5) %>% 
+  kable()
 ```
 
 
@@ -173,10 +190,12 @@ kendrick %>%
 
 And here are the top five most positive songs:
 
-``` r
+```r
 kendrick %>%
-        select(track_name, smart_sentiment) %>%
-        arrange(desc(smart_sentiment)) %>% head(5) %>% kable()
+  select(track_name, smart_sentiment) %>%
+  arrange(desc(smart_sentiment)) %>% 
+  head(5) %>% 
+  kable()
 ```
 
 
@@ -196,16 +215,17 @@ Listen to any of these songs, and I think you'll at least agree with their class
 
 Now here's where things get interesting. I wanted to know which songs had the greatest *differences* between their musical sentiment and their lyrical sentiment. For example, I wanted to know which songs sound happy but have sad lyrics, or vice versa. I was also curious to know which songs had the *least* differences between musical and lyrical sentiment; these would be the most self-consistent, the least ironic. For each song, I took the absolute value of the difference between the two measures of sentiment:
 
-``` r
+```r
 # Get a measure of the difference between lyric sentiment and song valence.
-# This tells us which songs sound positive but are filled with especially negative
-# lyrics, or vice versa.
-kendrick <- kendrick %>% mutate(sent_val_dif = abs(valence - sentiment))
+# This tells us which songs sound positive but are filled with especially 
+# negative lyrics, or vice versa.
+kendrick <- kendrick %>% 
+  mutate(sent_val_dif = abs(valence - sentiment))
 ```
 
 With a little bit of trickery for the purposes of visualization (`sent_val_dif*sign(valence - sentiment)`), we can see which songs are especially consistent or especially inconsistent in one direction or the other:
 
-![](../assets/img/kendrick/sent_val_dif_plot.png)
+![](/assets/img/kendrick/sent_val_dif_plot.png)
 
 No Make-up was identified as being especially inconsistent in its sound and lyrics, as predicted. Another sad song with seemingly positive lyrics is [Real](https://genius.com/Kendrick-lamar-real-lyrics), in which Kendrick uses the word "love" 49 times:
 
@@ -223,17 +243,17 @@ The other interesting feature of the plot above is the songs that are the most s
 
 I tried plotting the number of pageviews on Genius against the absolute difference between musical and lyrical sentiment.
 
-![](../assets/img/kendrick/pageviews_plot.png)
+![](/assets/img/kendrick/pageviews_plot.png)
 
 On the left side of the graph, you see songs with small differences between musical and lyrical sentiment — the self-consistent songs. On the right side, you see songs with large differences — the positive songs with negative lyrics, and vice versa. The y-axis is the number of pageviews on Genius, which I think is a decent measure of popularity. (To visit a song's page, not only would somebody usually have to know the song, but they would usually like it enough to wonder what the lyrics mean. I would like to see how this compares with the song's playcount on Spotify, but unfortunately Spotify's API doesn't provide that information.)
 
 This looked like a pretty strong pattern to me, but if I was going to do a fair test of my hypothesis, I realized that I should log-transform the pageviews to get more consistent dispersion. (If you click the plot, you can see an interactive version to find out which song is which.)
 
-[![](../assets/img/kendrick/log_pageviews_plot.png)](https://laingdk.shinyapps.io/kendrick_pageview_plot/){:target="_blank"}
+[![](/assets/img/kendrick/log_pageviews_plot.png)](https://laingdk.shinyapps.io/kendrick_pageview_plot/){:target="_blank"}
 
 It still looked to me like I had found a clear pattern, so I tried fitting a linear model to see if there is a statistically significant effect. I controlled for the album, which is important for two main reasons. Firstly, some albums have better reputations than others, which could draw in additional pageviews for a given song. Secondly, some albums are older than others, which means those pages have had more time to gather pageviews. So, controlling for the album controls for both the reputation of a given cluster of songs and their time period. For the stats geeks, here are the results of my model:
 
-``` r
+```r
 fit <- lm(log(pageviews) ~ sent_val_dif + album_name, kendrick)
 summary(fit)
 ```
@@ -273,28 +293,31 @@ To get a brief glimpse of the themes across Kendrick's albums, I computed someth
 
 So, tf-idf tells us which words appear frequently in some songs but not so much in others. If a word is barely used in any of the songs, then it will have a low tf-idf. Similarly, if a word shows up in *many* of the songs, then it will have a low tf-idf. What counts is whether it shows up consistently in one set of documents but not all the others. Here is how the tf-idf is computed:
 
-``` r
+```r
 # Get the word counts for each album.
-album_word_counts <- kendrick %>% group_by(album_name) %>% summarise(word_count = sum(song_word_count))
+album_word_counts <- kendrick %>% 
+  group_by(album_name) %>% 
+  summarise(word_count = sum(song_word_count))
 
 # Get the word counts for each track.
 word_counts <- tidy_kendrick %>%
-        select(album_name, track_number, track_name, word) %>% 
-        anti_join(stop_words) %>%
-        count(album_name, track_number, track_name, word, sort = TRUE) %>% 
-        ungroup() %>% 
-        left_join(album_word_counts)
+  select(album_name, track_number, track_name, word) %>% 
+  anti_join(stop_words) %>%
+  count(album_name, track_number, track_name, word, sort = TRUE) %>% 
+  left_join(album_word_counts)
 
 # Get the tf-idf
 album_words <- word_counts %>%
-        bind_tf_idf(word, album_name, n)
+  bind_tf_idf(word, album_name, n)
 
 # Look at the words with the highest tf-idf within good kid, m.A.A.d city.
 album_words %>%
-        filter(album_name == "good kid, m.A.A.d city") %>%
-        select(-word_count) %>%
-        arrange(desc(tf_idf)) %>% 
-        head() %>% select(album_name, track_name, word, tf_idf) %>% kable()
+  filter(album_name == "good kid, m.A.A.d city") %>%
+  select(-word_count) %>%
+  arrange(desc(tf_idf)) %>% 
+  head() %>% 
+  select(album_name, track_name, word, tf_idf) %>% 
+  kable()
 ```
 
 
@@ -308,16 +331,16 @@ album_words %>%
 | good kid, m.A.A.d city | Money Trees                               | bish   |  0.0035529|
 
 
-``` r
+```r
 # Reset the factor levels according to the tf-idf
 plot_albums <- album_words %>%
-        arrange(desc(tf_idf)) %>%
-        mutate(word = factor(word, levels = rev(unique(word))))
+  arrange(desc(tf_idf)) %>%
+  mutate(word = factor(word, levels = rev(unique(word))))
 ```
 
 <a name="link5"></a> Below you can see the words with the highest tf-idf for each album:
 
-![Representative words across Kendrick Lamar's discography](../assets/img/kendrick/album_top_words.png)
+![Representative words across Kendrick Lamar's discography](/assets/img/kendrick/album_top_words.png)
 
 I think all these word clouds are pretty cool, but the one for *good kid, m.A.A.d city* is especially rich with evocative words.
 
