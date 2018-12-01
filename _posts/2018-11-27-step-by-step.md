@@ -4,7 +4,12 @@ title: "Size-constrained gradient descent and the Cauchy-Schwarz inequality, exp
 description: An explanation of the relationship between the Cauchy-Schwarz inequality and gradient descent.
 categories: "blog"
 published: true
+mathjax: true
 ---
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 Some friends and I have been working our way through Michael Nielsen's excellent book, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/). One of the exercises in chapter 1 forced me to flex some math muscles that I haven't used in a long time, so I thought I would write up the answer that my friend [Matthew](https://twitter.com/mattyj612) helped me understand.
 
