@@ -67,7 +67,7 @@ Here's what it's asking, in slow motion:
 
 > Say we're at some location in \\(v\\), with a corresponding value for the loss function, \\(C\\). 
 > 
-> We know the gradient of \\(C\\) at this location, \\(\nabla C\\)—it's the tangent plane. 
+> We know the gradient of \\(C\\) at this location, \\(\nabla C\\)—it's the line that points in the direction of the fastest increase in \\(C\\). 
 > 
 > Say we want to vary \\(v\\) by some small amount so the projection of \\(\nabla C\\) on \\(\Delta v\\) is minimized. (Either make it really small and positive, or really big and negative.) 
 > 
