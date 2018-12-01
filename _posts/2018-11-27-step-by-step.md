@@ -25,7 +25,7 @@ We'll come back to this problem statement soon, but let's start by wrapping our 
 
 \\(C\\) is a function of a bunch of variables—the ones in \\(v\\). If the length of \\(v\\) were just 2, then you could picture \\(C\\) as a curve in 3 dimensions, like in the picture below (taken from Nielsen's book):
 
-![](/assets/img/step_by_step.png)
+![](/assets/img/step_by_step/curve.png)
 
 ### \\(\nabla C\\)
 
@@ -41,7 +41,7 @@ We'll come back to this problem statement soon, but let's start by wrapping our 
 
 $$a \cdot b = \sum_ja_jb_j$$
 
-Geometrically, the dot product is the length (and valence) of the projection of one vector on another.
+Geometrically, the dot product is the length (and valence) of the projection of one vector on another. As you can see in the [gif](http://wiki.roblox.com/index.php?title=File:Dot_product_projection.gif) below, the dot product is maximized when two lines point in the same direction, and it's minimized when they point in opposite directions:
 
 ![](/assets/img/step_by_step/dot_product_projection.gif)
 
