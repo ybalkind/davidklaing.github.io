@@ -2,8 +2,8 @@
 layout: post
 title: "Size-constrained gradient descent and the Cauchy-Schwarz inequality, explained step-by-step"
 description: An explanation of the relationship between the Cauchy-Schwarz inequality and gradient descent.
-categories: blog
-published: false
+categories: false
+published: true
 ---
 
 Some friends and I have been working our way through Michael Nielsen's excellent book, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/). One of the exercises in chapter 1 forced me to flex some math muscles that I haven't used in a long time, so I thought I would write up the answer that my friend Matthew helped me understand.
@@ -20,7 +20,7 @@ A few terms to wrap our heads around before we dive in:
 
 \\(\Delta v\\) is a vector representing the change in \\(v\\) as we move from one point to the next. If \\(v = (1, 2)\\) and \\(v' = (2, 3)\\), then \\(\Delta v = (2-1, 3-2) = (1, 1)\\). The symbol \\(\Delta\\) is the Greek letter *delta*.
 
-\\(\|\|\nabla C\|\|\\) and \\(\|\|\Delta v\|\|\\) are the *norms* of \\(\nabla C\\) and \\(\Delta v\\), respectively. The norm of a vector is basically just its length, as computed by the Pythagoream theorem. If \\(v = (3, 4)\\), then \\(\|\|v\|\| = \sqrt{3^2+4^2} = 25\\).
+\\(\|\|\nabla C\|\|\\) and \\(\|\|\Delta v\|\|\\) are the *norms* of \\(\nabla C\\) and \\(\Delta v\\), respectively. The norm of a vector is basically just its length, as computed by the Pythagoream theorem. If \\(v = (3, 4)\\), then \\(\|\|v\|\| = \sqrt{3^2+4^2} = 5\\).
 
 The Cauchy-Schwarz Inequality essentially says that the length of the projection of one line on another can be at most as long as the product of the length of those two lines. In other words, the dot product of two vectors can't be bigger than the product of the lengths of those two vectors.
 
@@ -32,7 +32,7 @@ Let's start with the first part of the claim:
 
 > Prove that the choice of \\(\Delta v\\) which minimizes \\(\nabla C \cdot \Delta v\\) is \\(\Delta v = -\eta \nabla C\\).
 
-Forgetting the size constraint for now, we'll just suppose that \\(\nabla\\) is some constant. So, the claim is that to minimize the dot product \\(\nabla C \cdot \Delta v\\)by replacing \\(\Delta v\\), we need \\(\Delta v = -\eta \nabla C\\). In other words, to minimize the dot product of a known vector and an unknown vector, we need the unknown vector to point in the opposite direction of the known vector. (Hence the negative.)
+Forgetting the size constraint for now, we'll just suppose that \\(\eta\\) is some constant. So, the claim is that to minimize the dot product \\(\nabla C \cdot \Delta v\\) by replacing \\(\Delta v\\), we need \\(\Delta v = -\eta \nabla C\\). In other words, to minimize the dot product of a known vector and an unknown vector, we need the unknown vector to point in the opposite direction of the known vector. (Hence the negative.)
 
 This is just a property of the dot product! So that part isn't so interesting. The real challenge is in the second part of the claim:
 

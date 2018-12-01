@@ -14,7 +14,7 @@ twitter_username: davidklaing
 github_username:  davidklaing
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 
 # Third-party services
 # just leave someone empty to disable it
