@@ -3,10 +3,10 @@ layout: post
 title: "Size-constrained gradient descent and the Cauchy-Schwarz inequality, explained step-by-step"
 description: An explanation of the relationship between the Cauchy-Schwarz inequality and gradient descent.
 categories: "blog"
-published: false
+published: true
 ---
 
-Some friends and I have been working our way through Michael Nielsen's excellent book, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/). One of the exercises in chapter 1 forced me to flex some math muscles that I haven't used in a long time, so I thought I would write up the answer that my friend Matthew helped me understand.
+Some friends and I have been working our way through Michael Nielsen's excellent book, [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/). One of the exercises in chapter 1 forced me to flex some math muscles that I haven't used in a long time, so I thought I would write up the answer that my friend [Matthew](https://twitter.com/mattyj612) helped me understand.
 
 ## The problem
 
@@ -16,15 +16,15 @@ The exercise refers to Nielsen's explanation of gradient descent, an algorithm t
 
 A few terms to wrap our heads around before we dive in:
 
-\\(\nabla C\\) is the gradient of \\(C\\). It's a vector of the partial derivatives of \\(C\\) with respect to each of the variables that comprise \\(v\\). It's to multi-variable calculus what the derivative is to single-variable calculus. Picture a tangent plane at the location where it's computed. The symbol \\(\nabla\\) is the Greek letter *nabla*, but you can just pronounce \\(\nabla C\\) as "grad C".
+\\(\nabla C\\) is the gradient of \\(C\\). It's a vector of the partial derivatives of \\(C\\) with respect to each of the variables that comprise \\(v\\). It's to multi-variable calculus what the derivative is to single-variable calculus. Picture a tangent plane at the location where it's computed. The mathematical symbol \\(\nabla\\) is called *nabla*, but you can just pronounce \\(\nabla C\\) as "grad C".
 
 \\(\Delta v\\) is a vector representing the change in \\(v\\) as we move from one point to the next. If \\(v = (1, 2)\\) and \\(v' = (2, 3)\\), then \\(\Delta v = (2-1, 3-2) = (1, 1)\\). The symbol \\(\Delta\\) is the Greek letter *delta*.
 
 \\(\|\|\nabla C\|\|\\) and \\(\|\|\Delta v\|\|\\) are the *norms* of \\(\nabla C\\) and \\(\Delta v\\), respectively. The norm of a vector is basically just its length, as computed by the Pythagoream theorem. If \\(v = (3, 4)\\), then \\(\|\|v\|\| = \sqrt{3^2+4^2} = 5\\).
 
-The Cauchy-Schwarz Inequality essentially says that the length of the projection of one line on another can be at most as long as the product of the length of those two lines. In other words, the dot product of two vectors can't be bigger than the product of the lengths of those two vectors.
+The Cauchy-Schwarz inequality essentially says that the length of the projection of one line on another can be at most as long as the product of the length of those two lines. In other words, the dot product of two vectors can't be bigger than the product of the lengths of those two vectors. [Here](https://www.youtube.com/watch?v=YL3DeTiBcoo) is a brief video about it.
 
-$$|a \cdot b| <= ||a||||b||$$
+$$|a \cdot b| \leq ||a||||b||$$
 
 ## The solution
 
