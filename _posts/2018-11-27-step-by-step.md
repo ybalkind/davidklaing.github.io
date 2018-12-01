@@ -141,7 +141,7 @@ $$\eta = \frac{\epsilon}{||\nabla C||}$$
 
 We've done it! We've shown that if we want to constrain \\(\Delta v\\) so that \\(\|\|\Delta v\|\| = \epsilon\\) and also minimize \\(\nabla C \cdot \Delta v\\), then we need \\(\Delta v = -\eta\nabla C\\).
 
-Why does this matter? Well, as far as I can tell, constraining the size of \\(\Delta v\\) is less practically important than constraining the size of \\(\nabla C \cdot \Delta v\\), which could be done by just choosing some really small constant, like 0.01, to multiply by \\(-\nabla C\\). But, this exercise still helped push me to review some linear algebra and calculus, and to understand some of the geometry behind gradient descent.
+Why does this matter? Well, as far as I can tell, constraining the size of \\(\Delta v\\) is less practically important than constraining the size of \\(\nabla C \cdot \Delta v\\), which could be done by just choosing some really small constant, like 0.01, to multiply by \\(-\nabla C\\). But, this exercise still helped push me to review some linear algebra and calculus, and to understand some of the geometry behind gradient descent. So I'm glad I worked through it.
 
 ------
 
