@@ -4,7 +4,6 @@ title: "Size-constrained gradient descent and the Cauchy-Schwarz inequality, exp
 description: An explanation of the relationship between the Cauchy-Schwarz inequality and gradient descent.
 categories: "blog"
 published: true
-mathjax: true
 ---
 
 <script type="text/javascript" async
