@@ -36,6 +36,8 @@ When developing a new data manipulation feature, your first instinct is to start
 
 ## 9. Use git shortcuts.
 
+## 10. Use lists.
+
 Optimize screen space by changing the default layouts of the RStudio panes.
 
 Use devtools to set up your package. Rather than using `check()`, which is slow, use `test()` to run all your tests, and `document()` to regenerate documentation. Once you've set up continuous integration, you can run `check()` in the cloud and get back to work.
