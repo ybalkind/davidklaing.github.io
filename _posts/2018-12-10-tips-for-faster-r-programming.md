@@ -40,6 +40,8 @@ When developing a new data manipulation feature, your first instinct is to start
 
 Optimize screen space by changing the default layouts of the RStudio panes.
 
+
+
 Use devtools to set up your package. Rather than using `check()`, which is slow, use `test()` to run all your tests, and `document()` to regenerate documentation. Once you've set up continuous integration, you can run `check()` in the cloud and get back to work.
 
 90% of the documentation you read is for the tools you use. But 90% of the documentation you write is for the systems you build. Tools and systems require different types of documentation.
