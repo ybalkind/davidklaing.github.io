@@ -2,7 +2,7 @@
 layout: post
 title: "My laptop setup"
 description: 
-categories: "reference"
+categories: "reference", "blog"
 published: true
 ---
 
