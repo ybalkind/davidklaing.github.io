@@ -13,6 +13,8 @@ Inspired by [Andy Matuschak's post](http://blog.andymatuschak.org/post/169043084
 
 An app that allows you to do certain things on your smartphone only if certain conditions are met. Say you want to spend less time looking at Instagram and more time messaging reaching out to old friends who live in other cities. The app would allow you to go on Instagram only if you've messaged one of those friends in the past 30 minutes. Rather than if-this-then-that, it would be if-not-this-then-not-that.
 
+Another example usage: force me to write a daily to-do list (or satisfy some other condition) in order to fully unlock my phone in the morning.
+
 ### Goodreads <-> public library account
 
 Connect Goodreads account to public library account; see which items on your "to read" list are currently available at your local branch.
