@@ -2,11 +2,11 @@
 layout: post
 title: "My laptop setup"
 description: 
-categories: "blog"
-published: false
+categories: "reference"
+published: true
 ---
 
-After setting myself up on three laptops in the space of two years, I figured it was time to write this all down. [Mike Gelbart's setup](https://github.com/mgelbart/misc/blob/master/laptop_setup.md) has been useful to me, so maybe mine will be useful to you.
+After setting myself up on four laptops in the space of two years, I figured it was time to write this all down. [Mike Gelbart's setup](https://github.com/mgelbart/misc/blob/master/laptop_setup.md) has been useful to me, so maybe mine will be useful to you.
 
 ## macOS preferences
 
@@ -114,7 +114,7 @@ git config --global alias.ci commit
 git config --global alias.st status
 ```
 
-### Set up tab completion for git branches:
+### Set up tab completion for git branches.
 
 ```
 curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash
@@ -140,12 +140,18 @@ Run `chmod -X ~/.git-completion.bash`, and restart iTerm2.
 - Bottom left: `History`
 - Bottom right: everything else
 
-### Add a margin line
+### Add a margin line.
 
 - `Preferences` → `Code` → `Display`
 - Check `Show margin`
 
-###  Set up keyboard shortcuts
+### Remove the default to save `.RData`.
+
+- `Preferences` → `General`
+- Uncheck `Restore .RData into workspace at startup`
+- Change `Save workspace to .RData on exit` to `Never`
+
+### Set up keyboard shortcuts.
 
 - `Preferences` → `Code` → `Editing` → `Modify Keyboard Shortcuts`
 - Open Previous Tab: `Alt+Cmd+Left`
@@ -154,7 +160,7 @@ Run `chmod -X ~/.git-completion.bash`, and restart iTerm2.
 - Move focus to console: `Cmd+2`
 - Move focus to terminal: `Cmd+3`
 
-### Custom snippets
+### Create custom snippets.
 
 - `Preferences` → `Code` → `Edit Snippets`
 - Add these:
@@ -168,3 +174,44 @@ snippet pprint
 ```
 
 ## Jekyll
+
+### [Install rbenv](https://jekyllrb.com/docs/installation/macos/) 
+
+(So you don't have to alter the version of Ruby that comes with Mac.)
+
+```
+# Install rbenv and ruby-build
+brew install rbenv
+
+# Setup rbenv integration to your shell
+rbenv init
+
+# Check your install
+curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-doctor | bash
+
+# Install a new version of Ruby
+rbenv install 2.5.3
+rbenv global 2.5.3
+ruby -v
+```
+
+### Install Jekyll
+
+[This post was useful](http://kbroman.org/simple_site/pages/local_test.html), as was [this issue comment](https://github.com/bundler/bundler/issues/1767#issuecomment-4787059).
+
+```
+gem install bundler
+bundle install
+```
+
+To build a site:
+
+```
+bundle exec jekyll build
+```
+
+To test it locally:
+
+```
+bundle exec jekyll serve
+```
