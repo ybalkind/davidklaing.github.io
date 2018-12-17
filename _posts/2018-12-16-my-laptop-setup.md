@@ -2,7 +2,7 @@
 layout: post
 title: "My laptop setup"
 description: Links and instructions for setting up a laptop just how I like it.
-categories: "reference", "blog"
+categories: "blog"
 published: true
 ---
 
