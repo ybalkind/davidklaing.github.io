@@ -11,20 +11,23 @@ After setting myself up on four laptops in the space of two years, I figured it 
 ## macOS preferences
 
 1. Enable tap to click.
-	- `System Preferences` → `Trackpad`
-	- Check `Tap to click`
+  - `System Preferences` → `Trackpad`
+  - Check `Tap to click`
 2. Set mouse speed to maximum.
-	- `System Preferences` → `Trackpad`
-	- Set `Tracking Speed` to `Fast`
+  - `System Preferences` → `Trackpad`
+  - Set `Tracking Speed` to `Fast`
 3. Enable 3-finger drag.
-	- `System Preferences` → `Trackpad` → `Accessibility`→ `Mouse & Trackpad` → `Trackpad Options` 
-	- Check `Enable dragging` with `three finger drag`
+  - `System Preferences` → `Trackpad` → `Accessibility`→ `Mouse & Trackpad` → `Trackpad Options` 
+  - Check `Enable dragging` with `three finger drag`
 4. Configure hot corners. 
-	- `System Preferences` → `Trackpad` → `Hot Corners`
-	- Top left: `Desktop`
-	- Top right: `Mission Control`
-	- Bottom left: `Put Display to Sleep`
-	- Bottom right: `Launchpad`
+  - `System Preferences` → `Trackpad` → `Hot Corners`
+  - Top left: `Desktop`
+  - Top right: `Mission Control`
+  - Bottom left: `Put Display to Sleep`
+  - Bottom right: `Launchpad`
+5. Turn on Night Shift.
+   - `System Preferences` → `Displays` → `Night Shift`
+   - Set schedule to `Sunset to Sunrise`
 
 ## Installations
 
@@ -35,15 +38,12 @@ After setting myself up on four laptops in the space of two years, I figured it 
 5. [Quicksilver](https://qsapp.com/)
 6. [iTerm2](https://www.iterm2.com/)
 7. [Homebrew](https://brew.sh/)
-8. [f.lux](https://justgetflux.com/) `brew cask install flux`
-9. [R](https://cran.rstudio.com/bin/macosx/)
-10. [RStudio](https://www.rstudio.com/products/rstudio/download/)
-11. [Anaconda](https://www.anaconda.com/download/#macos)
-12. [MacDown](https://macdown.uranusjr.com/)
-	- `Preferences` → `Rendering`
-	- Check `TeX-like math syntax`
-13. [Atom](https://atom.io/)
-14. [Spotify](https://www.spotify.com/ca-en/download/other/)
+8. [R](https://cran.rstudio.com/bin/macosx/)
+9. [RStudio](https://www.rstudio.com/products/rstudio/download/)
+10. [Anaconda](https://www.anaconda.com/download/#macos)
+11. [Typora](https://typora.io/)
+12. [Visual Studio Code](https://code.visualstudio.com/)
+13. [Spotify](https://www.spotify.com/ca-en/download/other/)
 
 ## iTerm2 configurations
 
@@ -58,12 +58,11 @@ After setting myself up on four laptops in the space of two years, I figured it 
 
 Put the following in `.bash_profile`:
 
-```
-alias macdown="open -a macdown"
-alias rstudio="open -a rstudio"
-alias slack="open -a slack"
-alias atom="open -a atom"
-alias preview="open -a preview"
+```bash
+alias tp="open -a typora"
+alias rst="open -a rstudio"
+alias vs="open -a 'visual studio code'"
+alias prev="open -a preview"
 ```
 
 ## SSH
@@ -74,7 +73,7 @@ alias preview="open -a preview"
 
 Then add the following to `~/.ssh/config`:
 
-```
+```bash
 Host *
   UseKeychain yes
   AddKeysToAgent yes
@@ -85,7 +84,7 @@ Host *
 
 ### Configure my user.
 
-```
+```bash
 git config --global user.name "David Laing"
 git config --global user.email davidkendalllaing@gmail.com
 ```
@@ -96,7 +95,7 @@ git config --global user.email davidkendalllaing@gmail.com
 
 Put this in it:
 
-```
+```bash
 .DS_Store
 .ipynb_checkpoints
 .Trashes
@@ -107,7 +106,7 @@ __pycache__
 
 ### Set up git aliases.
 
-```
+```bash
 git config --global alias.co checkout
 git config --global alias.br branch
 git config --global alias.ci commit
@@ -116,13 +115,13 @@ git config --global alias.st status
 
 ### Set up tab completion for git branches.
 
-```
+```bash
 curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash
 ```
 
 Add this to `.bash_profile`:
 
-```
+```bash
 if [ -f ~/.git-completion.bash ]; then
   . ~/.git-completion.bash
 fi
@@ -165,7 +164,7 @@ Run `chmod -X ~/.git-completion.bash`, and restart iTerm2.
 - `Preferences` → `Code` → `Edit Snippets`
 - Add these:
 
-```
+```R
 snippet pview
 	{View(.); .}
 
@@ -179,7 +178,7 @@ snippet pprint
 
 (So you don't have to alter the version of Ruby that comes with Mac.)
 
-```
+```bash
 # Install rbenv and ruby-build
 brew install rbenv
 
@@ -199,19 +198,19 @@ ruby -v
 
 [This post was useful](http://kbroman.org/simple_site/pages/local_test.html), as was [this issue comment](https://github.com/bundler/bundler/issues/1767#issuecomment-4787059).
 
-```
+```bash
 gem install bundler
 bundle install
 ```
 
 To build a site:
 
-```
+```bash
 bundle exec jekyll build
 ```
 
 To test it locally:
 
-```
+```bash
 bundle exec jekyll serve
 ```
