@@ -16,9 +16,9 @@ The first approach is to **embrace** the asymmetry. The best things in life come
 
 Here are some tweets I've seen recently that express embracer views:
 
-https://twitter.com/mmay3r/status/1074406570560114688
+{% twitter https://twitter.com/mmay3r/status/1074406570560114688 %}
 
-https://twitter.com/jockowillink/status/1072515326280155136
+{% twitter https://twitter.com/jockowillink/status/1072515326280155136 %}
 
 ## Equalizers
 
@@ -26,6 +26,6 @@ The second approach is to **equalize** the asymmetry. The greater the difference
 
 Here are some tweets I've seen recently that express equalizer views:
 
-https://twitter.com/naval/status/1074571095984861184
+{% twitter https://twitter.com/naval/status/1074571095984861184 %}
 
-https://twitter.com/JamesClear/status/1062349474591395840
+{% twitter https://twitter.com/JamesClear/status/1062349474591395840 %}
