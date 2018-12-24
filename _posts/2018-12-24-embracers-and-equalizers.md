@@ -3,7 +3,7 @@ layout: post
 title: "Embracers and equalizers"
 description: Two schools of thought on how best to address the asymmetry between present and future desires.
 categories: "blog"
-published: false
+published: true
 ---
 
 One of the main topics in productivity and self-improvement is the asymmetry between present and future desires. On one side of the asymmetry, enjoying the present often costs you a harder future: ice cream tastes great now, but it makes you unhealthy later. On the other side, an easier future often costs you a less decadent present: you can enjoy good health, but only if you don't eat too much ice cream.
@@ -39,8 +39,8 @@ The fittest people love the pursuit of fitness, not fitness itself.<br/><br/>The
 
 Everyone is probably a little bit of both. It's hard to see value in pointless suffering or wasted effort, so there aren't many pure embracers. And life is too messy to be completely intolerant of unpleasantness, so there aren't many pure equalizers.
 
-Still, I think it's helpful to know that the two styles exist, especially if you're still in the process of establishing the patterns of your life. There is a *lot* of advice out there, and it will buffet you around if you don't recognize that it comes from two distinct mindsets.
+Still, I think it's helpful to know that the two styles exist, especially if you're still in the process of establishing the patterns of your life. There's a lot of advice out there, and it will buffet you around if you don't recognize that most of it comes from one or the other mindset.
 
-I also think it's useful to understand which of the two styles suits you better. While there are pros and cons to both, it seems to me that the most productive people I know are those who could most readily identify their style. Perhaps by committing to one, you can spend less time second-guessing your decisions and more time building toward a better future.
+I also think it's useful to understand which of the two styles suits you better. While there are pros and cons to each, it seems to me that the most productive people I know are those who could most readily identify their style. Perhaps by committing to one, you waste less time second-guessing your decisions and more time building toward a better future. When embracers are faced with something unpleasant, they already know what to do: face it. When equalizers are faced with something unpleasant, they already know what to do: eliminate it. It's only the people who don't know their style who get stuck in loops of fruitless strategizing or passive self-disparagement. 
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
