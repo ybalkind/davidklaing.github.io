@@ -1,31 +1,44 @@
 ---
 layout: post
-title: "Two attitudes toward willpower"
-description: An open question
+title: "Embracers and equalizers"
+description: Two schools of thought on how best to address the asymmetry between present and future desires.
 categories: "blog"
 published: false
 ---
 
-One of the main topics in productivity and self-improvement is the asymmetry between present and future utilities. On one side of the asymmetry, enjoying the present often costs you a harder future: ice cream tastes great now, but it makes you fat later. On the other side, an easier future often costs you a less decadent present: you can stay slim, but only if you don't eat too much ice cream.
+One of the main topics in productivity and self-improvement is the asymmetry between present and future desires. On one side of the asymmetry, enjoying the present often costs you a harder future: ice cream tastes great now, but it makes you unhealthy later. On the other side, an easier future often costs you a less decadent present: you can enjoy good health, but only if you don't eat too much ice cream.
 
-I noticed recently that there are two main schools of thought about how to address this asymmetry, so I'm giving them names.
+I noticed recently that there are two schools of thought about how to address this asymmetry, and I've started referring to them as "embracers" and "equalizers".
 
-## Embracers
+### Embracers
 
-The first approach is to **embrace** the asymmetry. The best things in life come from effort, so get used to being effortful. Train yourself to tolerate suffering in the present so that you can enjoy a better future. The less you indulge, the stronger you become. Swim upstream.
+*Embrace the asymmetry between present and future.*
+
+The core tenet of this view is that the best way to make things easy in the long term is to consistently choose the hard way in the short term. Embracers see unpleasantness as a good sign. It makes you stronger, and should be designed *into* the rhythm of your life.
 
 Here are some tweets I've seen recently that express embracer views:
 
-{% twitter https://twitter.com/mmay3r/status/1074406570560114688 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Most productivity problems are symptoms of just not trying hard enough.</p>&mdash; Michael (@mmay3r) <a href="https://twitter.com/mmay3r/status/1074406570560114688">December 16, 2018</a></blockquote>
 
-{% twitter https://twitter.com/jockowillink/status/1072515326280155136 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Aftermath.<br/>Nope.<br/>I didn’t feel like doing this today.<br/>SO I DID.</p>&mdash; Jocko Willinck (@jockowillink) <a href="https://twitter.com/jockowillink/status/1072515326280155136">December 11, 2018</a></blockquote>
 
-## Equalizers
+### Equalizers
 
-The second approach is to **equalize** the asymmetry. The greater the difference between what you should do and what you want to do, the less you will do what you should. Make your investments more pleasurable and your indulgences less costly. Redirect the flow, then go with it.
+*Equalize the asymmetry between present and future.*
+
+The core tenet of this view is that the best way to make things easy in the long term is to make your investments more enjoyable and your indulgences less costly. Equalizers see unpleasantness as a bad sign. It saps your energy, and should be designed *out* of the rhythm of your life.
 
 Here are some tweets I've seen recently that express equalizer views:
 
-{% twitter https://twitter.com/naval/status/1074571095984861184 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“It is incorrect to believe that top athletes suffer great sacrifices to achieve their goals. Often, they don’t see what they do as sacrificial at all. They like it.”</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1074571095984861184">December 16, 2018</a></blockquote>
 
-{% twitter https://twitter.com/JamesClear/status/1062349474591395840 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Paradoxically, the people who have the results that so many desire don’t actually care much about it.<br/><br/>
+The fittest people love the pursuit of fitness, not fitness itself.<br/><br/>The smartest people love the pursuit of knowledge, not showing off.</p>&mdash; James Clear (@JamesClear) <a href="https://twitter.com/JamesClear/status/1062349474591395840">November 13, 2018</a></blockquote>
+
+### So what?
+
+Everyone is probably a little bit of both. It's hard to see value in pointless suffering or wasted effort, so there aren't many pure embracers. And life is too messy to be completely intolerant of unpleasantness, so there aren't many pure equalizers.
+
+Still, I wonder whether it's helpful to figure out which of the two styles suits you better. While there are pros and cons to both, my impression of the people I know is that those who could more readily identify their style are the more productive. Perhaps by committing to a style, you can spend less time second-guessing your decisions and more time building a better future.
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
