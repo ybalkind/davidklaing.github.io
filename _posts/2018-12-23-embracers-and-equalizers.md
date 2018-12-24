@@ -39,6 +39,8 @@ The fittest people love the pursuit of fitness, not fitness itself.<br/><br/>The
 
 Everyone is probably a little bit of both. It's hard to see value in pointless suffering or wasted effort, so there aren't many pure embracers. And life is too messy to be completely intolerant of unpleasantness, so there aren't many pure equalizers.
 
-Still, I wonder whether it's helpful to figure out which of the two styles suits you better. While there are pros and cons to both, it seems to me that the most productive people I know are those who could most readily identify their style. Perhaps by committing to one, you can spend less time second-guessing your decisions and more time building toward a better future.
+Still, I think it's helpful to know that the two styles exist, especially if you're still in the process of establishing the patterns of your life. There is a *lot* of advice out there, and it will buffet you around if you don't recognize that it comes from two distinct mindsets.
+
+I also think it's useful to understand which of the two styles suits you better. While there are pros and cons to both, it seems to me that the most productive people I know are those who could most readily identify their style. Perhaps by committing to one, you can spend less time second-guessing your decisions and more time building toward a better future.
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
