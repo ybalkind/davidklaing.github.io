@@ -108,6 +108,12 @@ Liked:
 
 ## TV Shows
 
+### Released in 2018
+
+Loved:
+
+- [James Acaster: Repertoire](https://www.imdb.com/title/tt7818686/)
+
 ### Loved in 2018; released earlier
 
 - [Fargo](https://www.imdb.com/title/tt2802850)
