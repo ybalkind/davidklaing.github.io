@@ -2,7 +2,7 @@
 layout: post
 title: "Favourite media of 2018"
 description: Lists of books, articles, podcast episodes, videos, albums, movies, and shows that I liked or loved in 2018
-categories: "blog"
+categories: "blog media"
 published: true
 ---
 
