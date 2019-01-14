@@ -10,7 +10,7 @@ In an episode of the North Star Podcast with David Perrell, the software entrepr
 
 I heard this a few weeks before the New Year, and got to thinking about which habits I might wish to develop or break in 2019. I found the perfect companion to this reflection in James Clear's new book, [Atomic Habits: An Easy and Proven Way to Break Bad Habits & Build Good Ones](https://www.goodreads.com/book/show/40121378-atomic-habits).
 
-The motivating idea behind the book is that habits are the compound interest of behaviour. Get 1% better each day and you'll rarely notice a change on any given day, but by the end of a year you will be 38% better than when you started. ($1.01^{365} = 37.8$.) It's often not possible or useful to try to quantify your skill level—maybe you just want to remember to floss—but the insight is that huge long-term differences can be born from barely perceptible short-term differences. Hence, *atomic* habits: the building blocks of a better future.
+The motivating idea behind the book is that habits are the compound interest of behaviour. Get 1% better each day and you'll rarely notice a change on any given day, but by the end of a year you will be 38% better than when you started. ($1.01^{365} = 37.8$.) It's often not possible or useful to try to quantify your skill level—maybe you just want to remember to floss—but the insight is that huge long-term differences can be born from barely perceptible but consistent short-term differences. Hence, *atomic* habits: the building blocks of a better future.
 
 Clear explains that all habits, good or bad, play out in four stages:
 
@@ -19,7 +19,7 @@ Clear explains that all habits, good or bad, play out in four stages:
 3. The **response**. You perform an action. You pick up a cookie and bite into it.
 4. The **reward**. You experience pleasure as your desire is satisfied. Your taste buds send gushing thank-you notes up to your brain.
 
-Each stage of this cycle is a lever you can pull. To build a good habit, pull them one way; to break a bad one, pull them the other way. This is the essence of Clear's method.
+Each stage of this cycle is a lever you can pull to influence your behaviour. To build a good habit, pull them one way; to break a bad one, pull them the other way. This is the essence of Clear's method.
 
 | Stage    | To build a good habit | To break a bad one   |
 | -------- | --------------------- | -------------------- |
@@ -28,31 +28,49 @@ Each stage of this cycle is a lever you can pull. To build a good habit, pull th
 | Response | Make it easy          | Make it hard         |
 | Reward   | Make it satisfying    | Make it unsatisfying |
 
-The book is broken into four sections, one for each stage of the habit cycle. Each chapter begins with a short vignette about a historical figure, and then dives into a related piece of advice. If you've done some thinking or reading about habit formation before, then some of these chapters might be about ideas you're familiar with already; this was the case for me. However, even if you feel like you know the landscape well, I expect that you would find at least one actionable idea in the book. For the rest of this post, I'll describe the ideas that I've implemented myself.
+The book is broken into four sections, one for each stage of the habit cycle. Each chapter begins with a short vignette about a historical figure, and then dives into a related piece of advice. If you've done some thinking or reading about habit formation before, then you might be familiar with many of these ideas already. This was the case for me. However, even if you feel like you know the landscape well, I think you would find at least one actionable idea in the book. For the rest of this post, I'll describe the ideas that I've implemented myself since reading it.
 
-### Habit stacking
+#### Habit stacking
 
 One of the easiest ways to build a new habit is to attach it to an existing one. By resolving to perform a new behaviour after another that is already occuring, you turn the existing habit's reward into the new habit's cue; you make it obvious. After enough repetitions, the new habit is woven right into your life.
 
-Last year I developed a stable habit of doing push-ups and kettlebell swings after every 25-minute work block throughout my workday. When I read about habit stacking, I recognized an opportunity to use these existing habits as foundations for a new one I've been meaning to develop: drinking more water. Now, every time I do my push-ups and kettlebell swings, I drink a small glass of water. It's fair to say that I'm better hydrated than ever before.
+Last year I developed a stable habit of doing push-ups and kettlebell swings after every 25-minute work block throughout my workday. When I read about habit stacking, I recognized an opportunity to use these existing habits as foundations for a new one I've been meaning to develop: drinking more water. Now, every time I do my push-ups and kettlebell swings, I drink a small glass of water. I'm as hydrated as ever.
 
-### Implementation intentions
+#### Implementation intentions
 
-A study found that between two treatment groups who made to-do lists, the people in one group accomplished many more tasks than those in the other. It was the people who were told to include with each task the time and location when they intended to complete it. They created an *implementation intention*. This is another way to make a behaviour more obvious.
+A study found that between two treatment groups who made to-do lists, the people in one group accomplished many more tasks than those in the other. It was the people who were told to include with each task the time and location when they intended to complete it. They created an *implementation intention*. This is another way to make a behaviour more obvious, because it associates the action with a context that can be perceived as the cue.
 
-I've started writing down implementation intentions every time I add an item to my to-do list. Instead of *Call the bank to order a new debit card*, it's *Call the bank to order a new debit card in the living room on Saturday morning*. While there are still plenty of overdue tasks on my to-do list, this new habit of writing down where and when I intend to complete each task seems to have greatly increased the probability that I'll actually do them.
+I've started writing down implementation intentions every time I add an item to my to-do list. Instead of *Call the bank to order a new debit card*, it's *Call the bank to order a new debit card in the living room on Saturday morning*. While there are still plenty of overdue tasks on my to-do list, this new habit of writing down where and when I intend to complete each task seems to have increased the probability that I'll actually do them.
 
-### Priming a space for its next use
+#### Prime your environment
 
-Another way to make a behaviour easy is to arrange the space where that behaviour will occur 
+I first learned the value of this lesson three years ago when I lived in a tiny coach house in Welland, Ontario. I had always struggled to get out of bed on time, but I was teaching courses of my own for the first time and couldn't afford to be late for class. So I came up with a solution. Each night before bed I prepared my stovetop espresso maker and put it on the stove, alongside a clearn mug and my phone (my alarm). When my alarm started ringing, I had to get out of bed and walk over to the stove to turn it off. Immediately, I would turn on the stove element and go back to bed for a snooze. Ten minutes later I would be woken again by the gurgling of the espresso, as well as the fear that it would boil over if I didn't get up to turn off the element. My reward for solving that problem was a fresh cup of coffee. Ever since then I've been completely cured of my snoozing habit, even after living in places where the stove is too far from the bed to pull off the espresso trick.
 
-### Make it small
+As Clear explains, priming your environment for its next use is a great way to make a desirable behaviour more obvious as well as easier. After reflecting on this, I've been experimenting with a few changes:
 
+- Pumping up my bike tires as soon as I get home from my evening bike commute. (This makes it easier to choose my bike the next day.)
+- Repacking my gym bag as soon as I get home from the gym. (This makes it easier to get out for a work-out whenever I feel like it.)
+- Filling up a big water jug next to my desk at the end of each work day. (This makes it easier to stay hydrated the next day. Note that putting the water jug there also makes my drinking habit more obvious.)
+- Placing a novel on my pillow after making my bed each morning. (I'm trying to build the habit of reading fiction before bed because I find it helps me sleep.)
 
+#### Make it small
 
-### Automate it
+I've used one or another habit tracker for about four years now, and I've just about settled on [TaskLife](https://play.google.com/store/apps/details?id=uk.amimetic.tasklife&hl=en) as my favourite. I define a list of behaviours, and each day the app asks me whether I've done them. But the beauty is that I can choose the frequency at which I want to perform each task, as well as a time period over which to calculate that frequency. It's like Andy Matuschak's system of [smoothly ratcheting targets with teeth](http://blog.andymatuschak.org/post/169043084412/successful-habits-through-smoothly-ratcheting), minus a bit of smoothness and all the teeth.
 
+The most common reason that I've failed to hit my target frequency has been the size of my tasks—they have been too hard. For example, it's often hard to find the time and motivation for one full hour of writing, so I would often skip that habit. I had recognized this as a problem before reading *Atomic Habits* and had made some changes, like changing 60 minutes of writing to 10. But Clear offered many examples of ways to break down a complex or challenging behaviour into a task that can be completed in under two minutes. Since getting started is by far the hardest part, I decided to change all my habits in TaskLife to 2-minutes-or-under tasks as a way of making it easier to spend time on the things that matter to me. Here is the current list of questions that TaskLife asks me each morning about my previous day, along with the frequency at which I aim to complete those tasks over a rolling window of 21 days:
 
+- Did you study at least one flashcard? (70%)
+- Did you read at least one page of fiction? (70%)
+- Did you write at least one sentence? (55%)
+- Did you read at least one [Pocket](https://getpocket.com) article? (50%)
+- Did you play at least one chord on the guitar? (50%)
+- Did you write at least one sentence in your journal? (50%)
+- Were you in bed by 9:30pm? (50%)
+- Did you send at least one message to a friend? (50%)
+- Did you read at least one page of nonfiction? (40%)
+- Did you walk through the doors of the gym? (25%)
+
+#### Automate it
 
 Useful concepts to share:
 
