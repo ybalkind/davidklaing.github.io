@@ -72,20 +72,6 @@ The most common reason that I've failed to hit my target frequency has been the 
 
 #### Automate it
 
-Useful concepts to share:
+Lastly, the easiest way to make a task easier is to delegate it to a machine. As a data scientist, I have obviously implemented this one before too. I've automated my health insurance payments, my donations to charity, my bus pass top-ups, my [memorization efforts](https://apps.ankiweb.net/), my [sleep tracking, my exercise tracking](https://www.fitbit.com), and my rebalancing calculations in my investment accounts. But there are still more opportunities to automate, and Clear's chapter on the subject got me to reflect on what else I could do. Since reading the chapter I've set up automatic payments on all of my regular bills, and on my to-do list (with an implementation intention!) is the task of setting up automatic monthly transfers into my investment accounts.
 
-- the compound interest of self-improvement
-- implementation intentions
-  - example of how I'm using this in my daily work, especially for non-habitual tasks
-- habit stacking
-  - example of how I've used this to drink more water
-- preparing space for its next use
-  - example of how I've used this idea to prepare for biking, etc
-- make it small
-  - example of how I've made many of my habits smaller
-- automate it
-  - examples of things I've automated since reading the book
-
-Specific habits that are worth considering:
-
-* book on the pillow
+In summary, I highly recommend *Atomic Habits*. If the topic is new to you, I think it's probably the best general resource you'll find. And if the topic is familiar, you'll find that the book is a quick and engaging read with dozens of fresh ideas that you can consider implementing in your life.
