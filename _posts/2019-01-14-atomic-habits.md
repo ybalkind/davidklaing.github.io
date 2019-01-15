@@ -30,6 +30,8 @@ Each stage of this cycle is a lever you can pull to influence your behaviour. To
 | Response | Make it easy          | Make it hard         |
 | Reward   | Make it satisfying    | Make it unsatisfying |
 
+
+
 The book is broken into four sections, one for each stage of the habit cycle. Each chapter begins with a short vignette about a historical figure, and then dives into a related piece of advice. If you've done some thinking or reading about habit formation before, then you might be familiar with many of these ideas already. This was the case for me. However, even if you feel like you know the landscape well, I think you would find at least one actionable idea in the book. For the rest of this post, I'll describe the ideas that I've implemented myself since reading it.
 
 #### Habit stacking
