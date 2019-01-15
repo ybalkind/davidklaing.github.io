@@ -352,6 +352,10 @@ pre > code {
 
 /* Tables
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+table {
+  border: 1px solid black;
+  padding-bottom: 12px
+}
 th,
 td {
   padding: 12px 15px;
