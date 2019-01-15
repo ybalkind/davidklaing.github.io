@@ -12,7 +12,7 @@ In an [episode of the North Star Podcast with David Perrell](https://www.listenn
 
 I heard this a few weeks before the New Year, and I got to thinking about which habits I might want to build or break in 2019. I found the perfect companion to this reflection in James Clear's new book, [Atomic Habits: An Easy and Proven Way to Break Bad Habits & Build Good Ones](https://www.goodreads.com/book/show/40121378-atomic-habits).
 
-The motivating idea behind the book is that habits are the compound interest of behaviour. Get 1% better each day and you will rarely notice a change on any given day, but by the end of a year you will be 38% better than when you started ($1.01^{365} = 37.8$). It's often not possible or useful to try to quantify your skill level—maybe you just want to remember to floss—but the insight is that huge long-term differences can be born from barely perceptible but consistent short-term differences. Hence, _atomic_ habits: pennies that grow into a fortune.
+The motivating idea behind the book is that habits are the compound interest of behaviour. Get 1% better each day and you will rarely notice a change on any given day, but by the end of a year you will be 38% better than when you started (\\(1.01^{365} = 37.8\\). It's often not possible or useful to try to quantify your skill level—maybe you just want to remember to floss—but the insight is that huge long-term differences can be born from barely perceptible but consistent short-term differences. Hence, _atomic_ habits: pennies that grow into a fortune.
 
 Clear explains that all habits, good or bad, play out in four stages:
 
