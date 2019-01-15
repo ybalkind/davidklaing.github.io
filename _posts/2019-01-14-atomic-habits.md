@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: Atomic Habits"
-description:
+description: A review of James Clear's thorough and practical book on habit formation.
 categories: "blog books"
 published: true
 ---
