@@ -1,0 +1,52 @@
+---
+title: "A list-oriented workflow in the tidyverse"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(knitr)
+```
+
+Most of my R training involved operations on dataframes, usually with `dplyr` functions like `filter`, `select`, `mutate`, `group_by`, and `summarize`. These are wonderful tools that I use every day. However, there is a second set of tools that have become equally important in my day-to-day data manipulation work in R: those for working with lists.
+
+You may have been told on your first day learning R that a list is a special type of vector that can contain elements of different types, including lists. If you're like me, you promptly forgot this fact, and spent the next year working with deliciously rectangular dataframes. But if you spend enough time working with data, it eventually becomes clear that most data isn't born as a tidy CSV. Instead, it's usually stored in a nested structure such as JSON or XML. That's why lists are so useful in R. They are the most natural data type for representing a nested structure.
+
+If  `filter`, `select`, `mutate`, `group_by`, and `summarize` form my basic vocabulary for working with rectangular data, then `stringr::str_detect`, `jsonlite::fromJSON`, `magrittr::extract2`, and `purrr::map` form my basic vocabulary for working with nested data.
+
+Say you're working with telemetry data from a website. Your raw data probably comes out of a database looking something like this:
+
+```{r}
+user_actions <- tibble(
+  user = c("david", "david", "david", "david", "david", "david"),
+  action = c(
+    '{"Type": "Login", "UtcTimestamp": "2019-03-05 12:30:41", "user": "david"}',
+    '{"Type": "ButtonPress", "UtcTimestamp": "2019-03-05 12:30:43", "ButtonID": "2kdkkdfl-jnsdol32", "ButtonName": "Settings"}',
+    '{"Type": "ToggleCheckbox", "UtcTimestamp": "2019-03-05 12:30:44", "CheckboxID": "5d2ddnn8-polen2e7", "CheckboxName": "Subscribe to email newsletter", "CheckboxStatus": FALSE}',
+    '{"Type": "ToggleCheckbox", "UtcTimestamp": "2019-03-05 12:30:45", "CheckboxID": "jjdfj133-883jdnb3", "CheckboxName": "Desktop notifications", "CheckboxStatus": FALSE}',
+    '{"Type": "ButtonPress", "UtcTimestamp": "2019-03-05 12:30:50", "ButtonID": "lop29cdk-4jns910d", "ButtonName": "Home"}',
+    '{"Type": "FollowLink", "UtcTimestamp": "2019-03-05 12:30:59", "URL": "https://www.theglobeandmail.com/"}'
+  )
+)
+user_actions %>% kable()
+```
+
+Each logged event is a JSON string containing properties of the event. In my experience, the most common tasks for converting these nested structures into more legible rectangular structures are these:
+
+**1. Finding all events of a particular type.**
+
+Assuming that event types can be identified by the presence or absence of specific strings in the JSON, you can use `filter` along with `str_detect` to keep all rows of your events dataframe where the `action` string contains a pattern of interest. For example, say you want get all the `ToggleCheckbox` events.
+
+```{r}
+user_actions %>% 
+  filter(str_detect(action, "ToggleCheckbox")) %>% 
+  kable()
+```
+
+**2. Extracting one or more properties from an event.**
+
+To extract a property from an event, you need to convert the event to a list and then index it. Let's take the first `ToggleCheckbox` event as an example.
+
+**3. Operating on multiple events simultaneously.**
+
