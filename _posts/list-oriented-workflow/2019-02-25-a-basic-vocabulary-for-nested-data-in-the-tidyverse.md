@@ -45,8 +45,8 @@ user_actions %>% kable()
 
 Each logged event is a JSON string containing properties of the event. In my experience, the most common tasks for converting these nested structures into more legible rectangular structures are these:
 
-1. Finding all events of a particular type.
--------------------------------------------
+## 1. Finding all events of a particular type.
+
 
 Assuming that event types can be identified by the presence or absence of specific strings in the JSON, you can use `filter` along with `stringr::str_detect` to keep all rows of your events dataframe where the `action` string contains a pattern of interest. For example, say you want get all the `ToggleCheckbox` events.
 
@@ -61,8 +61,7 @@ user_actions %>%
 | david | {"Type": "ToggleCheckbox", "UtcTimestamp": "2019-03-05 12:30:44", "CheckboxID": "5d2ddnn8-polen2e7", "CheckboxName": "Subscribe to email newsletter", "CheckboxStatus": "FALSE"} |
 | david | {"Type": "ToggleCheckbox", "UtcTimestamp": "2019-03-05 12:30:45", "CheckboxID": "jjdfj133-883jdnb3", "CheckboxName": "Desktop notifications", "CheckboxStatus": "FALSE"}         |
 
-2. Extracting one or more properties from an event.
----------------------------------------------------
+## 2. Extracting one or more properties from an event.
 
 To extract a property from an event, you need to convert the event to a list and then index it. Let's take the first `ToggleCheckbox` event as an example.
 
@@ -99,8 +98,7 @@ first_toggle_checkbox_event %>%
 
 I prefer `extract2` because it feels a bit more explicit, but the second option is arguably more readable.
 
-3. Operating on multiple events simultaneously.
------------------------------------------------
+## 3. Operating on multiple events simultaneously.
 
 Lastly, you might wish to write an extraction function and map it across all events, regardless of their type. For this, you'll want to pass `purrr::map` into `mutate`. For example, say we want to extract the timestamp from all events. We would start by writing a function to extract the `UtcTimestamp` field from a given event.
 
