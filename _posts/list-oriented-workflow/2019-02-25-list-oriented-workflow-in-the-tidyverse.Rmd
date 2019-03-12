@@ -1,6 +1,7 @@
 ---
 title: "A list-oriented workflow in the tidyverse"
 output: github_document
+published: false
 ---
 
 ```{r setup, include=FALSE}
