@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A basic vocabulary for nested data in the tidyverse: `str_detect`, `fromJSON`, `extract2`, and `map`"
+title: "A basic vocabulary for nested data in the tidyverse: str_detect, fromJSON, extract2, and map"
 description: A short tutorial on working with nested data in R.
 categories: "blog"
 published: true
