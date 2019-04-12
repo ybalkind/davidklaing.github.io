@@ -3,7 +3,7 @@ layout: post
 title: "Size-constrained gradient descent and the Cauchy-Schwarz inequality, explained step-by-step"
 description: An explanation of the relationship between the Cauchy-Schwarz inequality and gradient descent.
 categories: "blog"
-published: false
+published: true
 feature: assets/img/step_by_step/dot_product_projection.gif
 ---
 
