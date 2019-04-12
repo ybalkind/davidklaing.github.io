@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to get a job in data science"
-description: 
+description: My advice on how to get a job in data science.
 categories: "blog"
 published: true
 ---
