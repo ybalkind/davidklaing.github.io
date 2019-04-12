@@ -8,7 +8,7 @@ published: true
 
 It is said that when you give the same advice three times, you should write it down in a blog post. I'm often approached for advice by job seekers in data science, so this is that blog post.
 
-When a company hires someone, they want to know that the person 1) *can* and 2) *will* do the job. Most people's resumes do extremely little on their own to inspire this confidence, especially in a tough job market. The good news is, you have options. Your just have to display patent evidence of your **skills** (whether you can do the job) and your **character** (whether you will do the job).
+When a company hires someone, they want to know that the person 1) *can* and 2) *will* do the job. Most people's resumes do extremely little on their own to inspire this confidence, especially in a tough job market. The good news is, you have options. Your just have to display patent evidence of your **skills** (whether you can do the job) and your **character** (whether you will do it).
 
 The best way to create evidence of your skills is to use them and then share the artifacts of your work. 
 
