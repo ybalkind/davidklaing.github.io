@@ -4,15 +4,15 @@ title: Start Here
 permalink: /start-here/
 ---
 
-## Bio
-
-I'm David Laing. I write about data science, books, productivity, and other topics. 
+Hello and welcome! I'm David Laing. I write about data science, books, productivity, and other topics. 
 
 I'm a senior data scientist at Imbellus, a venture-backed startup that is building cognitive assessments for the 21st century. 
 
 Once a year I teach a course on communication and argumentation, in the Master of of Data Science program at the University of British Columbia.
 
-## Best of
+-------------------------
+
+Here are some posts that I think you might like:
 
 [**Communication in data science: more than just the final report**](https://davidklaing.com/blog/2017/11/10/communication-in-data-science.html)
 
@@ -26,3 +26,6 @@ Once a year I teach a course on communication and argumentation, in the Master o
 
 > Two schools of thought on how best to address the asymmetry between present and future desires.
 
+---------------------------
+
+Say hello on [Twitter](https://twitter.com/davidklaing)!
