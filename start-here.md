@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Start Here
+title: Welcome!
 permalink: /start-here/
 ---
 
-Hello and welcome! I'm David Laing. I write about data science, books, productivity, and other topics. 
+Hello! I'm David Laing. I write about data science, books, productivity, and other topics. 
 
 I'm a senior data scientist at Imbellus, a venture-backed startup that is building cognitive assessments for the 21st century. 
 
