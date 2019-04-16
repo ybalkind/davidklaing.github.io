@@ -2,6 +2,7 @@
 layout: post
 title: Summary of The Righteous Mind, by Jonathan Haidt
 description: I think everyone should read this book. But if you don't have time, you can read my summary instead.
+categories: "blog books"
 published: true
 ---
 

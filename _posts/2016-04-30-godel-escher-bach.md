@@ -2,6 +2,7 @@
 layout: post
 title: "I just finished Gödel, Escher, Bach: An Eternal Golden Braid"
 description: Reflections on a beautiful book.
+categories: "blog books"
 published: true
 ---
 
