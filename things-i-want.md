@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Things I Want That Don't Exist"
+title: "Things I want that don't exist"
 description: A list of things I want, but that apparently don't exist..
 published: true
 ---
