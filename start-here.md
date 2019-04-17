@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome!
+title: David Laing
 permalink: /start-here/
 ---
 
@@ -20,7 +20,7 @@ I live in beautiful Vancouver, British Columbia.
 
 Here are some posts that I think you might like:
 
-#### On data science
+### On data science
 
 [**Communication in data science: more than just the final report**](https://davidklaing.com/blog/2017/11/10/communication-in-data-science.html)
 
@@ -30,7 +30,7 @@ Here are some posts that I think you might like:
 
 > It is said that when you give the same advice three times, you should write it down in a blog post. I’m often approached for advice by job seekers in data science, so this is that blog post.
 
-#### On productivity
+### On productivity
 
 [**Book review: Atomic Habits**](https://davidklaing.com/blog/books/2019/01/14/atomic-habits.html)
 
