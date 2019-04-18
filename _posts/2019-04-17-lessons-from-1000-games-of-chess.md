@@ -40,12 +40,14 @@ Pieces in the center of the board can control a larger number of squares. For ex
 
 The center is powerful             |  The edges are weak
 :-------------------------:|:-------------------------:
-![control_the_center_1](/Users/davidlaing/Documents/professional_development/davidklaing.github.io/assets/img/10_lessons_from_1000_games_of_chess/control_the_center_1.png)  |  ![control_the_center_2](/Users/davidlaing/Documents/professional_development/davidklaing.github.io/assets/img/10_lessons_from_1000_games_of_chess/control_the_center_2.png)
+![control_the_center_1](../assets/img/10_lessons_from_1000_games_of_chess/control_the_center_1.png)  | ![control_the_center_2](../assets/img/10_lessons_from_1000_games_of_chess/control_the_center_2.png) 
 
 
 In general, but especially early in the game, it's important to control as much of the center as possible, for the same reason to be constantly looking for check: it gives you more freedom to move your pieces.
 
 ### Castle early, and prevent your opponent from doing so
+
+An uncastled king vulnerable
 
 ### Develop, develop, develop
 
