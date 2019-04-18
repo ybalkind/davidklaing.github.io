@@ -3,7 +3,7 @@ layout: post
 title: "10 lessons from 1000 games of chess"
 description: What I've gleaned so far from a budding passion for chess.
 categories: "blog"
-published: true
+published: false
 ---
 
 Three months ago I started playing chess. I play mostly blitz games on [chess.com](chess.com), in which each player has 5 minutes total to make all their moves. Get checkmated or run out of time before your opponent, and you lose.
