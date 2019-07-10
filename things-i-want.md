@@ -5,6 +5,8 @@ description: A list of things I want, but that apparently don't exist..
 published: true
 ---
 
+Last updated: April 2019
+
 ### A rolling-window habit tracker with fine-grained targets and a built-in to-do list
 
 Inspired by [Andy Matuschak's post](http://blog.andymatuschak.org/post/169043084412/successful-habits-through-smoothly-ratcheting), I want something like a mix between [Beeminder](https://www.beeminder.com/) (but with a nicer UI) and [Todoist](https://todoist.com/).
