@@ -2,7 +2,7 @@
 layout: page
 title: "Things I like that you might want to check out"
 description: A list of things I like.
-published: false
+published: true
 ---
 
 Last updated: July 2019
@@ -42,20 +42,15 @@ Some albums that I've listened to more times than I can count, alphabetically:
 
 Some books or stories that I've read more than once, alphabetically:
 
-- The Dead, by James Joyce
-- Ender's Game, by Orson Scott Card
-- Flowers for Algernon, by Daniel Keyes
-- Good Old Neon, by David Foster Wallace
-- Harry Potter 1-7, by J.K. Rowling
-- Harry Potter and the Methods of Rationality, by Eliezer Yudkowsky
-- The Iliad, by Homer
-- The Lord of the Rings, by J.R.R. Tolkien
-- The Odyssey, by Homer
-- The Righteous Mind, by Jonathan Haidt
-- The Sense of Style, by Steven Pinker
-- Siddartha, by Herman Hesse
-
-Some products I really like:
-
-- [Fitbit Charge 3](https://www.fitbit.com/en-ca/charge3)
-  - I got my Fitbit in December 2018, and while the heart rate and step counting is useful, its main benefit is that it has significantly increased the amount of sleep I get. What I didn't appreciate before was how much of my time in bed is spent awake. I used to think that if my alarm went off eight hours after I turned out my light and closed my eyes, then I got eight hours of sleep. Now I know better: to actually get eight hours of sleep, I need to spend at least nine and a half hours in bed. I don't often hit that bar, but I would guess that the introduction of this extra feedback loop has caused me to get on average 45 minutes more sleep per night than I did before. I would pay *way* more than $160 for that. But the Fitbit is great: no distracting smartwatch features, super long battery life, and very comfortable.
+- [The Dead](https://www.goodreads.com/book/show/23289.The_Dead), by James Joyce
+- [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game), by Orson Scott Card
+- [Flowers for Algernon](https://www.goodreads.com/book/show/36576608-flowers-for-algernon), by Daniel Keyes
+- [Good Old Neon](http://sdavidmiller.com/octo/files/no_google2/GoodOldNeon.pdf), by David Foster Wallace
+- [Harry Potter 1-7](https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set), by J.K. Rowling
+- [Harry Potter and the Methods of Rationality](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality), by Eliezer Yudkowsky
+- [The Iliad](https://www.goodreads.com/book/show/1371.The_Iliad), by Homer
+- [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings), by J.R.R. Tolkien
+- [The Odyssey](https://www.goodreads.com/book/show/1381.The_Odyssey), by Homer
+- [The Righteous Mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind), by Jonathan Haidt
+- [The Sense of Style](https://www.goodreads.com/book/show/20821371-the-sense-of-style), by Steven Pinker
+- [Siddartha](https://www.goodreads.com/book/show/30141085-siddartha), by Herman Hesse
