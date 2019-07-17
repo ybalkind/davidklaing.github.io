@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Personal PhD"
+title: "The personal PhD"
 description: A rough sketch of a model for developing deep expertise in an academic subject outside an institution.
 categories: "blog"
 published: true
