@@ -12,7 +12,7 @@ Some albums that I've listened to more times than I can count, alphabetically:
 - [Aja](https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW?si=d2Xo-eEjTa2uVflUVCMa3w), by Steely Dan
 - [Alive 2007](https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk?si=KfA0RxiyQ-6RUycu6x0tXQ), by Daft Punk
 - [Beatles For Sale](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a?si=kQcqF0O_Tba412gHLJhfwg), by The Beatles
-- [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE?si=FgDrolYrSECCOHkto9f53w), bby Sufjan Stevens
+- [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE?si=FgDrolYrSECCOHkto9f53w), by Sufjan Stevens
 - [Channel Orange](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8?si=fv1Ox6uARqOnNrKDaYYFhg), by Frank Ocean
 - [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F?si=e_azS45CQna1s9jjBuQWvg), by Kanye West
 - [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv?si=upz69-ItR3eGDRhCwXpLCQ), by Tame Impala
