@@ -2,7 +2,7 @@
 layout: post
 title: "The Personal PhD"
 description: A rough sketch of a model for developing deep expertise in an academic subject outside an institution.
-published: false
+published: true
 ---
 
 Lots of people aspire to do a "personal master's degree," but I've never seen anyone describe an attempt to do a "personal PhD." With the caveat that I haven't done or started a PhD myself, it appears to me that many components of a PhD are achievable outside a PhD program. I think people who are drawn to PhD programs should consider whether they can assemble the key ingredients on their own.
