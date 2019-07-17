@@ -12,7 +12,7 @@ As far as I can tell, these are the key ingredients:
 
 1. A broad understanding of the history and methods of your discipline, and a deep, constantly renewing understanding of a specialty within that discipline.
 2. Several peer-reviewed publications.
-3. Frequent feedback from an expert mentor of a period of several years.
+3. Frequent feedback from an expert mentor over a period of several years.
 4. Extensive experience teaching and evaluating beginners.
 5. Completion and publication of a large research project that makes an original contribution.
 
@@ -22,12 +22,11 @@ Of course, people consider doing PhDs for different reasons. Different end-goals
 
 Perhaps you want to do a PhD as a stepping-stone to a better industry job. Perhaps you want to become a tenured professor. Perhaps you are simply captivated by a problem and can't bear to be distracted from it. Or perhaps you are attracted to the idea of knowing something—anything—with incredible depth.
 
-That last one is me, I think. So maybe I can mainly forego the publications, the teaching, the mentorship, and maybe even the research in order to focus on ingredient number 1: learning. I feel compelled by a thought someone recently shared on Twitter:
+That last one is me, I think. So maybe I can forego the publications, the teaching, the mentorship, and even the research in order to focus on ingredient number 1: learning. I feel compelled by a thought someone recently shared on Twitter:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In May of 2019, at the end the 2nd year of my PhD, I set a 10 year goal to spend 10^4 hours thinking about categorical homotopy theory. By my imperfect accounting, I made it just in time to celebrate the very welcome news that I'll get to stay @JHUmath for the foreseeable future.</p>&mdash; Emily Riehl (@emilyriehl) <a href="https://twitter.com/emilyriehl/status/1147277219787608064">December 16, 2018</a></blockquote>
-
 Imagine that! 10,000 hours thinking about [insert speciality here]. Imagine taking that goal seriously, and tracking those hours.
 
-The road to true expertise is long, and every 100 meters there's an intersection with signs pointing in a dozen different directions to other interesting things. So I'm probably too distractible to follow the long road. But there is some comfort in knowing that the road is there, and that we're free to travel it at our own pace if we want to.
+The road to true expertise is long, and all along the way there are intersections with signs pointing in a dozen different directions to other interesting things. So I'm probably too distractible to follow the long road. But there is some comfort in knowing that the road is there, and that I'm free to travel it at my own pace if I want to.
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
