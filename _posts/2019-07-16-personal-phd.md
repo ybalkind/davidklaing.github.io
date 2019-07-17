@@ -26,6 +26,6 @@ That last one is me, I think. So maybe I can mainly forego the publications, the
 
 Imagine that! 10,000 hours thinking about [insert speciality here]. Imagine taking that goal seriously, and tracking those hours.
 
-It's a long road to true expertise, and I doubt I could follow it. I'm surely too distractible by the vast number of interesting forks to take off that road. But there is some comfort in knowing that such roads are there, and we're free to take them at our own pace.
+It's a long road to true expertise, and I doubt I could follow it. I'm surely too distractible by the vast number of interesting forks in that road. But there is some comfort in knowing that the road is there, and that we're free to travel it at our own pace if we want to.
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
