@@ -18,27 +18,19 @@ I live in beautiful Vancouver, British Columbia.
 
 -------------------------
 
-Here are some posts that I think you might like:
+Here are the three most appreciated things I've written:
 
-### On data science
+[If you're good, you need to talk more](https://davidklaing.com/blog/2019/07/09/talk-more.html)
 
-[**Communication in data science: more than just the final report**](https://davidklaing.com/blog/2017/11/10/communication-in-data-science.html)
+> An essay about the virtue of openness.
 
-> Reflections on a course I taught in the Master of Data Science program in 2017.
+[Communication in data science: more than just the final report](https://davidklaing.com/blog/2017/11/10/communication-in-data-science.html)
 
-[**How to get a job in data science**](https://davidklaing.com/blog/2019/04/11/how-to-get-a-job-in-data-science.html)
+> Reflections on a course I taught in the Master of Data Science program at UBC.
 
-> It is said that when you give the same advice three times, you should write it down in a blog post. I’m often approached for advice by job seekers in data science, so this is that blog post.
-
-### On productivity
-
-[**Book review: Atomic Habits**](https://davidklaing.com/blog/books/2019/01/14/atomic-habits.html)
+[Book review: Atomic Habits](https://davidklaing.com/blog/books/2019/01/14/atomic-habits.html)
 
 > A review of James Clear's thorough and practical book on habit formation.
-
-[**Embracers and equalizers**](<https://davidklaing.com/blog/2018/12/24/embracers-and-equalizers.html>)
-
-> Two schools of thought on how best to address the asymmetry between present and future desires.
 
 ---------------------------
 
