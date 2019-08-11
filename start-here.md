@@ -40,4 +40,4 @@ ______
 
 Subscribe to my weekly email newsletter:
 
-<iframe width="380" height="320" src="https://davidlaing.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+<iframe width="100%" height="320" src="https://davidlaing.substack.com/embed" frameborder="0" scrolling="no"></iframe>
