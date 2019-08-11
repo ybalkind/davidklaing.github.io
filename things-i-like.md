@@ -42,7 +42,7 @@ Some albums that I've listened to more times than I can count, alphabetically:
 
 Some books or stories that I've read more than once, alphabetically:
 
-- [The Dead](https://www.goodreads.com/book/show/23289.The_Dead), by James Joyce
+- [The Dead](https://www.online-literature.com/james_joyce/958/), by James Joyce
 - [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game), by Orson Scott Card
 - [Flowers for Algernon](https://www.goodreads.com/book/show/36576608-flowers-for-algernon), by Daniel Keyes
 - [Good Old Neon](http://sdavidmiller.com/octo/files/no_google2/GoodOldNeon.pdf), by David Foster Wallace
