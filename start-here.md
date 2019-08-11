@@ -34,10 +34,6 @@ Here are the three most appreciated things I've written:
 
 ---------------------------
 
-Say hello on [Twitter](https://twitter.com/davidklaing)!
-
-______
-
-Subscribe to my weekly email newsletter:
+Say hello on [Twitter](https://twitter.com/davidklaing), and/or subscribe to my weekly email newsletter:
 
 <iframe width="100%" height="320" src="https://davidlaing.substack.com/embed" frameborder="0" scrolling="no"></iframe>
