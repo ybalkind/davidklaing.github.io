@@ -34,11 +34,6 @@ A bottom-up explanation starts with examples, allowing the abstraction and gener
 
 There are tradeoffs between these approaches, of course. Top-down explanations are useful within intellectual communities because they make it easier to build on prior abstractions. But data science is so interdisciplinary, and has so much contact with people outside the field, that bottom-up explanations are almost always best.
 
-The students put this insight to use by writing blog posts to explain technical data science concepts. Here are two examples of what they came up with:
-
-* [What is a Website Address?](https://raffrica.github.io/2017/What-is-a-website-address/), by Daniel Raff
-* [The Travelling Sales Person Problem](https://indiana-nikel.github.io/TSP/), by Indiana Nikel
-
 Throughout the four weeks of the course, we examined other communication-related challenges that frequently occur across data science work:
 
 * how to be an effective consumer of data science communication
