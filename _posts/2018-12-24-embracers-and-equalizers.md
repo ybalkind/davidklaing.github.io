@@ -19,9 +19,7 @@ The core tenet of this view is that the best way to make things easy in the long
 Here are some tweets I've seen recently that express embracer views:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Most productivity problems are symptoms of just not trying hard enough.</p>&mdash; Michael (@mmay3r) <a href="https://twitter.com/mmay3r/status/1074406570560114688">December 16, 2018</a></blockquote>
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Aftermath.<br/>Nope.<br/>I didn’t feel like doing this today.<br/>SO I DID.</p>&mdash; Jocko Willinck (@jockowillink) <a href="https://twitter.com/jockowillink/status/1072515326280155136">December 11, 2018</a></blockquote>
-
 ### Equalizers
 
 *Equalize the asymmetry between present and future.*
@@ -31,7 +29,6 @@ The core tenet of this view is that the best way to make things easy in the long
 Here are some tweets I've seen recently that express equalizer views:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“It is incorrect to believe that top athletes suffer great sacrifices to achieve their goals. Often, they don’t see what they do as sacrificial at all. They like it.”</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1074571095984861184">December 16, 2018</a></blockquote>
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Paradoxically, the people who have the results that so many desire don’t actually care much about it.<br/><br/>
 The fittest people love the pursuit of fitness, not fitness itself.<br/><br/>The smartest people love the pursuit of knowledge, not showing off.</p>&mdash; James Clear (@JamesClear) <a href="https://twitter.com/JamesClear/status/1062349474591395840">November 13, 2018</a></blockquote>
 
