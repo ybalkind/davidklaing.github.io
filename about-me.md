@@ -14,10 +14,10 @@ After graduating I wanted to be employed, and needed some skills, so I moved out
 
 I now teach a course in that program once a year, and otherwise work full-time as a senior data scientist at Imbellus.
 
-I live in beautiful Vancouver, British Columbia.
+I live in Vancouver, British Columbia.
 
 ---------------------------
 
-Say hello on [Twitter](https://twitter.com/davidklaing), and subscribe to my weekly email newsletter!
+Say hello on [Twitter](https://twitter.com/davidklaing), and subscribe to my newsletter!
 
 <iframe width="100%" height="320" src="https://davidlaing.substack.com/embed" frameborder="0" scrolling="no"></iframe>
