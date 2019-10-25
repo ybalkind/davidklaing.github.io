@@ -22,3 +22,5 @@ permalink: /best-of/
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Restored video footage of the streets of Paris from the early 1900s. 🤯 Incroyable! https://twitter.com/i/status/1183022305867378689/video/1”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1183022305867378689">October 12, 2019</a></blockquote>
 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
