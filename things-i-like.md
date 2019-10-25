@@ -5,7 +5,7 @@ description: A list of things I like.
 published: true
 ---
 
-Last updated: July 2019
+Last updated: October 2019
 
 ## Music
 
@@ -47,9 +47,7 @@ Here are some albums that I've listened to more times than I can count, alphabet
 
 ## Reading
 
-My Goodreads shelf:
-
-<span style="color: #382110">my read shelf:</span><br/><a href="https://www.goodreads.com/review/list/36777500?shelf=read" title="David Laing's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)", rel="nofollow"><img border="0" alt="David Laing's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)" src="https://www.goodreads.com/images/badge/badge1.jpg"></a>
+I am on [Goodreads](https://www.goodreads.com/user/show/36777500-david-laing).
 
 Some books or stories that I've read more than once, alphabetically:
 
