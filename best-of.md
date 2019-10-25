@@ -22,6 +22,10 @@ permalink: /best-of/
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Restored video footage of the streets of Paris from the early 1900s. 🤯 Incroyable! https://twitter.com/i/status/1183022305867378689/video/1”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1183022305867378689">October 12, 2019</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Confirmation bias makes a lot more sense under the lens, "people don't have ideas, ideas have people."
+
+When someone's views are challenged and they start digging in their heels, what you're really seeing is the thrashing of a parasite that has a death grip on its host.”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1163841215017750529">August 20, 2019</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“A good demonstration of this phenomenon, from @NateSilver538's The Signal and the Noise:”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1167839615845355520">August 31, 2019</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Right! The supposed sacredness of books explains so much that would otherwise seem strange, like the fact that it feels so wrong to read only 50% of a book, or that novice writers never write "covers" of their fav books (the way novice musicians learn covers of their fav songs).”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1180586417941929985">October 5, 2019</a></blockquote>
