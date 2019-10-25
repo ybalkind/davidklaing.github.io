@@ -1,13 +1,19 @@
 ---
 layout: page
-title: "Things I like that you might want to check out"
+title: "Things I like"
 description: A list of things I like.
 published: true
 ---
 
 Last updated: July 2019
 
-Some albums that I've listened to more times than I can count, alphabetically:
+## Music
+
+Follow me on Spotify to see what I'm listening to lately:
+
+<iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:davidkendalllaing&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+
+Here are some albums that I've listened to more times than I can count, alphabetically:
 
 - [Aja](https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW?si=d2Xo-eEjTa2uVflUVCMa3w), by Steely Dan
 - [Alive 2007](https://open.spotify.com/album/7u6zL7kqpgLPISZYXNTgYk?si=KfA0RxiyQ-6RUycu6x0tXQ), by Daft Punk
@@ -29,7 +35,6 @@ Some albums that I've listened to more times than I can count, alphabetically:
 - [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK?si=VERTCXpARf202dUt00AtIw), by Anderson .Paak
 - [October Road](https://open.spotify.com/album/3RHJNmuwD0fnwccBv2HTif?si=Yhjivb7jQ8mTz35gLAgxmA), by James Taylor
 - [The Oh Hellos Family Christmas Album](https://open.spotify.com/album/1cv8WBFQPnstQvRZgg2Bw4?si=3D9OaKEeS7GnI7rgROl31w), by The Oh Hellos
-- [On Every Street](https://open.spotify.com/album/3tybckgVqaIsR5oGnfWKpA?si=iejdGa59SrCE4tSwjnXjZQ), by Dire Straits
 - [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra?si=Z8_Cm32KSoGVZG1zBgSklA), by Coldplay
 - [Scrublife](https://open.spotify.com/album/6uD4eu7o5D5ipgWazhBEVz?si=lOqI07yzSziafXxMv4dkdA), by Wax
 - [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP?si=WVjtMD0AQ-S72X6Wdz0odA), by John Mayer
@@ -39,6 +44,48 @@ Some albums that I've listened to more times than I can count, alphabetically:
 - [Tarzan (Original Motion Picture Soundtrack)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C?si=ahTDAK47Tfys2Qa5Xc1TDg), by Phil Collins & Mark Mancina
 - [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7?si=-TcSLmh0Rc-5evfXBQFnxA), by Vulfpeck
 - [Who's Feeling Young Now?](https://open.spotify.com/album/6RknB2bw00sWWLJms0MiR3?si=p1RH7YsAT2SZtdUHXRsC0g), by Punch Brothers
+
+## Reading
+
+Recent activity on Goodreads:
+
+	<style>
+#gr_updates_widget{
+border-radius: 5px;
+background-color:#fff;
+border:solid #683205 10px;
+-webkit-box-shadow: 0px 0px 4px 1px #595959,
+inset 0px 0px 0px 1px #7D730B;
+-moz-box-shadow: 0px 0px 4px 1px #595959,
+inset 0px 0px 0px 1px #7D730B;
+box-shadow: 0px 0px 4px 1px #595959,
+inset 0px 0px 0px 1px #7D730B;
+padding:15px 0 35px 15px;
+width:250px;
+height:330px;
+}
+#gr_footer{
+margin-bottom:10px;
+}
+#gr_updates_widget p{
+padding:0px;
+margin:0;
+font-size:14px;
+}
+#gr_footer img{
+width:100px;
+float:left;
+}
+#gr_updates_widget img{
+	border-style:none;
+}
+</style>
+	<div id="gr_updates_widget">
+	  <iframe id="the_iframe" src="https://www.goodreads.com/widgets/user_update_widget?height=400&num_updates=3&user=36777500&width=250" width="248" height="330" frameborder="0"></iframe>
+		<div id="gr_footer">
+		  <a href="https://www.goodreads.com/"><img alt="Goodreads: Book reviews, recommendations, and discussion" rel="nofollow" src="https://www.goodreads.com/images/layout/goodreads_logo_140.png" /></a>
+		</div>
+	</div>
 
 Some books or stories that I've read more than once, alphabetically:
 
