@@ -1,18 +1,36 @@
 ---
 layout: page
-title: "Things I like"
+title: "Recommended"
 description: A list of things I like.
 published: true
 ---
 
 Last updated: October 2019
 
+## Books
+
+I am on [Goodreads](https://www.goodreads.com/user/show/36777500-david-laing).
+
+Here are some books or stories that I've read more than once, alphabetically by author:
+
+- [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game), by Orson Scott Card
+- [The Righteous Mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind), by Jonathan Haidt
+- [Siddartha](https://www.goodreads.com/book/show/30141085-siddartha), by Herman Hesse
+- [The Iliad](https://www.goodreads.com/book/show/1371.The_Iliad), by Homer
+- [The Odyssey](https://www.goodreads.com/book/show/1381.The_Odyssey), by Homer
+- [The Dead](https://www.online-literature.com/james_joyce/958/), by James Joyce
+- [Flowers for Algernon](https://www.goodreads.com/book/show/36576608-flowers-for-algernon), by Daniel Keyes
+- [The Sense of Style](https://www.goodreads.com/book/show/20821371-the-sense-of-style), by Steven Pinker
+- [Harry Potter 1-7](https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set), by J.K. Rowling
+- [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings), by J.R.R. Tolkien
+- [Good Old Neon](http://sdavidmiller.com/octo/files/no_google2/GoodOldNeon.pdf), by David Foster Wallace
+- [Harry Potter and the Methods of Rationality](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality), by Eliezer Yudkowsky
+
 ## Music
 
 Follow me on Spotify to see what I'm listening to lately:
 
 <iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:davidkendalllaing&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
-
 Here are some albums that I've listened to more times than I can count, alphabetically:
 
 - [Aja](https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW?si=d2Xo-eEjTa2uVflUVCMa3w), by Steely Dan
@@ -44,22 +62,3 @@ Here are some albums that I've listened to more times than I can count, alphabet
 - [Tarzan (Original Motion Picture Soundtrack)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C?si=ahTDAK47Tfys2Qa5Xc1TDg), by Phil Collins & Mark Mancina
 - [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7?si=-TcSLmh0Rc-5evfXBQFnxA), by Vulfpeck
 - [Who's Feeling Young Now?](https://open.spotify.com/album/6RknB2bw00sWWLJms0MiR3?si=p1RH7YsAT2SZtdUHXRsC0g), by Punch Brothers
-
-## Reading
-
-I am on [Goodreads](https://www.goodreads.com/user/show/36777500-david-laing).
-
-Here are some books or stories that I've read more than once, alphabetically by author:
-
-- [Ender's Game](https://www.goodreads.com/book/show/375802.Ender_s_Game), by Orson Scott Card
-- [The Righteous Mind](https://www.goodreads.com/book/show/11324722-the-righteous-mind), by Jonathan Haidt
-- [Siddartha](https://www.goodreads.com/book/show/30141085-siddartha), by Herman Hesse
-- [The Iliad](https://www.goodreads.com/book/show/1371.The_Iliad), by Homer
-- [The Odyssey](https://www.goodreads.com/book/show/1381.The_Odyssey), by Homer
-- [The Dead](https://www.online-literature.com/james_joyce/958/), by James Joyce
-- [Flowers for Algernon](https://www.goodreads.com/book/show/36576608-flowers-for-algernon), by Daniel Keyes
-- [The Sense of Style](https://www.goodreads.com/book/show/20821371-the-sense-of-style), by Steven Pinker
-- [Harry Potter 1-7](https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set), by J.K. Rowling
-- [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings), by J.R.R. Tolkien
-- [Good Old Neon](http://sdavidmiller.com/octo/files/no_google2/GoodOldNeon.pdf), by David Foster Wallace
-- [Harry Potter and the Methods of Rationality](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality), by Eliezer Yudkowsky
