@@ -2,7 +2,7 @@
 layout: post
 title: "The Aesthetic Bullseye"
 description: When I’m cooking a meal, writing a paragraph, or programming a piece of software, I usually have a personal standard of quality that guides my decisions.
-categories: "blog summaries"
+categories: "blog"
 published: true
 ---
 
