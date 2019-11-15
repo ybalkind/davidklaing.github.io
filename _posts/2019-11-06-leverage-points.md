@@ -10,7 +10,7 @@ If there were ever an appropriate place to use the [Galaxy Brain meme](https://k
 
 I encourage you to read the essay in full. You will feel your brain expanding as you go. But if you don't have time, here is my summary, in Galaxy Brain form:
 
-[![img](https://cdn.substack.com/image/fetch/w_1100,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90d414db-fc9d-43d3-b94f-278e793335ce_500x701.png)](https://cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90d414db-fc9d-43d3-b94f-278e793335ce_500x701.png)
+![](/assets/img/leverage_points/galaxy_brain.png)
 
 **Parameters**
 
