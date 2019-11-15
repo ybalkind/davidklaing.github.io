@@ -1,7 +1,7 @@
 ```
 layout: post
 title: "Summary of two summaries: Seeing Like a State (Scott Alexander and Venkatesh Rao)"
-description: Summary of two summaries of James C. Scott's book, Seeing Like a State.
+description: Summary of two summaries of James Scott's book, Seeing Like a State.
 categories: "blog summaries"
 published: true
 ```
