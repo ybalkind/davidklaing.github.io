@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summary: Leverage Points (Donella Meadows)"
-description: If there were ever an appropriate place to use the Galaxy Brain meme unironically, it would be to describe Donella Meadows' 1999 essay, Leverage Points: Places to Intervene in a System.
+description: If there were ever an appropriate place to use the Galaxy Brain meme unironically, it would be to describe Donella Meadows' 1999 essay, Leverage Points.
 categories: "blog summaries"
 published: true
 ---
