@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summary: Levels of Action (Alyssa Vance)"
-description: What is a better use of time: improving the world, or improving your ability to improve the world?
+description: What is a better use of time — improving the world, or improving your ability to improve the world?
 categories: "blog summaries"
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summary: Pushing and pulling goals (Scott Alexander)"
-description: Summary a useful distinction between goal types.
+description: Summary of a useful distinction between goal types.
 categories: "blog summaries"
 published: true
 ---

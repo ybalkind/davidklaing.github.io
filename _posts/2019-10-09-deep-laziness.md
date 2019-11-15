@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summary: Deep Laziness (Sarah Perry)"
-description: Laziness is usually frowned upon. We get paid, thanked, and admired for *producing*: for transforming chaos into order, for giving more than we take, for creating value rather than consuming it. Society doesn’t reward us for slacking off. But not all laziness is bad.
+description: Laziness is usually frowned upon. But not all laziness is bad.
 categories: "blog summaries"
 published: true
 ---
