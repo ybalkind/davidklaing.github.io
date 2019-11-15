@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summary: The Ideological Turing test (Bryan Caplan)"
-description: A way to test your understanding of beliefs you don't hold.
+description: Consider your position on abortion. If you’re pro-life, imagine you’re doing some research at a pro-choice event and you want to conceal your true position. Suddenly, someone hands you a microphone and a spotlight shines on you—the crowd wants to hear you say a few words about why it’s so important to defend women’s right to choose.
 categories: "blog summaries"
 published: true
 ---

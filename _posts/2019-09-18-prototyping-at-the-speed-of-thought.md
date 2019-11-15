@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summary: Prototyping at the speed of thought (Tom Chi)"
-description: Summary of a talk about rapid prototyping.
+description: Research and development—R&D—are usually lumped together and abbreviated, so it’s easy to forget that they are distinct activities. This often causes us to misapply norms and practices that are appropriate for one but not the other.
 categories: "blog summaries"
 published: true
 ---

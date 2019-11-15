@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summary: Definite optimism as human capital (Dan Wang)"
-description: Summary of a plea for more optimistic science fiction and greater appreciation of manufacturing.
+description: Part thought experiment, part call to action, Dan Wang’s 2017 essay 'Definite optimism as human capital' has crept into my thoughts over the past year whenever I’ve developed a new piece of software or watched a sci-fi movie.
 categories: "blog summaries"
 published: true
 ---
