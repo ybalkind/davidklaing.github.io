@@ -12,7 +12,7 @@ The thesis is just a claim. It's the most important claim in the essay, but it's
 
 To be clear, when I say the word 'argument,' I do not mean a dispute between people. I mean, in the words of Monty Python's Michael Palin, "a connected series of statements intended to establish a proposition." Watch this video:
 
-[youtube https://www.youtube.com/watch?v=hnTmBjk-M0c?rel=0&w=500&h=375]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ohDB5gbtaEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It's very meta; it's an argument about the definition of an argument. Michael Palin (glasses) is clearly the winner.
 
