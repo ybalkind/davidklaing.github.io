@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Setting your daily minimum"
+description: A tactic for making more progress on non-urgent projects.
+categories: "blog"
+published: true
+---
+
+Work is an investment good. It is a good whose costs we feel immediately and whose benefits we enjoy later. Unfortunately, we’re wired to behave in ways that maximize immediate pleasure and minimize immediate pain. We’re not wired to pay much attention to the amount of pleasure or pain we might experience in the future. That’s why it’s often so hard to work. Instead, we’re likely to procrastinate. We find ways to get pleasure in the moment, even if it will cost us later.
+
+When there are rigid structures imposed on us by someone else, we don’t struggle as much to work hard. I used to be a competitive swimmer, and in a typical practice with my team I would swim over five kilometres. But when I went to the pool alone, I would rarely swim more than two. For most people, progressing through the institution of education is a lot like swimming further and further into the deep end. As structure fades away, working hard costs more and more willpower. It’s not that the work itself is harder; it’s that it's harder to work. That’s a feature of adulthood in general, I think. Outside your job, there’s nobody around to tell you what to do or how to do it. If you want to, you can watch Netflix and eat Doritos all night every night. Nobody will stop you.
+
+One of the best tools I’ve found for dealing with this problem is called the Pomodoro Technique. It’s like this: when you find yourself procrastinating, just set a timer for five minutes and work until you hear the beep. This works because it’s far easier to start a five-minute task than it is to start a two-hour one. It’s also easier to continue doing something than it is to start. The Pomodoro Technique is a fantastic quick fix for procrastination, like taking an Advil for a headache. But I recommend taking it a bit further. Think of procrastination as a chronic affliction that requires daily treatment.
+
+I call my prescription Setting Your Daily Minimum. It’s the Pomodoro equivalent of a pill that you take every day. Many people already do some version of this as a time management technique. For example, many writers carve out a sacred hour every day for writing. I’ve tried this, and the problem is that it’s too strict – so strict that I give up on it before long. Instead of swallowing a pill, it’s more like swallowing a golf ball. It’s too much.
+
+When I have important work to do, I've found that it works better to carve out just ten minutes a day. It’s short enough that it’s almost completely painless to get started, and that's more than half the battle. I usually end up working for half an hour or more. This adds up to a lot over the course of a few weeks. Occasionally the work is so intolerable that I stop once the ten minutes is up, but that’s okay. Ten minutes is better than none, and this way I get the reward of having honoured my commitment rather than the punishment of having failed. Not only does this make me feel good today, but when the next day comes, I’m more likely to get back to work because I’m conditioned to expect another reward.
+
+I can also fit in those ten minutes at almost any time during the day. This helps combat my most insidious excuse: “I don’t have enough time to make any progress on that right now.” That may be true for activities that require substantial set-up, but otherwise it rarely holds. Progress happens moment by moment, and whether those moments come in sessions that last an hour or sessions that last a minute, they still need to come.
+
+Another happy side effect is that when you spend any amount of time working on a problem, your brain will continue to make progress on it even when you’re focusing on something else. Work – especially brainwork – is often a two for one deal. How’s that for an investment good? If you have work to do, try setting a daily minimum, and remember to set it low enough that it doesn’t hurt to get started. Your procrastination may not be flaring up today, but it will be back if you don’t treat it.
