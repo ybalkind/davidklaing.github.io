@@ -29,7 +29,9 @@ Arguments can be presented in all sorts of ways. Sometimes the conclusion comes 
 The best way to take a peek is to put the argument into what is called standardized form. It looks like this:
 
 > P1. All hooligans are chumps.
+> 
 > P2. All chumps are bozos.
+> 
 > C3. Therefore, all hooligans are bozos.
 
 Obviously, P is for Premise and C is for Conclusion. It's pretty straightforward. All you have to do is list all of the premises, numbering them from one to whatever, ending with the conclusion.
@@ -41,8 +43,11 @@ Broadly, there are two types of arguments that you can make, and they differ in 
 The first type is called convergent. The premises in a convergent argument are like the Avengers: they're all trying to defeat Loki, but they are not so interdependent that if one of them dies, they all die. Each of them – the Hulk, Iron Man, Thor, and Captain America – could potentially win the battle alone. That is as it is with convergent arguments. Here's an example:
 
 > P1. Apples are healthy.
+> 
 > P2. Apples are tasty.
+> 
 > P3. Apples are affordable.
+> 
 > C4. Therefore, apples are great.
 
 You'll notice that we could establish C4 with any one of the premises. All of the premises, when brought together, are probably stronger than just one on its own, but none of the premises relies on any other premise for its own strength, its own relevance.
@@ -50,7 +55,9 @@ You'll notice that we could establish C4 with any one of the premises. All of th
 The second type of argument is called linked. The premises in a linked argument are like Hiccup and Toothless (the young Viking boy and his dragon, from How to Train Your Dragon). Neither can fly without the other; Toothless is missing part of his tail, so he needs Hiccup to help him steer. And Hiccup doesn't have wings, so he can't fly on his own. This is as it is with linked arguments. Here's an example:
 
 > P1. If it rained today, then Martha is upset.
+> 
 > P2. It rained today.
+> 
 > C3. Therefore, Martha is upset.
 
 Notice that we cannot establish C3 without both P1 and P2. They do not contribute to the conclusion independently. One without the other is useless. That's a linked argument.
