@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What is an essay?"
-description: A short jaunt through the history of the essay.
+title: "Thesis statements"
+description: What are they? How can you generate a good one?
 categories: "blog"
 published: true
 ---
