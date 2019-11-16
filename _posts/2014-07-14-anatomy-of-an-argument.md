@@ -18,7 +18,7 @@ It's very meta; it's an argument about the definition of an argument. Michael Pa
 
 This is the video that I was shown on the first day of an argumentation class that I took when I was in my first year of university. I'd seen the sketch many times before, and it was nice to know that my professor had a sense of humour.
 
-This week and next, I'm going to try to distill the contents of that course into a few hundred words. The textbook we used was called A Practical Study of Argument, by Trudy Govier, and although I no longer own it, I remember it being quite good.
+This week and next, I'm going to try to distill the contents of that course into a few hundred words. The textbook we used was called [A Practical Study of Argument, by Trudy Govier](https://pdfs.semanticscholar.org/8a9b/67f4d4d1283b711fce2095b4f3afcf61daa2.pdf), and although I no longer own it, I remember it being quite good.
 
 In my own words: an argument is a claim or series of claims that are used to make another claim seem more plausible. In more anatomical language: an argument is a premise or series of premises that are used to make a conclusion seem more plausible. So there you have it. Tony is the conclusion (or the thesis), and the Jets are his supporting premises.
 
@@ -28,9 +28,9 @@ Arguments can be presented in all sorts of ways. Sometimes the conclusion comes 
 
 The best way to take a peek is to put the argument into what is called standardized form. It looks like this:
 
-P1. All hooligans are chumps.
-P2. All chumps are bozos.
-C3. Therefore, all hooligans are bozos.
+> P1. All hooligans are chumps.
+> P2. All chumps are bozos.
+> C3. Therefore, all hooligans are bozos.
 
 Obviously, P is for Premise and C is for Conclusion. It's pretty straightforward. All you have to do is list all of the premises, numbering them from one to whatever, ending with the conclusion.
 
@@ -40,18 +40,18 @@ Broadly, there are two types of arguments that you can make, and they differ in 
 
 The first type is called convergent. The premises in a convergent argument are like the Avengers: they're all trying to defeat Loki, but they are not so interdependent that if one of them dies, they all die. Each of them – the Hulk, Iron Man, Thor, and Captain America – could potentially win the battle alone. That is as it is with convergent arguments. Here's an example:
 
-P1. Apples are healthy.
-P2. Apples are tasty.
-P3. Apples are affordable.
-C4. Therefore, apples are great.
+> P1. Apples are healthy.
+> P2. Apples are tasty.
+> P3. Apples are affordable.
+> C4. Therefore, apples are great.
 
 You'll notice that we could establish C4 with any one of the premises. All of the premises, when brought together, are probably stronger than just one on its own, but none of the premises relies on any other premise for its own strength, its own relevance.
 
 The second type of argument is called linked. The premises in a linked argument are like Hiccup and Toothless (the young Viking boy and his dragon, from How to Train Your Dragon). Neither can fly without the other; Toothless is missing part of his tail, so he needs Hiccup to help him steer. And Hiccup doesn't have wings, so he can't fly on his own. This is as it is with linked arguments. Here's an example:
 
-P1. If it rained today, then Martha is upset.
-P2. It rained today.
-C3. Therefore, Martha is upset.
+> P1. If it rained today, then Martha is upset.
+> P2. It rained today.
+> C3. Therefore, Martha is upset.
 
 Notice that we cannot establish C3 without both P1 and P2. They do not contribute to the conclusion independently. One without the other is useless. That's a linked argument.
 
