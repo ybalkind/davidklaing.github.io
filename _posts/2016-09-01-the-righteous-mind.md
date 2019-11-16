@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary: The Righteous Mind
+title: "Summary: The Righteous Mind"
 description: How do people think about right and wrong? This is an empirical question, and The Righteous Mind’s primary goal is to answer it.
 categories: "blog books summaries"
 published: true
