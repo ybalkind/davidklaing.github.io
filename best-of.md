@@ -34,6 +34,10 @@ When someone's views are challenged and they start digging in their heels, what 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“In the 20th century, the popularity of the phrase "10x" grew by exactly 10x.”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1181067269398396928">October 6, 2019</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“An underappreciated benefit of habitually tidying up is that it gives you more confidence to make useful messes.
+
+A few examples:”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1198369426367606784">November 23, 2019</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Just watched the Netflix documentary about AOC, and incidentally also just finished The Path to Power—the first volume of Robert Caro's biography of Lyndon Johnson. I recommend them both!
 
 - https://netflix.com/ca/title/81080637…
