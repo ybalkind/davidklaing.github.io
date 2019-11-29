@@ -40,7 +40,7 @@
 .container {
   position:relative;
   width: 100%;
-  max-width: 560px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 10px 10px;
   box-sizing: border-box;
@@ -64,7 +64,7 @@
 /* For devices larger than 780px */
 @media (min-width: 781px) {
   .container {
-    width: 90%; }
+    width: 50%; }
   .column,
   .columns {
     margin-right: 4%; }
