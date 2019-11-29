@@ -45,7 +45,7 @@
   padding: 10px 10px;
   box-sizing: border-box;
   /* for test only */
-  border: 1px dashed #eeeeee;
+  border: 1px dashed #5f2828;
 
 }
 .column,
@@ -57,14 +57,14 @@
 /* For devices larger than 400px */
 @media (min-width: 401px) {
   .container {
-    width: 80%;
+    width: 70%;
     padding: 64px 32px; }
 }
 
 /* For devices larger than 780px */
 @media (min-width: 781px) {
   .container {
-    width: 70%; }
+    width: 50%; }
   .column,
   .columns {
     margin-right: 4%; }
