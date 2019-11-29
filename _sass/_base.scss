@@ -57,14 +57,14 @@
 /* For devices larger than 400px */
 @media (min-width: 401px) {
   .container {
-    width: 70%;
+    width: 80%;
     padding: 64px 32px; }
 }
 
 /* For devices larger than 780px */
 @media (min-width: 781px) {
   .container {
-    width: 50%; }
+    width: 70%; }
   .column,
   .columns {
     margin-right: 4%; }
