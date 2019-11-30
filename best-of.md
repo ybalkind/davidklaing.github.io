@@ -28,15 +28,14 @@ When someone's views are challenged and they start digging in their heels, what 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“A good demonstration of this phenomenon, from @NateSilver538's The Signal and the Noise:”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1167839615845355520">August 31, 2019</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Right! The supposed sacredness of books explains so much that would otherwise seem strange, like the fact that it feels so wrong to read only 50% of a book, or that novice writers never write "covers" of their fav books (the way novice musicians learn covers of their fav songs).”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1180586417941929985">October 5, 2019</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“An underappreciated benefit of habitually tidying up is that it gives you more confidence to make useful messes.
 
 A few examples:”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1198369426367606784">November 23, 2019</a></blockquote>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Right! The supposed sacredness of books explains so much that would otherwise seem strange, like the fact that it feels so wrong to read only 50% of a book, or that novice writers never write "covers" of their fav books (the way novice musicians learn covers of their fav songs).”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1180586417941929985">October 5, 2019</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Right! The supposed sacredness of books explains so much that would otherwise seem strange, like the fact that it feels so wrong to read only 50% of a book, or that novice writers never write "covers" of their fav books (the way novice musicians learn covers of their fav songs).”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1158132219484893184">August 4, 2019</a></blockquote>
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“In the 20th century, the popularity of the phrase "10x" grew by exactly 10x.”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1181067269398396928">October 6, 2019</a></blockquote>
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“All of those are great, and I'd add one more: for every tweet you send, reply to someone else.
 
