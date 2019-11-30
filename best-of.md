@@ -38,6 +38,10 @@ When someone's views are challenged and they start digging in their heels, what 
 
 A few examples:”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1198369426367606784">November 23, 2019</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“All of those are great, and I'd add one more: for every tweet you send, reply to someone else.
+
+Finding conversational accounts is great, but you have to also *be* a conversational account. Even with few followers, it's easy to slip into broadcasting mode if you're not careful.”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1200467236101578752">November 29, 2019</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Just watched the Netflix documentary about AOC, and incidentally also just finished The Path to Power—the first volume of Robert Caro's biography of Lyndon Johnson. I recommend them both!
 
 - https://netflix.com/ca/title/81080637…
