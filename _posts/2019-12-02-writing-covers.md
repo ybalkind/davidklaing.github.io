@@ -8,7 +8,7 @@ published: false
 
 When an aspiring musician first learns to play an instrument, they don't immediately start composing their own songs. They first learn to play the songs of others. It's hard enough to accurately reproduce existing melodies, let alone create new ones. Skills like intonation, modulating volume, and maintaining a consistent tempo are prioritized over skills like improvisation or lyricism, at least until the musician has developed a baseline of good technique.
 
-When an aspiring writer first starts to hone their craft, however, they *do* immediately start creating their own arguments, their own stories, their own opinions. Skills like coherence, organization, and word choice are developed in parallel with skills like ideation and originality. Creating original content is not an requirement, exactly. But there is a widespread assumption that it would be crazy to go through the gruelling process of writing unless you're saying something new, telling a story no one has heard before. I have never heard a conversation like this:
+When an aspiring writer first starts to hone their craft, however, they typically *do* immediately start creating their own arguments, their own stories, their own opinions. Skills like coherence, organization, and word choice are developed in parallel with skills like ideation and originality. Creating original content is not an requirement, exactly. But there is a widespread assumption that it would be crazy to go through the gruelling process of writing unless you're saying something new, telling a story no one has heard before. I have never heard a conversation like this:
 
 > "I'm working on a novel."
 >
