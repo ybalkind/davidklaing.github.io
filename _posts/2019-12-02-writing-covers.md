@@ -8,7 +8,7 @@ published: false
 
 When an aspiring musician first learns to play an instrument, they don't immediately start composing their own songs. They first learn to play the songs of others. It's hard enough to accurately reproduce existing melodies, let alone create new ones. Skills like intonation, modulating volume, and maintaining a consistent tempo are prioritized over skills like improvisation or lyricism, at least until the musician has developed a baseline of good technique.
 
-When an aspiring writer first starts to hone their craft, however, they *do* immediately start creating their own arguments, their own stories, their own opinions. Skills like coherence, organization, and word choice are developed in parallel with skills like ideation and originality. Creating one's own content is not an imperative, exactly. But there is a widespread assumption that it would be crazy to go through the gruelling process of writing if you're not saying something new, not telling a story no one has heard before. I have never heard a conversation like this:
+When an aspiring writer first starts to hone their craft, however, they *do* immediately start creating their own arguments, their own stories, their own opinions. Skills like coherence, organization, and word choice are developed in parallel with skills like ideation and originality. Creating original content is not an requirement, exactly. But there is a widespread assumption that it would be crazy to go through the gruelling process of writing unless you're saying something new, telling a story no one has heard before. I have never heard a conversation like this:
 
 > "I'm working on a novel."
 >
@@ -28,11 +28,11 @@ When an aspiring writer first starts to hone their craft, however, they *do* imm
 >
 > "...a cover. Yeah."
 
-I wish this were considered totally normal. For one thing, It would increase the number of competent writers. Many writers get discouraged when they struggle to generate original ideas, and quit early on. If writing covers were normal, beginning writers would be free to focus on developing their technique, which would better prepare them to execute on good ideas when they do come. Imagine if beginning musicians believed they shouldn't bother practicing their instruments unless each note they play is original. We might still have Beethoven, but would we have Yo-Yo Ma?
+I wish writing covers were considered totally normal. I'm not talking about adaptations, like Joyce's *Ulysses* (an adaptation of The Odyssey, set in 20th century Dublin) or Steinbeck's *East of Eden* (an adaptation of Genesis, set in Northern California), although I would love to see more of those too. By "covers", I mean relatively high-fidelity recreations of written works that were created by others. Comprehensive paraphrases. Tell the story of Harry Potter 1, in your own ~75,000 words.
 
-Moreover, there would be better, and more niche, versions of many written pieces. Imagine: *Jane Eyre*, covered by J.K. Rowling. *How to Win Friends and Influence People*, covered by Oprah. *Fifty Shades of Grey*, covered by Nabokov. *This is Water*, covered by Zadie Smith. *Into the Wild*, covered by Tolkien.
+If writing covers were common, and celebrated, there would be a greater number of competent writers. Many aspiring writers get discouraged when they struggle to generate original ideas, and quit early on. These people would instead be free to focus on developing their technique, which would better prepare them to execute on good ideas when they do arrive. (Imagine if beginning musicians believed they shouldn't bother practicing their instruments unless each note they play is original. We might still have Beethoven, but would we have Radiohead, Beyoncé, Yo-Yo Ma?)
 
-Such covers do exist, although not enough of them. A few months ago I tweeted about this idea, and Kevin Simler boosted it to his 16,000 followers, asking for examples. Here are some good ones that I found by reading the replies:
+Moreover, there would be better, and more niche, versions of many written works. Imagine: *Jane Eyre*, covered by J.K. Rowling. *How to Win Friends and Influence People*, covered by Oprah. *Fifty Shades of Grey*, covered by Nabokov. Covers like these do exist, but too few. A few months ago I tweeted about this idea, and Kevin Simler boosted it to his 16,000 followers, asking for examples. Here are some good ones that I found by reading the replies:
 
 * Hunter S. Thompson covered parts of *The Great Gatsby*. According to Louis Menand's [obituary of Thompson](https://www.newyorker.com/magazine/2005/03/07/believer) in *The New Yorker*, Thompson "used to type out pages from *The Great Gatsby*, just to get the feeling, he said, of what it was like to write that way".
 * Benjamin Franklin covered articles in the *Spectator*. He says in his [autobiography](https://www.ushistory.org/franklin/autobiography/page06.htm), "I took some of the papers, and making short hints of the sentiment in each sentence, laid them by a few days, and then, without looking at the book, tried to complete the papers again, by expressing each hinted sentiment at length, and as fully as it had been expressed before, in any suitable words that should come to hand.
@@ -44,3 +44,21 @@ There is another whole category of examples that exist almost by luck: translati
 * *Tao Te Ching*, translated by Ursula K. Le Guin, the renowned science fiction writer.
 * *The Odyssey*, translated by Emily Wilson. (Says Tyler Cowen, "It is a joy to read, the best of the five translations I know, and it has received [strong reviews](https://www.google.com/search?source=hp&ei=uyf5W6KdI87QrgS54pnQBQ&q=emily+wilson+homer+review&btnK=Google+Search&oq=emily+wilson+homer+review&gs_l=psy-ab.3...66238.70838..71982...0.0..0.0.0.......0....1..gws-wiz.....0.) from scholars for its accuracy and fidelity.")
 
+Sadly, we will probably never get English "translations" of Austen or Dickens.
+
+Look, I get it: we writers want to be recognized for our own ideas. And when the original source material is just a hyperlink away, why go to the trouble of paraphrasing it extensively? The main reason is the one I've already mentioned: for practice. Unless you are an endless fount of original ideas, you will be hard-pressed to put in your reps if you *don't* sometimes cover the work of others. Another reason is that by putting a set of ideas into [your own words](https://sivers.org/dq), you are in a sense increasing the surface area of those ideas—giving readers new mental handholds for them. Scott Alexander [writes](https://slatestarcodex.com/2017/11/02/non-expert-explanation/):
+
+> Some knowledge is easy to transfer. “What is the thyroid?” Some expert should write an explanation, anyone interested can read it, and nobody else should ever worry about it again.
+>
+> Other knowledge is near-impossible to transfer. What about social skills? There are books on social skills. But you can’t just read one and instantly become as charismatic as the author. At best they can hint at areas worth exploring.
+
+Writing covers of challenging works is especially valuable, since it gives readers an additional vantage point on the subject.
+
+Every week, the band [Scary Pockets](https://www.youtube.com/channel/UC-2JUs_G21BrJ0efehwGkUw/featured) releases an amazing cover of a popular song. If you're struggling to keep up a regular blog, why not just follow the Scary Pockets model for a while? I've been doing for the past few months—writing short covers of great blog posts. Here are a few examples:
+
+* [Summary of Deep Laziness, by Sarah Perry](https://davidklaing.com/blog/summaries/2019/10/09/deep-laziness.html)
+* [Summary of Solved Conversations, by Aaron Z. Lewis](https://davidklaing.com/blog/summaries/2019/10/23/solved-conversations.html)
+* [Summary of Crony Beliefs, by Kevin Simler](https://davidklaing.com/blog/summaries/2019/11/13/crony-beliefs.html)
+* [Summary of Research as a Stochastic Decision Process, by Jacob Steinhardt](https://davidklaing.com/blog/summaries/2019/11/20/research-as-a-stochastic-decision-process.html)
+
+It's been a great exercise for me, and I've received several thoughtful messages from readers. Also, after four months of doing this every week, I now have enough "original" ideas to last me at least a dozen blog posts. My new cure for writer's block: write a cover.
