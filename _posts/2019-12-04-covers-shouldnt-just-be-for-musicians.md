@@ -52,11 +52,11 @@ It's been great exercise for my writing muscles, and I now have enough "original
 
 ----------
 
-/1. There is another whole category of examples that exist almost by luck: translations. If it weren't for the fact that many of the greatest works of literature were composed in languages other than our own, we might not get to enjoy them as much as we do. Nobody would be iterating on the language. A few notable examples:
+1\. There is another whole category of examples that exist almost by luck: translations. If it weren't for the fact that many of the greatest works of literature were composed in languages other than our own, we might not get to enjoy them as much as we do. Nobody would be iterating on the language. A few notable examples:
 
 * [Beowulf](https://www.goodreads.com/book/show/23198296-beowulf), translated by none other than J.R.R. Tolkien.
 * [The Tao Te Ching](https://www.goodreads.com/book/show/39800574-ursula-k-le-guin-yorumuyla-tao-te-ching), translated by Ursula K. Le Guin, the renowned science fiction writer.
 * [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem), translated by Ken Liu. It is [potentially even better](https://www.wired.com/2016/10/wired-book-club-ken-liu-interview/) in English than in Liu Cixin’s original Chinese.
 * [The Odyssey](https://www.goodreads.com/book/show/34068470-the-odyssey), translated by Emily Wilson. Says Tyler Cowen, "It is a joy to read, the best of the five translations I know, and it has received [strong reviews](https://www.google.com/search?source=hp&ei=uyf5W6KdI87QrgS54pnQBQ&q=emily+wilson+homer+review&btnK=Google+Search&oq=emily+wilson+homer+review&gs_l=psy-ab.3...66238.70838..71982...0.0..0.0.0.......0....1..gws-wiz.....0.) from scholars for its accuracy and fidelity."
 
-/2. As Veerasamy pointed out to me when I asked him about his cover of Orwell, even original creations are really just “assemblages of micro-covers” anyway. See [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc).
+2\. As Veerasamy pointed out to me when I asked him about his cover of Orwell, even original creations are really just “assemblages of micro-covers” anyway. See [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc).
