@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Writing covers of other people's work"
+title: "Covers shouldn't just be for musicians"
 description: What if it were common for writers to create "covers" of essays and books, the way musicians create covers of songs?
 categories: "blog"
 published: true
