@@ -5,7 +5,7 @@ description: A list of things I like.
 published: true
 ---
 
-Last updated: October 2019
+Last updated: December 2019
 
 ## Books
 
