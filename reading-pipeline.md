@@ -24,7 +24,7 @@ published: true
 * Peter Thiel, [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one)
 * Barbara Oakley, [A Mind for Numbers](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
 
-## Respectable dent
+## Recently made a good dent
 
 * Ted Chiang, [Exhalation](https://www.goodreads.com/book/show/41160292-exhalation)
 * Keith Johnstone, [Impro](https://www.goodreads.com/book/show/306940.Impro)
