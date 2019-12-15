@@ -41,11 +41,11 @@ This is my reading pipeline from the past two years or so.
 
 ## Antilibrary
 
-* Cormac McCarthy, [All the Pretty Horses](https://www.goodreads.com/book/show/469571.All_the_Pretty_Horses)
-* Douglas Hofstadter, [I Am a Strange Loop](https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop)
-* Alexandre Dumas, [The Count of Monte Cristo](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)
-* Homer (trans. Emily Wilson), [The Odyssey](https://www.goodreads.com/book/show/34068470-the-odyssey)
-* Jorge Luis Borges, [Labyrinths](https://www.goodreads.com/book/show/17717.Labyrinths)
 * Robert Caro, [Means of Ascent](https://www.goodreads.com/book/show/208324.Means_of_Ascent)
-* Richard Rhodes, [The Making of the Atomic Bomb](https://www.goodreads.com/book/show/16884.The_Making_of_the_Atomic_Bomb)
+* Jorge Luis Borges, [Labyrinths](https://www.goodreads.com/book/show/17717.Labyrinths)
+* Alexandre Dumas, [The Count of Monte Cristo](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)
+* Douglas Hofstadter, [I Am a Strange Loop](https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop)
+* Homer (trans. Emily Wilson), [The Odyssey](https://www.goodreads.com/book/show/34068470-the-odyssey)
 * David McCullough, [1776](https://www.goodreads.com/book/show/1067.1776)
+* Cormac McCarthy, [All the Pretty Horses](https://www.goodreads.com/book/show/469571.All_the_Pretty_Horses)
+* Richard Rhodes, [The Making of the Atomic Bomb](https://www.goodreads.com/book/show/16884.The_Making_of_the_Atomic_Bomb)
