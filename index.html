@@ -6,17 +6,18 @@ title: David Laing
 <div class="home">
 <h1>Welcome!</h1>
 <p>
-    I'm David Laing. I write this blog primarily to give more life to ideas that I think are underappreciated, often on the topics of communication, research, habits, learning, and personal effectiveness.
+    I'm David Laing. I write my blog mainly to give more life to ideas that I think are underappreciated, often about communication, research, habits, or learning.
     <br><br>
-    I'm a senior data scientist at <a href="https://www.imbellus.com/">Imbellus</a>, a venture-backed startup that is building cognitive assessments for the 21st century.
+    I'm a senior data scientist at <a href="https://www.imbellus.com/">Imbellus</a>, a venture-backed startup that builds simulation-based cognitive assessments.
     <br><br>
 </p>
+
 
   <div class="post-list">
     <h2>Recent posts</h2>
 
     {% for post in site.posts limit:5%}
-
+    
     <article class="post_card post">
       <header class="post_header">
         <h3 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
@@ -34,7 +35,7 @@ title: David Laing
       </div>
     </article>
     {% endfor %}
-
+    
     <div class="pagination older-post"><a href="./archive"><data data-icon="ei-arrow-right"></data> Archive </a></div>
   </div>
 </div>
