@@ -7,6 +7,8 @@ published: true
 
 Last updated: December 2019
 
+--------
+
 ## Books
 
 I am on [Goodreads](https://www.goodreads.com/user/show/36777500-david-laing).

@@ -5,6 +5,10 @@ permalink: /reading-pipeline/
 published: true
 ---
 
+Last updated: December 2019
+
+------
+
 This is my reading pipeline from the past two years or so.
 
 ## Now reading
