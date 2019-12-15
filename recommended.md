@@ -31,7 +31,7 @@ Here are some books or stories that I've read more than once, alphabetically by 
 Follow me on Spotify to see what I'm listening to lately:
 
 <iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:davidkendalllaing&size=detail&theme=light&show-count=0" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
-Here are my all-time favourite albums:
+Here are my ten all-time favourite albums:
 
 1. The La's, [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x?si=R_6yRDIPTber0hdKvC3rxg)
 2. Sufjan Stevens, [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE?si=FgDrolYrSECCOHkto9f53w)
