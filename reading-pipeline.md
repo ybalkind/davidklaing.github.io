@@ -5,6 +5,8 @@ permalink: /reading-pipeline/
 published: true
 ---
 
+This is my reading pipeline from the past two years or so.
+
 ## Now reading
 
 * Douglas Hofstadter, [Le Ton beau de Marot](https://www.goodreads.com/book/show/248193.Le_Ton_beau_de_Marot)
@@ -26,10 +28,10 @@ published: true
 
 ## Recently made a good dent
 
+* William Finnegan, [Barbarian Days](https://www.goodreads.com/book/show/18693910-barbarian-days)
 * Ted Chiang, [Exhalation](https://www.goodreads.com/book/show/41160292-exhalation)
 * Keith Johnstone, [Impro](https://www.goodreads.com/book/show/306940.Impro)
 * Kevin Simler and Robin Hanson, [The Elephant in the Brain](https://www.goodreads.com/book/show/28820444-the-elephant-in-the-brain)
-* William Finnegan, [Barbarian Days: A Surfing Life](https://www.goodreads.com/book/show/18693910-barbarian-days)
 
 ## Recently abandoned
 
