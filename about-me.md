@@ -1,10 +1,8 @@
 ---
 layout: page
-title: David Laing
+title: About me
 permalink: /about-me/
 ---
-
-### Bio
 
 I grew up in Ontario. It was a wonderful and fortunate childhood, filled with fantasy novels, James Taylor albums, canoe trips, and chlorine.
 
