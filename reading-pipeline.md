@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading Pipeline
+title: Reading pipeline
 permalink: /reading-pipeline/
 published: true
 ---
