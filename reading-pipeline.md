@@ -2,7 +2,7 @@
 layout: page
 title: Reading Pipeline
 permalink: /reading-pipeline/
-publish: true
+published: true
 ---
 
 ## Now reading
