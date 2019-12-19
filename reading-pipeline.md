@@ -13,10 +13,12 @@ This is my reading pipeline from the past two years or so.
 
 ## Now reading
 
+* Chanel Miller, [Know My Name](https://www.goodreads.com/book/show/47487207-know-my-name)
 * Douglas Hofstadter, [Le Ton beau de Marot](https://www.goodreads.com/book/show/248193.Le_Ton_beau_de_Marot)
 
 ## Recently finished
 
+* Sönke Ahrens, [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes)
 * Larry McMurtry, [Lonesome Dove](https://www.goodreads.com/book/show/7615279-lonesome-dove)
 * Robert Caro, [The Path to Power](https://www.goodreads.com/book/show/86524.The_Path_to_Power)
 * N.K. Jemisin, [The Fifth Season](https://www.goodreads.com/book/show/19161852-the-fifth-season)
@@ -42,14 +44,3 @@ This is my reading pipeline from the past two years or so.
 * Bill Browder, [Red Notice](https://www.goodreads.com/book/show/24811910-red-notice)
 * Neil Stephenson, [Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash)
 * Robert Sapolsky, [Behave](https://www.goodreads.com/book/show/31170723-behave)
-
-## Antilibrary
-
-* Robert Caro, [Means of Ascent](https://www.goodreads.com/book/show/208324.Means_of_Ascent)
-* Jorge Luis Borges, [Labyrinths](https://www.goodreads.com/book/show/17717.Labyrinths)
-* Alexandre Dumas, [The Count of Monte Cristo](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)
-* Douglas Hofstadter, [I Am a Strange Loop](https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop)
-* Homer (trans. Emily Wilson), [The Odyssey](https://www.goodreads.com/book/show/34068470-the-odyssey)
-* David McCullough, [1776](https://www.goodreads.com/book/show/1067.1776)
-* Cormac McCarthy, [All the Pretty Horses](https://www.goodreads.com/book/show/469571.All_the_Pretty_Horses)
-* Richard Rhodes, [The Making of the Atomic Bomb](https://www.goodreads.com/book/show/16884.The_Making_of_the_Atomic_Bomb)
