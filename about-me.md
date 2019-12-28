@@ -8,7 +8,7 @@ I grew up in Peterborough, Ontario. It was a wonderful and fortunate childhood, 
 
 I studied everything and nothing in McMaster University's interdisciplinary Arts & Science program, where I found my people.
 
-Later I moved to Vancouver, British Columbia to study in the first cohort of the Master of Data Science program at the University of British Columbia. I taught communication in the program for three years.
+Later I moved to Vancouver, British Columbia to study in the first cohort of the Master of Data Science program at the University of British Columbia. After graduating, I taught communication in the program for three years.
 
 I am now a senior data scientist at Imbellus. I live in Vancouver, British Columbia.
 
