@@ -4,6 +4,8 @@ title: Best of
 permalink: /best-of/
 ---
 
+---------
+
 ## Blog
 
 ### Most viewed posts of 2019
@@ -35,6 +37,8 @@ permalink: /best-of/
 [KendRick LamaR](https://davidklaing.com/blog/2017/05/07/kendrick-lamar-data-science.html)
 
 > An exploratory analysis of data about Kendrick Lamar's music, pulled from Spotify and Genius.
+
+-----------------
 
 ## Most liked tweets
 
