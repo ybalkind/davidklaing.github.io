@@ -38,6 +38,12 @@ permalink: /best-of/
 
 > An exploratory analysis of data about Kendrick Lamar's music, pulled from Spotify and Genius.
 
+### Most viewed posts of 2016
+
+[Summary: The Righteous Mind](https://davidklaing.com/blog/books/summaries/2016/09/01/the-righteous-mind.html)
+
+> My 4500-word, chapter-by-chapter summary of Jonathan Haidt's book on moral reasoning.
+
 -----------------
 
 ## Most liked tweets
