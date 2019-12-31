@@ -20,5 +20,5 @@ By April 1st:
 - 0 out of 1200 pages of books read.
 - 0 out of 12 Python Morsels problems attempted.
 - 0 out of 3 monthly reviews completed.
-- 0 out of 0 days when I spent more than 15 minutes playing chess.
+- 0 out of 0 days when I spent more than 20 minutes playing chess.
 - 0 out of 30 visits to the bouldering gym.
