@@ -10,7 +10,7 @@ I grew up in Peterborough, Ontario. It was a wonderful and fortunate childhood, 
 
 I studied everything and nothing in McMaster University's interdisciplinary [Arts & Science program](https://en.wikipedia.org/wiki/McMaster_Arts_and_Science), where I found my people.
 
-After a year of teaching writing at a Niagara College in Welland, Ontario, I decided to train as a data scientist. I moved to the west coast to study in the first cohort of the [Master of Data Science](https://masterdatascience.ubc.ca/) program at the University of British Columbia.
+After a year of teaching writing at a Niagara College in Welland, Ontario, I decided to train as a data scientist. I moved to the west coast to study in the first cohort of the [Master of Data Science program](https://masterdatascience.ubc.ca/) at the University of British Columbia.
 
 I now live in Vancouver with my partner. I love listening to music, playing chess, bouldering with friends, and biking everywhere no matter how hard it's raining.
 
@@ -33,7 +33,7 @@ By April 1st:
 - 0 out of 1200 pages of [books](https://davidklaing.com/reading-pipeline/) read.
 - 0 out of 12 [Python Morsels](pythonmorsels.com) problems attempted.
 - 0 out of 3 monthly reviews completed.
-- 0 out of 0 days when I spent more than 20 minutes playing chess.
+- 0 out of 10 days when I spent more than 20 minutes playing chess.
 - 0 out of 30 visits to the bouldering gym.
 
 ## How should you contact me?
