@@ -2,7 +2,7 @@
 layout: post
 title: "Gödel, Escher, Bach in 34 propositions"
 description: An attempt to standardize the argument in Douglas Hofstadter's 1979 masterpiece.
-categories: "blog books"
+categories: "blog"
 published: true
 ---
 
