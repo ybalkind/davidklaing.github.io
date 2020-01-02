@@ -16,7 +16,7 @@ _The answer is both, but here I focus on the former. Thanks also to @nosilverv f
 
 Douglas Hofstadter's 1979 masterpiece [*Gödel, Escher, Bach*](goodreads.com/book/show/24113.G_del_Escher_Bach) is notoriously hard to summarize. Its content is no less important than its form—in fact, its content is inextricable from its form. But here we will try to extricate it. Hofstadter would hate seeing these ideas strung out in an ugly skeleton, but even he would admit that most readers misinterpreted his book. In fact, he wrote a whole [_'nuther_ book](https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop) to clear up the confusion. (I have not read it, so it's fully possible that I'm just as confused as the rest of them.)
 
-I've attempted to write the core argument in [standardized form](https://www.futurelearn.com/courses/logical-and-critical-thinking/0/steps/9139). "P" stands for "premise", and "C" stands for "conclusion". Some of these claims are vague enough to be nearly meaningless, but that's what you get when you try to compress 777 pages into 34 propositions, especially when you're not a genius. Here goes nothing:
+I've attempted to write the core argument in [standardized form](https://www.futurelearn.com/courses/logical-and-critical-thinking/0/steps/9139). "P" stands for "premise", and "C" stands for "conclusion". Some of these claims are vague enough to be nearly meaningless, but that's what you get when you try to compress 777 pages into 34 propositions and you're not a genius. Here goes nothing:
 
 **P1.** The self is the part of the mind that is conscious.
 
