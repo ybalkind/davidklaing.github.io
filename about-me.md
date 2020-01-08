@@ -53,6 +53,6 @@ Because then we might become friends! Perhaps you...
 
 ---------------------------
 
-If you'd like to receive a weekly note with some interesting articles, sign up for my newsletter:
+I would love for you to join my weekly newsletter:
 
 <iframe width="100%" height="320" src="https://davidlaing.substack.com/embed" frameborder="0" scrolling="no"></iframe>
