@@ -97,11 +97,11 @@ Eleven months later I peaked with a rating of 1258, around the 78th percentile.
 
 22\. In a queen-only checkmate, back your opponent's king into a corner by successively moving your queen so that it is a knight's-move away from their king. Then bring your king over to support your queen in the checkmate.
 
-<p align="center"><img src="/assets/img/chess/queen_checkmate.png" width="75%"></p>
+<p align="center"><img src="/assets/img/chess/queen_checkmate.png" width="90%"></p>
 
 23\. In a two-rook checkmate, roll their king across the board one rank or file at a time.
 
-<p align="center"><img src="/assets/img/chess/two_rook_checkmate.png" width="75%"></p>
+<p align="center"><img src="/assets/img/chess/two_rook_checkmate.png" width="90%"></p>
 
 # The inner game of chess
 
