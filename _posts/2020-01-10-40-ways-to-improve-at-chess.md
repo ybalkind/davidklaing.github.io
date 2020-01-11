@@ -10,7 +10,7 @@ In 2019 I started playing blitz chess on [chess.com](chess.com). After my first 
 
 Eleven months later I peaked with a rating of 1258, around the 78th percentile.
 
-<img src="/assets/img/chess/elo_rating.png" width="100%">
+<p align="center"><img src="/assets/img/chess/elo_rating.png" width="100%"></p>
 
 1258 is a low rating among serious chess players. If I were to enter a tournament, I would probably lose most of my matches. However, compared to where I started, it's a massive improvement. After sharing many of my learnings in this [Twitter thread](https://twitter.com/davidklaing/status/1206117217911205888), I decided to organize all my tips into this blog post. You can skip ahead to the sections that interest you using the links below:
 
@@ -23,13 +23,13 @@ Eleven months later I peaked with a rating of 1258, around the 78th percentile.
 
 1\. Control and occupy the center. You can go to more places from the center than you can from the edges.
 
-<img src="/assets/img/chess/control_the_center.png" width="100%">
+<p align="center"><img src="/assets/img/chess/control_the_center.png" width="100%"></p>
 
 2\. In your first 10 moves or so, try not to move the same piece twice.
 
 3. Start by developing your minor pieces (your knights and bishops), but don't send them too far afield. A good position to aim for might look like this:
 
-<img src="/assets/img/chess/develop_minor_pieces.png" width="50%">
+<p align="center"><img src="/assets/img/chess/develop_minor_pieces.png" width="50%"></p>
 
 4\. Castle early. Ideally before your tenth move, but in general the sooner the better. This has two advantages: it stows your king away safely in the corner, and it connects your rooks.
 
@@ -37,11 +37,11 @@ Eleven months later I peaked with a rating of 1258, around the 78th percentile.
 
 6\. Don't double up your pawns. This prevents them from protecting each other, and means that the one behind can't advance until the one ahead does.
 
-<img src="/assets/img/chess/doubled_pawns.png" width="50%">
+<p align="center"><img src="/assets/img/chess/doubled_pawns.png" width="50%"></p>
 
 7\. Don't leave your pieces undefended. Let's look back at the position from tip #3. White has two pieces that are undefended, i.e. if black were to capture them, white couldn't recapture on those square. Can you spot them?
 
-<img src="/assets/img/chess/undefended_pieces.png" width="50%">
+<p align="center"><img src="/assets/img/chess/undefended_pieces.png" width="50%"></p>
 
 8\. Always look for check. If it's available, it is almost always your best move, for the simple reason that it drastically limits your opponent's options.
 
@@ -51,57 +51,57 @@ Eleven months later I peaked with a rating of 1258, around the 78th percentile.
 
 11\. If you can plant a minor piece in your opponent's territory such that it's defended by one of your pawns and can't be threatened by any of their pawns, it can be a tremendous thorn in their side.
 
-<img src="/assets/img/chess/thorn_in_their_side.png" width="50%">
+<p align="center"><img src="/assets/img/chess/thorn_in_their_side.png" width="50%"></p>
 
 12\. When the two players have castled on opposite sides, the game becomes a race to get as many pieces as possible close to the other player's king. I don't know why it works like this, but it does. Don't lose the race!
 
-<img src="/assets/img/chess/race_to_the_king.png" width="50%">
+<p align="center"><img src="/assets/img/chess/race_to_the_king.png" width="50%"></p>
 
 13\. In general, try to advance your C pawn before advancing your queenside knight. In the position below, black is going to have a hard time advancing their C pawn, which will block in their queen and generally stifle their development.
 
-<img src="/assets/img/chess/c_pawn_before_queenside_knight.png" width="50%">
+<p align="center"><img src="/assets/img/chess/c_pawn_before_queenside_knight.png" width="50%"></p>
 
 14\. It often seems to work well to push your H pawn so as to disrupt your opponent's king's pawn fortress.
 
-<img src="/assets/img/chess/push_your_h_pawn.png" width="50%">
+<p align="center"><img src="/assets/img/chess/push_your_h_pawn.png" width="50%"></p>
 
 15\. Coordinate your knights so that they can protect each other. (This is similar to tip #5, i.e. connect your rooks.)
 
-<img src="/assets/img/chess/knight_coordination.png" width="50%">
+<p align="center"><img src="/assets/img/chess/knight_coordination.png" width="50%"></p>
 
 16\. The more pawns are on light squares, the more valuable the dark-square bishops. (Because they can still move around the board.) Conversely, the more pawns are on dark squares, the more valuable the light-square bishops. The dark-square bishops are much more valuable here:
 
-<img src="/assets/img/chess/weak_in_dark.png" width="50%">
+<p align="center"><img src="/assets/img/chess/weak_in_dark.png" width="50%"></p>
 
 # Tactics
 
 17\. If your opponent exposes their queen in the opening, trade queens with them to prevent them from castling. (It took me SO LONG to understand why people kept doing that to me.)
 
-<img src="/assets/img/chess/trade_queens.png" width="50%">
+<p align="center"><img src="/assets/img/chess/trade_queens.png" width="50%"></p>
 
 18\. Two pawns on the sixth rank is worth at least a rook. In the position below, white is going to dominate.
 
-<img src="/assets/img/chess/two_pawns_worth_a_rook.png" width="50%">
+<p align="center"><img src="/assets/img/chess/two_pawns_worth_a_rook.png" width="50%"></p>
 
 19\. Look for forks. A fork is a move that attacks two pieces simultaneously. In the position below, white's knight attacks black's bishop and rook at the same time.
 
-<img src="/assets/img/chess/forks.png" width="50%">
+<p align="center"><img src="/assets/img/chess/forks.png" width="50%"></p>
 
 20\. Look for pins. A pin is a move that traps a valuable piece behind a less valuable one. In the position below, black's G pawn is "pinned". It can't advance or capture the queen because white's bishop is x-raying black's king.
 
-<img src="/assets/img/chess/pins.png" width="50%">
+<p align="center"><img src="/assets/img/chess/pins.png" width="50%"></p>
 
 21\. Look for skewers. A skewer is a move that forces a valuable piece to move out of the way, allowing the capture of a less valuable piece. In the position below, black has skewered white's king, allowing black to capture white's queen.
 
-<img src="/assets/img/chess/skewers.png" width="50%">
+<p align="center"><img src="/assets/img/chess/skewers.png" width="50%"></p>
 
 22\. In a queen-only checkmate, back your opponent's king into a corner by successively moving your queen so that it is a knight's-move away from their king. Then bring your king over to support your queen in the checkmate.
 
-<img src="/assets/img/chess/queen_checkmate.png" width="75%">
+<p align="center"><img src="/assets/img/chess/queen_checkmate.png" width="75%"></p>
 
 23\. In a two-rook checkmate, roll their king across the board one rank or file at a time.
 
-<img src="/assets/img/chess/two_rook_checkmate.png" width="75%">
+<p align="center"><img src="/assets/img/chess/two_rook_checkmate.png" width="75%"></p>
 
 # The inner game of chess
 
