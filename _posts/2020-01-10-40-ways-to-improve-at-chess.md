@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "40 ways to improve at chess, if you're a beginner"
-description: Lessons from my obsession in 2019.
+description: Adapted from my Threadapalooza effort  
 categories: "blog"
 published: true
 ---
