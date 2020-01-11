@@ -6,6 +6,14 @@ categories: "blog"
 published: true
 ---
 
+<style type="text/css">
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+</style>
+
 In 2019 I started playing blitz chess on [chess.com](chess.com). After my first hundred games, I had an ELO rating of about 650, which put me in the 2nd percentile among players on chess.com. In case you think I just got mixed up on the definition of 'percentile', no: I was better than 2% of players, and worse than 98% of players.
 
 Eleven months later I peaked with a rating of 1258, around the 78th percentile.
@@ -140,11 +148,3 @@ Eleven months later I peaked with a rating of 1258, around the 78th percentile.
 39. [Chessable](https://chessable.com) is spaced repetition software for chess. Use it to learn new openings and tactics.
 
 40. Watch [John Bartholomew's videos](https://www.youtube.com/channel/UC6hOVYvNn79Sl1Fc1vx2mYA). He's the best chess teacher out there, and most of what I've learned I learned from him.
-
-<style type="text/css">
-.centerImage
-{
- text-align:center;
- display:block;
-}
-</style>
