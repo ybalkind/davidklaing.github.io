@@ -33,7 +33,7 @@ Eleven months later I peaked with a rating of 1258, around the 78th percentile.
 
 4\. Castle early. Ideally before your tenth move, but in general the sooner the better. This has two advantages: it stows your king away safely in the corner, and it connects your rooks.
 
-5\. Connect your rooks! I.e. create a straight open line between your two rooks. This allows them to protect each other; if one gets captured, the other can recapture to make up the loss.
+5\. Connect your rooks: create a straight open line between them. This allows them to protect each other; if one gets captured, the other can recapture to make up the loss.
 
 6\. Don't double up your pawns. This prevents them from protecting each other, and means that the one behind can't advance until the one ahead does.
 
