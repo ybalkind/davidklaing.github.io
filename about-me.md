@@ -53,6 +53,6 @@ Because then we might become friends! Perhaps you...
 
 ---------------------------
 
-I would love for you to join my weekly newsletter:
+If I seem as interesting to you as I seem to myself, you should join my weekly newsletter:
 
 <iframe width="100%" height="320" src="https://davidlaing.substack.com/embed" frameborder="0" scrolling="no"></iframe>
