@@ -27,7 +27,7 @@ Eleven months later I peaked with a rating of 1258, around the 78th percentile.
 
 2\. In your first 10 moves or so, try not to move the same piece twice.
 
-3. Start by developing your minor pieces (your knights and bishops), but don't send them too far afield. A good position to aim for might look like this:
+3\. Start by developing your minor pieces (your knights and bishops), but don't send them too far afield. A good position to aim for might look like this:
 
 <p align="center"><img src="/assets/img/chess/develop_minor_pieces.png" width="50%"></p>
 
