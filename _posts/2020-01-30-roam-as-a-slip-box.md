@@ -43,7 +43,7 @@ My answers to these questions are in three Roam features:
 
 You can see me using all three of these features in my daily notes page from January 18th:
 
-![](../../assets/img/roam_slipbox/roam_daily_note.png)
+![](/assets/img/roam_slipbox/roam_daily_note.png)
 
 I like this system because it makes many things easy. I can compose, categorize, connect, and track my notes all at the speed of thought, without being prevented from using Roam for other purposes.
 
