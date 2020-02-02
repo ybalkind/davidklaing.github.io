@@ -23,7 +23,7 @@ The inventor of the slip-box method, the German sociologist Niklas Luhmann, conn
 
 Still, I haven't yet seen any accounts of how to use Roam as a slip-box. Despite being new to both Roam and the slip-box method, I thought I’d share my current system.
 
-If you aren’t familiar with Roam, you should go read Nat Eliason's [Roam: Why I Love it and How I Use It](https://www.nateliason.com/blog/roam). If you want to learn more about the slip-box method, read Sönke Ahrens' book [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes).
+If you aren’t familiar with Roam, you should go read Nat Eliason's [Roam: Why I Love it and How I Use It](https://www.nateliason.com/blog/roam). If you want to learn more about the slip-box method, read Sönke Ahrens' book [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) or Yuxi Liu's [summary of it](https://www.lesswrong.com/posts/T382CLwAjsy3fmecf/how-to-take-smart-notes-ahrens-2017).
 
 ## Roam as a slip-box
 
