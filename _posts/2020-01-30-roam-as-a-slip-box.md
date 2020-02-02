@@ -8,7 +8,9 @@ published: true
 
 ## The slip-box method
 
-I’ve been experimenting with a new note-taking system. It’s called the “slip-box” method, so named because it originally comprised a literal box into which the notetaker would slip index cards. The method excites me for two reasons. One: it’s a system for reflecting privately on the things I read—for checking my understanding, for improving retention of information, and for identifying questions to follow up on. Two: it’s a system for making connections between ideas. I pretty much buy the claim that creativity is mostly a matter of combining things in unusual ways, and the slip-box is a playground designed specifically for that.
+I’ve been experimenting with a new note-taking system. It’s called the “slip-box” method, so named because it originally comprised a literal box into which the notetaker would slip index cards.
+
+The method excites me for two reasons. One: it’s a system for reflecting privately on the things I read—for checking my understanding, for improving retention of information, and for identifying questions to follow up on. Two: it’s a system for making connections between ideas. I pretty much buy the claim that creativity is mostly a matter of combining things in unusual ways, and the slip-box is a playground designed specifically for that.
 
 So, what is it? Essentially, it is a repository and incubation chamber for two types of written documents. 
 
