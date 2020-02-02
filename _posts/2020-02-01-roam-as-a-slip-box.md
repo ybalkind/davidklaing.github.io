@@ -35,7 +35,7 @@ When I first started experimenting with the slip-box method in Roam, I had three
 
 My answers to these questions are in three Roam features:
 
-* **Daily Notes pages.** I write all my literature notes and permanent notes as individual blocks in my daily notes. This makes it easy to track when I wrote each note, and means that other notes or thoughts can be conveniently added in parallel.
+* **Daily Notes pages.** I write all my literature notes and permanent notes as individual blocks in my daily notes. This makes it easy to track when I wrote each note, and means that other notes or thoughts can be conveniently added in parallel without needing bounce around onto different pages.
 
 * **Tags**: I have a tag for literature notes (`#litnote`) and a tag for permanent notes (`#permnote`). I include these tags, as well as any relevant reference material, at the end of the relevant blocks. When I want to see all my literature notes or permanent notes together, I can go to the `litnote` or `permnote` pages and see them in the linked references.
 
