@@ -61,15 +61,15 @@ https://ubc-mds.github.io/2017-11-10-DSCI-542-communication/ #UBCMDS #DataScienc
 
 Finding conversational accounts is great, but you have to also *be* a conversational account. Even with few followers, it's easy to slip into broadcasting mode if you're not careful.”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1200467236101578752">November 29, 2019</a></blockquote>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Confirmation bias makes a lot more sense under the lens, "people don't have ideas, ideas have people."
+
+When someone's views are challenged and they start digging in their heels, what you're really seeing is the thrashing of a parasite that has a death grip on its host.”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1163841215017750529">August 20, 2019</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Responsiveness is such an underrated ingredient for friendship.
 
 It almost doesn't matter how you respond if you can consistently do it immediately.
 
 Responsive friendships self-sustain via positive feedback loops; laggy ones suffocate via negative feedback loops.”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1225685248786059266">February 6, 2020</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Confirmation bias makes a lot more sense under the lens, "people don't have ideas, ideas have people."
-
-When someone's views are challenged and they start digging in their heels, what you're really seeing is the thrashing of a parasite that has a death grip on its host.”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1163841215017750529">August 20, 2019</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“A good demonstration of this phenomenon, from @NateSilver538's The Signal and the Noise:”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1167839615845355520">August 31, 2019</a></blockquote>
 
