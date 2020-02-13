@@ -40,14 +40,16 @@ I invest in more American and international stocks than Canadian ones, simply be
 
 If you're interested, though, here's the breakdown for my TFSA, which is quite conservative since it's shorter-term:
 
-- 10% cash 15% Canadian stock index (TDB900)
+- 10% cash 
+- 15% Canadian stock index (TDB900)
 - 20% International stock index (TDB911)
 - 25% US stock index (TDB902)
 - 30% Canadian bond index (TDB909)
 
 And here's the breakdown for my RSP, which is more aggressive since it's long-term:
 
-- 0% cash 20% Canadian stock index (TDB900) 
+- 0% cash 
+- 20% Canadian stock index (TDB900) 
 - 30% International stock index (TDB911) 
 - 40% US stock index (TDB902) 
 - 10% Canadian bond index (TDB909)
