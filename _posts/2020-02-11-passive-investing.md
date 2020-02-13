@@ -74,7 +74,7 @@ Personally, I use a spreadsheet to rebalance my portfolio every time I add more 
 
 12\. Profit!
 
-These instructions obviously aren't for everyone, but if you're a Canadian who has found this stuff a bit out of reach, I hope this has demystified a few parts of it for you.
+This system obviously isn't for everyone, but if you're a Canadian who has found this stuff a bit out of reach, I hope this post has demystified a few parts of it for you.
 
 One last time: I am not a financial advisor, and I am definitely not *your* financial advisor. But if you have any questions on the level of this nuts & bolts stuff, or about my experience investing in the e-Series funds with TD's self-directed accounts, I'm happy to help!
 
