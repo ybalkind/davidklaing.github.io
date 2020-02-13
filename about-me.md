@@ -26,19 +26,17 @@ See this [Bloomberg article](https://www.bloomberg.com/news/features/2019-03-19/
 
 These goals were set on January 1st. Progress was last updated on February 1st. 
 
-🟢 = on track | 🔴 = behind
-
 By April 1st:
 
-- 1650 out of 3750 words published on my [blog](https://davidklaing.com/archive). 🟢
-- 4 out of 13 [newsletter](https://davidlaing.substack.com/) issues sent. 🟢
-- 390 out of 1200 pages of [books](https://davidklaing.com/reading-pipeline/) read. 🟢
-- 16 out of 60 literature notes created. 🔴
-- 8 out of 30 permanent notes created. 🔴
-- 3 out of 12 [Python Morsels](pythonmorsels.com) problems attempted. 🔴
-- 1 out of 3 monthly reviews completed. 🟢
-- 1 out of 10 days when I spent more than 20 minutes playing chess. 🟢
-- 6 out of 30 visits to the bouldering gym. 🔴
+- 1650 out of 3750 words published on my [blog](https://davidklaing.com/archive).
+- 4 out of 13 [newsletter](https://davidlaing.substack.com/) issues sent.
+- 390 out of 1200 pages of [books](https://davidklaing.com/reading-pipeline/) read.
+- 16 out of 60 literature notes created.
+- 8 out of 30 permanent notes created.
+- 3 out of 12 [Python Morsels](pythonmorsels.com) problems attempted.
+- 1 out of 3 monthly reviews completed.
+- 1 out of 10 days when I spent more than 20 minutes playing chess.
+- 6 out of 30 visits to the bouldering gym.
 
 ## How should you contact me?
 
