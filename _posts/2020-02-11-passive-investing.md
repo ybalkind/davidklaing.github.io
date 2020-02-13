@@ -26,9 +26,7 @@ The TFSA is a great place to start because you invest after-tax income, and can 
 
 ![](/assets/img/passive_investing/mutual_funds.png)
 
-6\. Decide on your portfolio: what proportion of your investments will go into which funds? Mine is adapted from the model portfolios on Canadian Couch Potato, a site that I think is the best source of information about passive investing for Canadians.
-
-Here's the site: [https://canadiancouchpotato.com](https://canadiancouchpotato.com) 
+6\. Decide on your portfolio: what proportion of your investments will go into which funds? Mine is adapted from the model portfolios on Canadian Couch Potato, a site that I think is the best source of information about passive investing for Canadians. Here's the site: [https://canadiancouchpotato.com](https://canadiancouchpotato.com) 
 
 And here are the model portfolios for the TD e-Series funds, which are the ones I invest in: [https://cdn.canadiancouchpotato.com/wp-content/uploads/2020/02/CCP-Model-Portfolios-TD-e-Series-2019.pdf](https://cdn.canadiancouchpotato.com/wp-content/uploads/2020/02/CCP-Model-Portfolios-TD-e-Series-2019.pdf)
 
@@ -38,7 +36,7 @@ Personally, I have a shorter horizon for my TFSA (which I think of as down payme
 
 I invest in more American and international stocks than Canadian ones, simply because those markets are larger and I want to avoid "home bias"—the tendency for investors to invest in companies from their own countries. But the best allocation for me is not necessarily the best one for you. To reiterate: I'm not a financial advisor, and if you feel more comfortable just following Canadian Couch Potato's advice, you should do that. Really though, do your research and think it through.
 
-If you're interested, though, here's the breakdown for my TFSA, which is quite conservative since it's shorter-term:
+If you're interested, here's the breakdown for my TFSA, which is quite conservative since it's shorter-term:
 
 - 10% cash 
 - 15% Canadian stock index (TDB900)
