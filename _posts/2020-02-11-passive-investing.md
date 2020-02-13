@@ -64,9 +64,11 @@ Personally, I use a spreadsheet to rebalance my portfolio every time I add more 
 
 9\. For "Quantity type", choose "Dollar Amount":
 
-![](/assets/img/passive_investing/enter_amount.png)
+![](/assets/img/passive_investing/quantity_type.png)
 
 10\. Enter the amount from the "Delta" column if you're using my spreadsheet template, or just add however much you want to invest in this particular fund. ($100 is the minimum amount for each of these funds.)
+
+![](/assets/img/passive_investing/enter_amount.png)
 
 11\. Click "Preview order", then "Agree & Send Order":
 
