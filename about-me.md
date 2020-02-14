@@ -6,7 +6,7 @@ permalink: /about-me/
 
 ## What's my story?
 
-I grew up in Peterborough, Ontario. It was a wonderful and fortunate childhood, filled with fantasy novels, James Taylor albums, canoe trips, and chlorine.
+I grew up in Peterborough, Ontario. It was a wonderful and fortunate childhood, filled with fantasy novels, James Taylor albums, canoe trips, and swim meets.
 
 I studied everything and nothing in McMaster University's interdisciplinary [Arts & Science program](https://en.wikipedia.org/wiki/McMaster_Arts_and_Science), where I found my people.
 
