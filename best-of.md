@@ -49,6 +49,15 @@ permalink: /best-of/
 
 ## Top 10 most-liked tweets
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Ways to decommodify yourself:
+
+- no side projects
+- no diligent note-taking
+- stop tracking your habits
+- stop trying to produce content
+- spend more time with loved ones
+- throw away your list of Great Books that you think will make you an Educated Person, and just read for fun”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1234746395610898432">March 3, 2029</a></blockquote>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Restored video footage of the streets of Paris from the early 1900s. 🤯 Incroyable! https://twitter.com/i/status/1183022305867378689/video/1”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1183022305867378689">October 12, 2019</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“1 like = 1 way to become a tiny bit better at chess (if you're a beginner)”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1206117217911205888">December 15, 2019</a></blockquote>
@@ -84,9 +93,5 @@ Responsive friendships self-sustain via positive feedback loops; laggy ones suff
 ✅ Repeat”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1180586417941929985">October 5, 2019</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“My guess: the average public speaker is nervous and rambly, so slowing down improves coherence, while the average podcast speaker is already coherent, so speeding up improves throughput.”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1212048094587760646">December 31, 2019</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“Just had my first experience drafting an article by connecting and reordering slip-box notes.
-
-700 words of unpolished but intelligible prose in about 30 minutes. Of course, this was the culmination of many hours of reading and note-taking—but still, feels good! Very bottom-up.”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1221709016373452800">January 27, 2020</a></blockquote>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
