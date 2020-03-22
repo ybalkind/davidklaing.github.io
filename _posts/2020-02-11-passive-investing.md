@@ -54,7 +54,7 @@ And here's the breakdown for my RSP, which is more aggressive since it's long-te
 
 7\. After deciding on your portfolio, calculate how much of your cash to invest in each fund. You can whip out your calculator and just calculate the percentages every time if you want, but:
 
-Personally, I use a spreadsheet to rebalance my portfolio every time I add more cash. Feel free to [make a copy](https://cdn.canadiancouchpotato.com/wp-content/uploads/2020/02/CCP-Model-Portfolios-TD-e-Series-2019.pdf) of the template, if you want to use it. Edit the values under "Current Amount" and "Target Percentage", and everything else will update automatically.
+Personally, I use a spreadsheet to rebalance my portfolio every time I add more cash. Feel free to [make a copy](https://docs.google.com/spreadsheets/d/1OWwhZ3SmQ4fmUzL-OpPVEaLibobMznyUdAFXwQIeLn0/copy) of the template, if you want to use it. Edit the values under "Current Amount" and "Target Percentage", and everything else will update automatically.
 
 8\. Go back to the Buy & Sell page on WebBroker, and search for the first fund in your list. For example:
 
