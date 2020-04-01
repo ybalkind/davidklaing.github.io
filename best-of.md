@@ -9,19 +9,15 @@ permalink: /best-of/
 
 ## Blog
 
-### Most viewed posts of 2019
+### Most viewed essays of 2019
 
-[If you're good, you need to talk more](https://davidklaing.com/blog/2019/07/09/talk-more.html)
+[If you're good, you need to talk more](https://davidklaing.com/essays/talk-more.html)
 
 > An essay about the virtue of openness.
 
-[The personal PhD](https://davidklaing.com/blog/2019/07/16/personal-phd.html)
+[The personal PhD](https://davidklaing.com/essays/personal-phd.html)
 
 > I think people who are drawn to PhD programs should consider whether they can assemble the key ingredients on their own.
-
-[How to get a job in data science](https://davidklaing.com/blog/2019/04/11/how-to-get-a-job-in-data-science.html)
-
-> It is said that when you give the same advice three times, you should write it down in a blog post. I’m often approached for advice by job seekers in data science, so this is that blog post.
 
 ### Most viewed posts of 2018
 
