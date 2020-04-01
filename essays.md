@@ -4,7 +4,7 @@ title: "Essays"
 published: true
 ---
 
-My 'essays' are standalone pieces of writing that make an argument or describe an insight that isn't necessarily tied to a particular topic. For my other writing see my [notes][https://www.davidklaing/notes], which include book reviews, article commentaries, media recommendations, how-to's, and other reference material.
+My 'essays' are standalone pieces of writing that make an argument or describe an insight that isn't necessarily tied to a particular topic. For my other writing see my [notes](https://www.davidklaing/notes), which include book reviews, article commentaries, media recommendations, how-to's, and other reference material.
 
 - [Tidy up so you can make a useful mess](https://www.davidklaing.com/essays/tidy-up)
 - [Covers shouldn't just be for musicians](https://www.davidklaing.com/essays/covers-shouldnt-just-be-for-musicians)
