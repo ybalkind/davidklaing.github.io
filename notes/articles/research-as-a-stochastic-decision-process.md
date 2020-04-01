@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research as a Stochastic Decision Process (Jacob Steinhardt)"
+title: "Research as a stochastic decision process — Jacob Steinhardt"
 published: true
 ---
 

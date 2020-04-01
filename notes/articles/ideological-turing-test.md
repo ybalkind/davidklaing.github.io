@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Ideological Turing test (Bryan Caplan)"
+title: "The Ideological Turing test — Bryan Caplan"
 published: true
 ---
 

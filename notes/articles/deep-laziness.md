@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Deep Laziness (Sarah Perry)"
+title: "Deep Laziness — Sarah Perry"
 published: true
 ---
 

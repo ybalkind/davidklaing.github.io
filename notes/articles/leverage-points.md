@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Leverage Points (Donella Meadows)"
+title: "Leverage Points — Donella Meadows"
 published: true
 ---
 

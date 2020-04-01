@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pushing and pulling goals (Scott Alexander)"
+title: "Pushing and pulling goals — Scott Alexander"
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Prototyping at the speed of thought (Tom Chi)"
+title: "Prototyping at the speed of thought — Tom Chi"
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Levels of Action (Alyssa Vance)"
+title: "Levels of Action — Alyssa Vance"
 published: true
 ---
 

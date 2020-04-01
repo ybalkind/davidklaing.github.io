@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Crony Beliefs (Kevin Simler)"
+title: "Crony Beliefs — Kevin Simler"
 published: true
 ---
 

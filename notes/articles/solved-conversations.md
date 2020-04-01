@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Solved conversations (Aaron Z. Lewis)"
+title: "Solved conversations — Aaron Z. Lewis"
 published: true
 ---
 
