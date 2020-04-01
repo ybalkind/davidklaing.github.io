@@ -220,11 +220,11 @@ p.readmore {
 
 .article-content a {
   color:blue;
-  border-bottom:1px blue;
+  text-decoration: underline;
 }
 .article-content a:hover {
   color:blueviolet;
-  border-bottom:1px blueviolet;
+  text-decoration: underline;
 }
 
 .article-footer {
