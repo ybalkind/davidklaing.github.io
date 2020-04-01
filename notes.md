@@ -33,8 +33,8 @@ My notes include book reviews, article commentaries, media recommendations, how-
 ## Data science
 
 - [Size-constrained gradient descent and the Cauchy-Schwarz inequality](https://davidklaing.com/notes/data-science/cauchy-schwarz-inequality)
-- [How to get a job in data science](https://davidklaing.com/notes/how-to-get-a-job-in-data-science)
-- [Nested data in the tidyverse](https://wdavidklaing.com/notes/nested-data-in-the-tidyverse)
+- [How to get a job in data science](https://davidklaing.com/notes/data-science/how-to-get-a-job-in-data-science)
+- [Nested data in the tidyverse](https://davidklaing.com/notes/data-science/nested-data-in-the-tidyverse)
 
 ## Investing
 
@@ -42,22 +42,22 @@ My notes include book reviews, article commentaries, media recommendations, how-
 
 ## Media lists
 
-- [Favourite media of 2018](https://davidklaing.com/notes/favourite-media-of-2018)
-- [Favourite media of 2017](https://davidklaing.com/notes/favourite-media-of-2017)
+- [Favourite media of 2018](https://davidklaing.com/notes/media/favourite-media-of-2018)
+- [Favourite media of 2017](https://davidklaing.com/notes/media/favourite-media-of-2017)
 
 ## Note-taking
 
-- [Roam as a slip-box](https://davidklaing.com/notes/roam-as-a-slipbox)
+- [Roam as a slip-box](https://davidklaing.com/notes/note-taking/roam-as-a-slipbox)
 
 ## Personal reviews
 
-- [2019 annual review](https://davidklaing.com/notes/2019-annual-review)
+- [2019 annual review](https://davidklaing.com/notes/reviews/2019-annual-review)
 
 ## Projects
 
-- [Breaking news Twitter bot](https://davidklaing.com/notes/breaking-news-bot)
-- [KendRick LamaR](https://davidklaing.com/notes/kendrick-lamar)
+- [Breaking news Twitter bot](https://davidklaing.com/notes/projects/breaking-news-bot)
+- [KendRick LamaR](https://davidklaing.com/notes/projects/kendrick-lamar)
 
 ## Reference
 
-- [My laptop setup](https://davidklaing.com/notes/my-laptop-setup)
+- [My laptop setup](https://davidklaing.com/notes/reference/my-laptop-setup)
