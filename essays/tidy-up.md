@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Tidy up so you can make a useful mess"
-permalink: /essays/tidy-up/
 published: true
 ---
 
