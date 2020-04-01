@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Tidy up so you can make a useful mess"
-description: An underappreciated benefit of habitually tidying up is that it gives you more confidence to make useful messes.
-categories: "blog"
+permalink: /essays/tidy-up/
 published: true
 ---
 
