@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Recommended"
-description: A list of things I like.
+title: "Books I recommend"
 published: true
 ---
 

@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Reading pipeline
-permalink: /reading-pipeline/
 published: true
 ---
 
-Last updated: 2020-01-11
+Last updated: 2020-04-01
 
 ------
 
@@ -13,12 +12,14 @@ This is my reading pipeline from the past two years or so.
 
 ## Now reading
 
-* Octavia Butler, [Wild Seed](https://www.goodreads.com/book/show/52318.Wild_Seed)
+* Vladimir Nabokov, [Lolita](https://www.goodreads.com/book/show/18133.Lolita)
 * Jane Jacobs, [The Death and Life of Great American Cities](https://www.goodreads.com/book/show/30833.The_Death_and_Life_of_Great_American_Cities)
 * Douglas Hofstadter, [Le Ton beau de Marot](https://www.goodreads.com/book/show/248193.Le_Ton_beau_de_Marot)
 
 ## Recently finished
 
+* Haruki Murakami, [Sputnik Sweetheart](https://www.goodreads.com/book/show/9557.Sputnik_Sweetheart)
+* Octavia Butler, [Wild Seed](https://www.goodreads.com/book/show/52318.Wild_Seed)
 * Steven Millhauser, [Martin Dressler](https://www.goodreads.com/book/show/40856825-martin-dressler)
 * Chanel Miller, [Know My Name](https://www.goodreads.com/book/show/47487207-know-my-name)
 * Sönke Ahrens, [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes)
