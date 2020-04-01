@@ -22,22 +22,6 @@ I write scoring logic, develop predictive models of hiring outcomes, and do anal
 
 See this [Bloomberg article](https://www.bloomberg.com/news/features/2019-03-19/a-harvard-dropout-s-plan-to-fix-college-admissions-with-video-games) to learn more about the company, or watch our CEO Rebecca Kantar's talk at [Google](youtube.com/watch?v=JoTlMNamSAg).
 
-## What are my current personal goals?
-
-These goals were set on January 1st. Progress was last updated on March 1st. 
-
-By April 1st:
-
-- 2400 out of 3750 words published on my [blog](https://davidklaing.com/archive).
-- 5 out of 13 [newsletter](https://davidlaing.substack.com/) issues sent.
-- 800 out of 1200 pages of [books](https://davidklaing.com/reading-pipeline/) read.
-- 16 out of 60 literature notes created.
-- 8 out of 30 permanent notes created.
-- 3 out of 12 [Python Morsels](pythonmorsels.com) problems attempted.
-- 2 out of 3 monthly reviews completed.
-- 1 out of 10 days when I spent more than 20 minutes playing chess.
-- 16 out of 30 visits to the bouldering gym.
-
 ## How should you contact me?
 
 The best way is to send me a message on [Twitter](https://twitter.com/davidklaing). You're also welcome to email me at davidkendalllaing at gmail dot com.
