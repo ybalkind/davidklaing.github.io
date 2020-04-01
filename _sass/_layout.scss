@@ -219,10 +219,12 @@ p.readmore {
 }
 
 .article-content a {
+  border-bottom:1px blueviolet;
   text-decoration:none;
 }
 .article-content a:hover {
-  color:blueviolet;
+  color:violet;
+  border-bottom:1px violet;
 }
 
 .article-footer {
