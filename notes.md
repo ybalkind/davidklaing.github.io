@@ -4,6 +4,8 @@ title: "Notes"
 published: true
 ---
 
+My notes include book reviews, article commentaries, media recommendations, how-to's, and other reference material. For standalone pieces that make argument or describe personal insights, see my [essays](https://www.davidklaing.com/essays).
+
 ## Article summaries and commentaries
 
 - [Crony beliefs — Kevin Simler](https://www.davidklaing.com/notes/articles/crony-beliefs)
