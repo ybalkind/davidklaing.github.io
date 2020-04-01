@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Deep Laziness (Sarah Perry)"
 published: true
 ---

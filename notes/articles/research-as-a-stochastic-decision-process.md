@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Research as a Stochastic Decision Process (Jacob Steinhardt)"
 published: true
 ---

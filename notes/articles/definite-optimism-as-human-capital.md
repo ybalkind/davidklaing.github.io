@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Definite optimism as human capital (Dan Wang)"
 published: true
 ---

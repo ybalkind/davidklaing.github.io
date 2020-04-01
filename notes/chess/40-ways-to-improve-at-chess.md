@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "40 ways to improve at chess, if you're a beginner"
 published: true
 ---

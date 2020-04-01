@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Gödel, Escher, Bach in 34 propositions"
 published: true
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Seeing Like a State (Scott Alexander and Venkatesh Rao)"
 published: true
 ---

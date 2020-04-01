@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Size-constrained gradient descent and the Cauchy-Schwarz inequality"
 published: true
 ---

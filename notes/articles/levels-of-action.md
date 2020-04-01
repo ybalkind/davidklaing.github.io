@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Levels of Action (Alyssa Vance)"
 published: true
 ---

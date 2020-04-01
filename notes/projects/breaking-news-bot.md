@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 project: true
 title: Breaking news Twitter bot
 published: true

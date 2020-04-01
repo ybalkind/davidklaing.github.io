@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "How to get a job in data science"
 published: true
 ---

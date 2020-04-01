@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Covers shouldn't just be for musicians"
 published: true
 ---

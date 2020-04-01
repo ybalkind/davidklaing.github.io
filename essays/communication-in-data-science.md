@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Communication in data science: more than just the final report"
 published: true
 ---

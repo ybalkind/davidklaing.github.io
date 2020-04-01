@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Pushing and pulling goals (Scott Alexander)"
 published: true
 ---

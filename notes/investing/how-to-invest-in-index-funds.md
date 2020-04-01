@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "How to invest in index funds, for Canadians"
 published: true
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Favourite media of 2018"
 published: true
 ---

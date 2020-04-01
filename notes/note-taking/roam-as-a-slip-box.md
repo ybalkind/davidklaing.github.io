@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Roam as a slip-box"
 published: true
 ---

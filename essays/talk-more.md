@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "If you're good, you need to talk more"
 published: true
 ---

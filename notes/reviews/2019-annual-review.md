@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Annual review, 2019
 published: true
 ---

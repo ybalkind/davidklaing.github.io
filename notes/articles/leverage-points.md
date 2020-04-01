@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Leverage Points (Donella Meadows)"
 published: true
 ---

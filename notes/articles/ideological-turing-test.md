@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "The Ideological Turing test (Bryan Caplan)"
 published: true
 ---

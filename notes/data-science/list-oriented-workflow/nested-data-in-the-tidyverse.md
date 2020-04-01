@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Nested data in the tidyverse"
 published: true
 ---

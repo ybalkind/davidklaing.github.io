@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Embracers and equalizers"
 published: true
 ---
