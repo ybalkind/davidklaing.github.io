@@ -6,7 +6,7 @@ published: true
 
 ## Article summaries and commentaries
 
-- [Crony beliefs (Kevin Simler)][https://www.davidklaing.com/notes/articles/crony-beliefs]
+- [Crony beliefs (Kevin Simler)](https://www.davidklaing.com/notes/articles/crony-beliefs)
 - [Deep laziness (Sarah Perry)](https://www.davidklaing.com/notes/articles/deep-laziness)
 - [Definite optimism as human capital (Dan Wang)](https://www.davidklaing.com/notes/articles/definite-optimism-as-human-capital)
 - [The ideological Turing test (Bryan Caplan)](https://www.davidklaing.com/notes/articles/ideological-turing-test)
