@@ -34,9 +34,3 @@ Because then we might become friends! Perhaps you...
 * read something on my site that _you_ found interesting.
 * want to collaborate on a project.
 * want to meet me for coffee.
-
----------------------------
-
-If I seem as interesting to you as I seem to myself, you should join my monthly newsletter:
-
-<iframe width="100%" height="320" src="https://davidlaing.substack.com/embed" frameborder="0" scrolling="no"></iframe>
