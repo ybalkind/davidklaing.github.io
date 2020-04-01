@@ -47,7 +47,7 @@ My notes include book reviews, article commentaries, media recommendations, how-
 
 ## Note-taking
 
-- [Roam as a slip-box](https://davidklaing.com/notes/note-taking/roam-as-a-slipbox)
+- [Roam as a slip-box](https://davidklaing.com/notes/note-taking/roam-as-a-slip-box)
 
 ## Personal reviews
 
