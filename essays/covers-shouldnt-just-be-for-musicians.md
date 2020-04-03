@@ -42,9 +42,9 @@ Look, I get it: we want to be recognized for our own ideas. And when the origina
 
 Covers exist in other domains too: scientists reproduce other scientists’ experiments; chefs reproduce other chefs’ recipes; painters reproduce other painters’ paintings. If you’re a writer, why not try your hand at reproducing another writer’s work? I've been doing this for the past few months. Here are a few examples:
 
-* [Summary of Deep Laziness, by Sarah Perry](https://davidklaing.com/notes/articles/deep-laziness)
-* [Summary of Solved Conversations, by Aaron Z. Lewis](https://davidklaing.com/notes/articles/solved-conversations)
-* [Summary of Research as a Stochastic Decision Process, by Jacob Steinhardt](https://davidklaing.com/notes/articles/research-as-a-stochastic-decision-process)
+* [Summary of Deep Laziness, by Sarah Perry](https://davidklaing.com/notes/commentaries/deep-laziness)
+* [Summary of Solved Conversations, by Aaron Z. Lewis](https://davidklaing.com/notes/commentaries/solved-conversations)
+* [Summary of Research as a Stochastic Decision Process, by Jacob Steinhardt](https://davidklaing.com/notes/commentaries/research-as-a-stochastic-decision-process)
 
 It's been great exercise for my writing muscles, and I now have enough "original"<sup>2</sup> ideas to last me several blog posts. Even if those ideas run dry, I don't have to worry about writer's block. If my own ideas aren't flowing, I can just cover someone else's.
 
