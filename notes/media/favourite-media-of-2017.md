@@ -49,7 +49,7 @@ Alphabetical by author's last name.
 
 Alphabetical by title.
 
-* [Ben Sasses on the Space between Nebraska and Neverland](https://medium.com/conversations-with-tyler/ben-sasse-tyler-cowen-book-twitter-trump-cb5b4a435323) – Conversations with Tyler
+* [Ben Sasse on the Space between Nebraska and Neverland](https://medium.com/conversations-with-tyler/ben-sasse-tyler-cowen-book-twitter-trump-cb5b4a435323) – Conversations with Tyler
 * [Biology and Culture – A Conversation with Bret Weinstein](https://www.samharris.org/podcast/item/biology-and-culture) – Waking Up with Sam Harris
 * [Dylan Matthews on "The science and ethics of kidney donation"](http://rationallyspeakingpodcast.org/show/rs-177-dylan-matthews-on-the-science-and-ethics-of-kidney-do.html) – Rationally Speaking
 * [Gettier Goggles](https://verybadwizards.fireside.fm/112) – Very Bad Wizards
