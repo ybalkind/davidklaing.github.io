@@ -10,7 +10,7 @@ last_updated: 2020-04-03
 
 ---
 
-E.M. Forster's short story [The Machine Stops](https://www.goodreads.com/book/show/4711854-the-machine-stops), published in 1909, gives an eerily prescient account of life in the time of the COVID-19 pandemic. It's a short read—about an hour—but it's packed with passages that made my jaw drop for how specifically they describe our present situation, right down to our self-isolation, our parasocial relationships, the aesthetic uniformity of our virtual lives, and the preponderance of remakes and remixes in the media we consume.
+E.M. Forster's short story [The Machine Stops](https://www.goodreads.com/book/show/4711854-the-machine-stops), published in 1909, gives an eerily prescient account of life in the time of the COVID-19 pandemic. It's a short read—about an hour—but it's packed with passages that made my jaw drop for how specifically they describe our present situation, right down to our self-isolation, our [parasocial](https://en.wikipedia.org/wiki/Parasocial_interaction) relationships, the aesthetic uniformity of our virtual lives, and the preponderance of remakes and remixes in the media we consume.
 
 The story takes place in a world where everyone lives in the Machine, a massive underground human beehive that offers protection from the toxic air on the Earth's surface. Every person lives alone in a hexagonal room through which the Machine provides their every need: food, entertainment, medical care, and the ability to communicate with others via video chats. People spend their days giving and attending virtual lectures; the more upstanding citizens of the world are above all concerned with producing "ideas".
 
