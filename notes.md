@@ -28,8 +28,8 @@ My notes include book reviews, article commentaries, media recommendations, how-
 - [Size-constrained gradient descent and the Cauchy-Schwarz inequality](https://davidklaing.com/notes/data-science/cauchy-schwarz-inequality)
 - [How to get a job in data science](https://davidklaing.com/notes/data-science/how-to-get-a-job-in-data-science)
 - [Nested data in the tidyverse](https://davidklaing.com/notes/data-science/nested-data-in-the-tidyverse)
-- [Breaking news Twitter bot](https://davidklaing.com/notes/projects/breaking-news-bot)
-- [KendRick LamaR](https://davidklaing.com/notes/projects/kendrick-lamar)
+- [Breaking news Twitter bot](https://davidklaing.com/notes/data-science/breaking-news-bot)
+- [KendRick LamaR](https://davidklaing.com/notes/data-science/kendrick-lamar)
 
 ## Media
 
