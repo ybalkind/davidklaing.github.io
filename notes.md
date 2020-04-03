@@ -13,7 +13,7 @@ My notes include book reviews, article commentaries, media recommendations, how-
 - [Deep laziness — Sarah Perry](https://davidklaing.com/notes/commentaries/deep-laziness)
 - [Definite optimism as human capital — Dan Wang](https://davidklaing.com/notes/commentaries/definite-optimism-as-human-capital)
 - [Godel, Escher, Bach — Douglas Hofstadter](https://davidklaing.com/notes/commentaries/godel-escher-bach)
-- [The ideological Turing test — Bryan Caplan](https://davidklaing.com/notes/commentaries/ideological-turing-test)
+- [The Ideological Turing Test — Bryan Caplan](https://davidklaing.com/notes/commentaries/ideological-turing-test)
 - [Levels of action — Alyssa Vance](https://davidklaing.com/notes/commentaries/levels-of-action)
 - [Leverage points — Donella Meadows](https://davidklaing.com/notes/commentaries/leverage-points)
 - [Prototyping at the speed of thought — Tom Chi](https://davidklaing.com/notes/commentaries/prototyping-at-the-speed-of-thought)
