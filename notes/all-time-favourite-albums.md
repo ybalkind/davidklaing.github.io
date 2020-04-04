@@ -2,10 +2,11 @@
 layout: page
 title: "All-time favourite albums"
 nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
+last_updated: 2020-04-01
 published: true
 ---
 
-Last updated: 2020-04-01
+---
 
 1. The La's, [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x?si=R_6yRDIPTber0hdKvC3rxg)
 2. Sufjan Stevens, [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE?si=FgDrolYrSECCOHkto9f53w)
