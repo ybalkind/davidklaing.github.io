@@ -26,7 +26,7 @@ Besides, why speak in person when they could communicate perfectly well through 
 
 **He predicts the end of travel.**
 
-She leaves her room and begins her journey across through the Machine. People aren't forbidden from travelling, but few bother to do it: "thanks to the advance of science, the earth was exactly alike all over. [...] What was the good of going to Peking when it was just like Shrewsbury? Why return to Shrewsbury when it would all be like Peking? Men seldom moved their bodies; all unrest was concentrated in the soul."
+Vashti leaves her room and begins her journey across through the Machine. People aren't forbidden from travelling, but few bother to do it: "thanks to the advance of science, the earth was exactly alike all over. [...] What was the good of going to Peking when it was just like Shrewsbury? Why return to Shrewsbury when it would all be like Peking? Men seldom moved their bodies; all unrest was concentrated in the soul."
 
 **He predicts enduring norms of social distancing.**
 
@@ -36,7 +36,7 @@ Most of Vashti's journey takes place in an airship. At one point she is disturbe
 
 **He predicts the plight of the homeless.**
 
-Eventually she reaches her son, who tells her in person what he wouldn't say through the Machine: he had gone to the surface of the Earth without a permit. He had found a crack in the Machine and had escaped to wander the hills above, until he was mysteriously pulled back down and struck unconscious, only to reawaken in his room. Vashti is certain that her son's behavior will result in "Homelessness": permanent banishment to the surface, and death from the toxic air. She dismisses him as insane and departs, never to see him again.
+Eventually Vashti reaches her son, who tells her in person what he wouldn't say through the Machine: he had gone to the surface of the Earth without a permit. He had found a crack in the Machine and had escaped to wander the hills above, until he was mysteriously pulled back down and struck unconscious, only to reawaken in his room. Vashti is certain that her son's behavior will result in "Homelessness": banishment to the surface, and to death from the toxic air. She dismisses him as insane and departs, never to see him again.
 
 **He predicts the preponderance of remakes and remixes in the media we create and consume.**
 
