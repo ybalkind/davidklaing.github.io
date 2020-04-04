@@ -20,21 +20,31 @@ The main character is Vashti, a woman who enjoys her life in the Machine and doe
 
 Of course, we still go outside, and not all of us live alone. But most of us do spend close to 24 hours a day in the same set of rooms, and enjoy complete control over both our physical and digital environments. Forster wouldn't have used the phrase "digital environment", since he wrote this decades before the invention of the transistor, let alone the rise of personal computing and social media. But if he were alive today, it's clear that he would be unphased by the prevalence of podcasts, YouTube, Twitter, and online courses.
 
+## Forster predicts the end of originality.
+
+We learn from one of Vashti's lecturers that not all ideas are equally valued:
+
+> “Beware of first-hand ideas!” exclaimed one of the most advanced of them. “First-hand ideas do not really exist. They are but the physical impressions produced by love and fear, and on this gross foundation who could erect a philosophy? Let your ideas be second-hand, and if possible tenth-hand, for then they will be far removed from that disturbing element—direct observation."
+
+I probably don't need to point out the irony of the context in which you're reading *these* ideas. If you're familiar with my writing, you know that I'm not merly a participant in the culture of [everything being a remix](https://www.youtube.com/watch?v=nJPERZDfyWc); I'm a [perpetuator](https://davidklaing.com/essays/covers-shouldnt-just-be-for-musicians) of it.
+
 ## Forster predicts the ubiquity, and the inadequacy, of telecommunication.
 
 Vashti receives a call from her son, who wants her to come visit him in person. She initially refuses, telling him that it would be a waste of time. She would rather stay in her room and focus on producing ideas. Besides, why speak in person when they could communicate perfectly well through the Machine?
 
-But her son is persistent, and even Vashti observes that "the Machine did not transmit nuances of expression [...] it only gave a general idea of people - an idea that was good enough for all practical purposes." When giving a lecture, her audience "heard her, fairly well, and saw her, fairly well." Eventually she agrees to visit him.
+But her son is persistent, and even Vashti observes that "the Machine did not transmit nuances of expression [...] it only gave a general idea of people - an idea that was good enough for all practical purposes." When giving a lecture, her audience "heard her, fairly well, and saw her, fairly well."
 
 Anyone who has used Zoom knows that this paints an almost comically accurate picture of modern video conferencing software. While it's getting better every year, and while VR/AR may soon help to smooth out some of the kinks, video conferencing remains frustratingly low-bandwidth, relative to in-person communication. It doesn't allow eye contact; it cuts out if the internet connection gets overloaded; it doesn't facilitate the use of 3-dimensional space. It is perfectly serviceable for all practical purposes. But at its best, it simply allows us to see each other, fairly well, and hear each other, fairly well.
 
 ## Forster predicts the end of travel, and of migration.
 
-Vashti leaves her room and begins her journey across through the Machine. People aren't forbidden from travelling, but few bother to do it: "thanks to the advance of science, the earth was exactly alike all over. [...] What was the good of going to Peking when it was just like Shrewsbury? Why return to Shrewsbury when it would all be like Peking? Men seldom moved their bodies; all unrest was concentrated in the soul."
+Eventually Vashti agrees to visit her son. She leaves her room and begins her journey across through the Machine. People aren't forbidden from travelling, but few bother to do it:
 
-I love to travel, but I will admit that after backpacking in Europe for a few months, the cities _did_ start to look awfully familiar...check into the hostel, visit the art gallery, the great big cathedral...
+> [T]hanks to the advance of science, the earth was exactly alike all over. [...] What was the good of going to Peking when it was just like Shrewsbury? Why return to Shrewsbury when it would all be like Peking? Men seldom moved their bodies; all unrest was concentrated in the soul.
 
-Tyler Cowen worries in his book [The Complacent Class](https://www.amazon.com/Complacent-Class-Self-Defeating-Quest-American/dp/1250108691) about how Americans are less and less likely to move away from their hometowns. He [writes](https://time.com/4677919/tyler-cowen-book/):
+I love to travel, but I will admit that after backpacking in Europe for a few months, the cities *did* start to look awfully familiar...check into the hostel, visit the art gallery, see the great big cathedral...
+
+Tyler Cowen worries in his book [The Complacent Class](https://www.amazon.com/Complacent-Class-Self-Defeating-Quest-American/dp/1250108691) about how Americans are less and less likely to move away from their hometowns. He [writes in Time](https://time.com/4677919/tyler-cowen-book/):
 
 > Here is this change in a single number: The interstate migration rate has fallen 51 percent below its 1948–1971 average, and that number has been falling steadily since the mid-1980s. Or, if we look at the rate of moving between counties within a state, it fell 31 percent. The rate of moving within a county fell 38 percent. Those are pretty steep drops for a country that has not changed its fundamental economic or political systems. You might think that information technology (IT) would make it easier to find a job on the other side of the country, and maybe it has, but that has not been the dominant effect. If anything, Americans have used the dynamism of IT to help ourselves stay put, not to move around.
 
@@ -46,28 +56,15 @@ Most of Vashti's journey takes place in an airship. At one point she is disturbe
 
 Who knows what will be the new normal, once we get through this pandemic? I'm not so pessimistic to think we'll never touch each other again, but it seems likely that e.g. handshakes and cheek kissing are things of the past.
 
-## Forster predicts the plight of the homeless.
-
-Eventually Vashti reaches her son, who tells her in person what he wouldn't say through the Machine: he had gone to the surface of the Earth without a permit. He had found a crack in the Machine and had escaped to wander the hills above, until he was mysteriously pulled back down and struck unconscious, only to reawaken in his room. Vashti is certain that her son's behavior will result in "Homelessness": banishment to the surface, and to death from the toxic air. She dismisses him as insane and departs, never to see him again.
-
-
-
-## Forster predicts the end of originality.
-
-Vashti returns to her previous life, and throws herself with renewed energy into the production of ideas. We learn from one of her lecturers that not all ideas are equally valued:
-
-> “Beware of first-hand ideas!” exclaimed one of the most advanced of them. “First-hand ideas do not really exist. They are but the physical impressions produced by love and fear, and on this gross foundation who could erect a philosophy? Let your ideas be second-hand, and if possible tenth-hand, for then they will be far removed from that disturbing element—direct observation."
-
-(This lecturer would agree that [covers shouldn't just be for musicians](https://davidklaing.com/essays/covers-shouldnt-just-be-for-musicians)...)
-
 ## Forster predicts complacency.
 
-Soon, Vashti and her many friends begin to notice defects in the Machine. At first, the music doesn't sound as good—there is a "jarring noise" that occasionally interrupts it. Then the artificial fruit that they eat starts be served mouldy. Then the bath water begins to stink, and the "poetry machine" emits "defective rhymes". Vashti receives another call from her son, whom she now hasn't spoken to in years. He tells her "The Machine stops." Vashti discusses his message with her friend, still thinking her son is crazy. They agree that "the phrase means nothing to me."
+Later in the story, Vashti and her friends start to notice defects in the Machine. At first, the music doesn't sound as good—there is a "jarring noise" that occasionally interrupts it. Then the artificial fruit that they eat starts be served mouldy. Then the bath water begins to stink, and the "poetry machine" emits "defective rhymes". The worse things get, the more complacent the people become. All the problems are "bitterly complained of at first, and then acquiesced in and forgotten. Things went from bad to worse to unchallenged."
 
-But the Machine continues to deteriorate, and the worse it gets, the more complacent the people become. All the problems are "bitterly complained of at first, and then acquiesced in and forgotten. Things went from bad to worse to unchallenged."
+I don't think Forster would be surprised to learn about [slacktivism](https://en.wikipedia.org/wiki/Slacktivism).
 
 ## Forster predicts the end of the world.
 
-Finally, in what I hope is the least prescient part of the story, the Machine does stop, and the world ends.
+Finally, in what I hope is the least prescient part of the story, the Machine does stop, and the world ends. All of Forster's descriptions of this event are vivid and haunting, but one in particular stood out:
 
 > The sin against the body—it was for that they wept in chief; the centuries of wrong against the muscles and the nerves, and those five portals by which we can alone apprehend—glozing it over with talk of evolution, until the body was white pap, the home of ideas as colourless, last sloshy stirrings of a spirit that had grasped the stars.
+
