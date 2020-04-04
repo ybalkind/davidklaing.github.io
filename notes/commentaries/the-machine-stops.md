@@ -46,7 +46,7 @@ Vashti returns to her previous life, and throws herself with renewed energy into
 
 > “Beware of first-hand ideas!” exclaimed one of the most advanced of them. “First-hand ideas do not really exist. They are but the physical impressions produced by love and fear, and on this gross foundation who could erect a philosophy? Let your ideas be second-hand, and if possible tenth-hand, for then they will be far removed from that disturbing element—direct observation."
 
-**He predicts the important of respirators.**
+**He predicts the important of respirators. (!)**
 
 As if to underscore this rejection of direct observation, new laws are passed to abolish respirators, thereby forbidding people from ever visiting the surface without risking death.
 
