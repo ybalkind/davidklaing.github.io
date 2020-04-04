@@ -36,7 +36,7 @@ Vashti receives a call from her son, who wants her to come visit him in person. 
 
 But her son is persistent, and even Vashti will admit that "the Machine did not transmit nuances of expression [...] it only gave a general idea of people—an idea that was good enough for all practical purposes." When giving a lecture, her audience "heard her, fairly well, and saw her, fairly well."
 
-Anyone who uses Zoom knows that this paints an almost comically accurate picture of modern video conferencing software. While it's getting better every year, and while VR/AR may soon help to smooth out some of the kinks, video conferencing remains frustratingly low-bandwidth, relative to in-person communication. It doesn't allow eye contact; it cuts out if the internet connection is weak; it doesn't facilitate the use of 3-dimensional space. It's perfectly serviceable for all practical purposes. But at its best, it simply allows us to see each other, fairly well, and hear each other, fairly well.
+Anyone who uses Zoom knows that this paints an almost comically accurate picture of modern video conferencing software. While it's getting better every year, and while VR/AR may soon help to smooth out some of the kinks, video conferencing remains frustratingly low-bandwidth, relative to in-person communication. It doesn't allow eye contact; it cuts out if the internet connection is weak; it doesn't facilitate the use of 3-dimensional space. Yes, it's perfectly serviceable "for all practical purposes". But at its best, it simply allows us to see each other, _fairly_ well, and hear each other, _fairly_ well.
 
 ## The end of geographic mobility.
 
