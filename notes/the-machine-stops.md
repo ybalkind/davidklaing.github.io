@@ -34,7 +34,7 @@ I probably don't need to point out the irony of the context in which you're read
 
 Vashti receives a call from her son, who wants her to come visit him in person. She initially refuses, telling him that it would be a waste of time. She would rather stay in her room and focus on producing ideas. Besides, why speak in person when they could communicate perfectly well through the Machine?
 
-But her son is persistent, and even Vashti observes that "the Machine did not transmit nuances of expression [...] it only gave a general idea of people - an idea that was good enough for all practical purposes." When giving a lecture, her audience "heard her, fairly well, and saw her, fairly well."
+But her son is persistent, and even Vashti will admit that "the Machine did not transmit nuances of expression [...] it only gave a general idea of people - an idea that was good enough for all practical purposes." When giving a lecture, her audience "heard her, fairly well, and saw her, fairly well."
 
 Anyone who has used Zoom knows that this paints an almost comically accurate picture of modern video conferencing software. While it's getting better every year, and while VR/AR may soon help to smooth out some of the kinks, video conferencing remains frustratingly low-bandwidth, relative to in-person communication. It doesn't allow eye contact; it cuts out if the internet connection is weak; it doesn't facilitate the use of 3-dimensional space. It's perfectly serviceable for all practical purposes. But at its best, it simply allows us to see each other, fairly well, and hear each other, fairly well.
 
