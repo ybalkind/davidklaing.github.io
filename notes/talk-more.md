@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "If you're good, you need to talk more"
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

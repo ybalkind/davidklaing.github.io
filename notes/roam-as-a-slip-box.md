@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Roam as a slip-box"
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

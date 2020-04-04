@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "All-time favourite albums"
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "My laptop setup"
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

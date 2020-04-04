@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "How to get a job in data science"
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

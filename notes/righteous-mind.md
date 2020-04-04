@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The Righteous Mind"
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

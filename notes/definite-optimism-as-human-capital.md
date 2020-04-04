@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Definite optimism as human capital — Dan Wang"
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

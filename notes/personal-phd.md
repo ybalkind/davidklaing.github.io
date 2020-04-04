@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "The personal PhD"
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

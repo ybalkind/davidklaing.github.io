@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Deep Laziness — Sarah Perry"
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

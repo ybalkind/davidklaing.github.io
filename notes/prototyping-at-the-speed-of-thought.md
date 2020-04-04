@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Prototyping at the speed of thought — Tom Chi"
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

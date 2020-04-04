@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Annual review, 2019
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

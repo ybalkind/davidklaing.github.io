@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reading pipeline
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

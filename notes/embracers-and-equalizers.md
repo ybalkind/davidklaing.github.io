@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Embracers and equalizers"
+nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 
