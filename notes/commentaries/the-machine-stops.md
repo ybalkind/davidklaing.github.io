@@ -6,6 +6,8 @@ originally_published: 2020-04-03
 last_updated: 2020-04-03
 ---
 
+[← Notes](https://davidklaing.com/notes)
+
 *Originally published {{ page.originally_published }}. Last updated {{ page.last_updated }}.*
 
 ---
