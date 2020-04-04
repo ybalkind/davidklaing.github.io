@@ -18,9 +18,9 @@ The story takes place in a world where everyone lives in the Machine, a massive 
 
 The main character is Vashti, a woman who enjoys her life in the Machine and doesn't question it. Her daily routine is frighteningly similar to my own at the moment:
 
-> She made the room dark and slept; she awoke and made the room light; she ate and exchanged ideas with her friends, and listened to music and attended lectures; she make the room dark and slept. Above her, beneath her, and around her, the Machine hummed eternally; she did not notice the noise, for she had been born with it in her ears. The earth, carrying her, hummed as it sped through silence, turning her now to the invisible sun, now to the invisible stars. She awoke and made the room light.
+> She made the room dark and slept; she awoke and made the room light; she ate and exchanged ideas with her friends, and listened to music and attended lectures; she made the room dark and slept. Above her, beneath her, and around her, the Machine hummed eternally; she did not notice the noise, for she had been born with it in her ears. The earth, carrying her, hummed as it sped through silence, turning her now to the invisible sun, now to the invisible stars. She awoke and made the room light.
 
-Of course, we still go outside, and not all of us live alone. But most of us do spend close to 24 hours a day in the same set of rooms, and enjoy complete control over both our physical and digital environments. Forster wouldn't have used the phrase "digital environment", since he wrote this decades before the invention of the transistor, let alone the rise of personal computing and social media. But if he were alive today, it's clear that he would be unphased by the prevalence of podcasts, YouTube, Twitter, and online courses.
+Of course, we still go outside, and not all of us live alone. But most of us do spend close to 24 hours a day in the same set of rooms, and enjoy complete control over both our physical and digital environments. Forster wouldn't have used the phrase "digital environment", since he wrote this decades before the invention of the transistor, let alone the rise of personal computing and social media. But if he were alive today, he would be unphased by the prevalence of podcasts, YouTube, Twitter, and online courses.
 
 ## The end of originality.
 
