@@ -48,7 +48,7 @@ I love to travel, but I will admit that after backpacking in Europe for a few mo
 
 Tyler Cowen worries in his book [The Complacent Class](https://www.amazon.com/Complacent-Class-Self-Defeating-Quest-American/dp/1250108691) about how Americans are less and less likely to move away from their hometowns. He [writes in Time](https://time.com/4677919/tyler-cowen-book/) that "the interstate migration rate has fallen 51 percent below its 1948–1971 average, and that number has been falling steadily since the mid-1980s."
 
-The travel restrictions caused by the pandemic won't last forever, but it's hard to see how the new normal would involve an *increase* in travel and mobility.
+The travel restrictions caused by the pandemic won't last forever, but it's hard to imagine that the new normal would involve an *increase* in travel and mobility.
 
 ## Social distancing norms.
 
