@@ -32,7 +32,7 @@ I probably don't need to point out the irony of the context in which you're read
 
 ## The ubiquity, and the inadequacy, of video conferencing.
 
-Vashti receives a call from her son, who wants her to come visit him in person. She initially refuses, telling him that it would be a waste of time. She would rather stay in her room and focus on producing ideas. Besides, why speak in person when they could communicate perfectly well through the Machine?
+Vashti receives a call from her son, who wants her to come visit him in person on the other side of the world. She initially refuses, telling him that it would be a waste of time. She would rather stay in her room and focus on producing ideas. Besides, why speak in person when they could communicate perfectly well through the Machine?
 
 But her son is persistent, and even Vashti will admit that "the Machine did not transmit nuances of expression [...] it only gave a general idea of people—an idea that was good enough for all practical purposes." When giving a lecture, her audience "heard her, fairly well, and saw her, fairly well."
 
@@ -40,7 +40,7 @@ Anyone who uses Zoom knows that this paints an almost comically accurate picture
 
 ## The end of geographic mobility.
 
-Eventually Vashti agrees to visit her son. She leaves her room and begins her journey across through the Machine. People aren't forbidden from travelling, but few bother to do it:
+Eventually Vashti agrees to visit her son. She leaves her room and begins her journey across the world and through the Machine. People aren't forbidden from travelling, but few bother to do it:
 
 > Thanks to the advance of science, the earth was exactly alike all over. [...] What was the good of going to Peking when it was just like Shrewsbury? Why return to Shrewsbury when it would all be like Peking? Men seldom moved their bodies; all unrest was concentrated in the soul.
 
