@@ -22,6 +22,7 @@ My notes include commentaries, essays, musings, media recommendations, how-to's,
 - [The Righteous Mind — Jonathan Haidt](https://davidklaing.com/notes/righteous-mind)
 - [Seeing like a state — Scott Alexander and Venkatesh Rao](https://davidklaing.com/notes/seeing-like-a-state)
 - [Solved conversations — Aaron Z. Lewis](https://davidklaing.com/notes/solved-conversations)
+- [E.M. Forster predicted 2020 in 1909](https://davidklaing.com/notes/the-machine-stops)
 
 ## Data science
 
