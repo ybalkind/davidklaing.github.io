@@ -12,7 +12,7 @@ My notes include commentaries, essays, musings, media recommendations, how-to's,
 - [Crony beliefs — Kevin Simler](https://davidklaing.com/notes/crony-beliefs)
 - [Deep laziness — Sarah Perry](https://davidklaing.com/notes/deep-laziness)
 - [Definite optimism as human capital — Dan Wang](https://davidklaing.com/notes/definite-optimism-as-human-capital)
-- [Godel, Escher, Bach — Douglas Hofstadter](https://davidklaing.com/notes/godel-escher-bach)
+- [Godel, Escher, Bach in 34 propositions](https://davidklaing.com/notes/godel-escher-bach)
 - [The Ideological Turing Test — Bryan Caplan](https://davidklaing.com/notes/ideological-turing-test)
 - [Levels of action — Alyssa Vance](https://davidklaing.com/notes/levels-of-action)
 - [Leverage points — Donella Meadows](https://davidklaing.com/notes/leverage-points)
