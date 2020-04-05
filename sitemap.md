@@ -4,13 +4,13 @@ title: "Sitemap"
 published: true
 ---
 
-## Theses
+### Theses
 
 - [Communication in data science is more than just the final report](https://davidklaing.com/communication-in-data-science)
 - [Covers shouldn't just be for musicians](https://davidklaing.com/covers-shouldnt-just-be-for-musicians)
 - [If you're good, you need to talk more](https://davidklaing.com/talk-more)
 
-## Practical
+### Practical
 
 - [40 ways to improve at chess, if you're a beginner](https://davidklaing.com/40-ways-to-improve-at-chess)
 - [How to get a job in data science](https://davidklaing.com/how-to-get-a-job-in-data-science)
@@ -18,7 +18,7 @@ published: true
 - [Nested data in the tidyverse](https://davidklaing.com/nested-data-in-the-tidyverse)
 - [Roam as a slip-box](https://davidklaing.com/roam-as-a-slip-box)
 
-## Commentaries
+### Commentaries
 
 - [Atomic Habits — James Clear](https://davidklaing.com/atomic-habits)
 - [Crony beliefs — Kevin Simler](https://davidklaing.com/crony-beliefs)
@@ -36,7 +36,7 @@ published: true
 - [Seeing like a state — Scott Alexander and Venkatesh Rao](https://davidklaing.com/seeing-like-a-state)
 - [Solved conversations — Aaron Z. Lewis](https://davidklaing.com/solved-conversations)
 
-## Me
+### Me
 
 - [2019 annual review](https://davidklaing.com/2019-annual-review)
 - [All-time favourite albums](https://davidklaing.com/all-time-favourite-albums)
@@ -46,7 +46,7 @@ published: true
 - [My laptop setup](https://davidklaing.com/laptop-setup)
 - [Reading pipeline](https://davidklaing.com/reading-pipeline)
 
-## Notes
+### Notes
 
 - [The aesthetic bullseye](https://davidklaing.com/aesthetic-bullseye)
 - [Embracers and equalizers](https://davidklaing.com/embracers-and-equalizers)
