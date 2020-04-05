@@ -2,7 +2,6 @@
 layout: page
 title: "Seeing Like a State — Scott Alexander and Venkatesh Rao"
 permalink: /seeing-like-a-state/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

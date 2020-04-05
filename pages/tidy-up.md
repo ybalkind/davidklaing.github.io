@@ -2,7 +2,6 @@
 layout: page
 title: "Tidy up so you can make a useful mess"
 permalink: /tidy-up/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

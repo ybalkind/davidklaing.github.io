@@ -2,7 +2,6 @@
 layout: page
 title: "Atomic Habits"
 permalink: /atomic-habits/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

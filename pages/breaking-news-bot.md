@@ -3,7 +3,6 @@ layout: page
 project: true
 title: Breaking news Twitter bot
 permalink: /breaking-news-bot/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

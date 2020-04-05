@@ -2,7 +2,6 @@
 layout: page
 title: Favourite media of 2017
 permalink: /favourite-media-of-2017/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

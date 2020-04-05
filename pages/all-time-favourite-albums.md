@@ -2,7 +2,6 @@
 layout: page
 title: "All-time favourite albums"
 permalink: /all-time-favourite-albums/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 last_updated: 2020-04-01
 published: true
 ---

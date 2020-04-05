@@ -2,7 +2,6 @@
 layout: page
 title: "Solved conversations — Aaron Z. Lewis"
 permalink: /solved-conversations/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

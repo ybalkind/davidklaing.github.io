@@ -2,7 +2,6 @@
 layout: page
 title: "Leverage Points — Donella Meadows"
 permalink: /leverage-points/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

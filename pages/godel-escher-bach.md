@@ -2,7 +2,6 @@
 layout: page
 title: "Gödel, Escher, Bach in 34 propositions"
 permalink: /godel-escher-bach/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

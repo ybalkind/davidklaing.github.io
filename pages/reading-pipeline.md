@@ -2,7 +2,6 @@
 layout: page
 title: Reading pipeline
 permalink: /reading-pipeline/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

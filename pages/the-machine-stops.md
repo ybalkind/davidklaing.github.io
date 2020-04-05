@@ -3,7 +3,6 @@ layout: page
 title: "E.M. Forster predicted 2020 in 1909"
 published: true
 permalink: /the-machine-stops/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 last_updated: 2020-04-03
 ---
 

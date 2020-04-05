@@ -2,7 +2,6 @@
 layout: page
 title: "Size-constrained gradient descent and the Cauchy-Schwarz inequality"
 permalink: /cauchy-schwarz-inequality
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

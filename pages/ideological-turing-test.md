@@ -2,7 +2,6 @@
 layout: page
 title: "The Ideological Turing test — Bryan Caplan"
 permalink: /ideological-turing-test/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

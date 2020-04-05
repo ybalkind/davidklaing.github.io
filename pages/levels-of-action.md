@@ -2,7 +2,6 @@
 layout: page
 title: "Levels of Action — Alyssa Vance"
 permalink: /levels-of-action/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

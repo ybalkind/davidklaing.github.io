@@ -2,7 +2,6 @@
 layout: page
 title: "How to invest in index funds, for Canadians"
 permalink: /how-to-invest-in-index-funds/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

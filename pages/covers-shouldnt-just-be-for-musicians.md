@@ -2,7 +2,6 @@
 layout: page
 title: "Covers shouldn't just be for musicians"
 permalink: /covers-shouldnt-just-be-for-musicians/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

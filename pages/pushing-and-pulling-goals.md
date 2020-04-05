@@ -2,7 +2,6 @@
 layout: page
 title: "Pushing and pulling goals — Scott Alexander"
 permalink: /pushing-and-pulling-goals/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

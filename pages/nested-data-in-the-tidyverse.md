@@ -2,7 +2,6 @@
 layout: page
 title: "Nested data in the tidyverse"
 permalink: /nested-data-in-the-tidyverse/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

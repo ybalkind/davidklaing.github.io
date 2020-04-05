@@ -2,7 +2,6 @@
 layout: page
 title: "Communication in data science is more than just the final report"
 permalink: /communication-in-data-science/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

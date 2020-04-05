@@ -2,7 +2,6 @@
 layout: page
 title: "Crony Beliefs — Kevin Simler"
 permalink: /crony-beliefs/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

@@ -2,7 +2,6 @@
 layout: page
 title: "Books I've read more than once"
 permalink: /books-ive-read-more-than-once/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

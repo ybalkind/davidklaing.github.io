@@ -2,7 +2,6 @@
 layout: page
 title: "40 ways to improve at chess, if you're a beginner"
 permalink: /40-ways-to-improve-at-chess/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

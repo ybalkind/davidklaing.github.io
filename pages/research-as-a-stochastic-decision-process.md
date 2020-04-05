@@ -2,7 +2,6 @@
 layout: page
 title: "Research as a stochastic decision process — Jacob Steinhardt"
 permalink: /research-as-as-stochastic-decision-process/
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 

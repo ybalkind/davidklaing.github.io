@@ -2,7 +2,6 @@
 layout: page
 title: "The Aesthetic Bullseye"
 permalink: /aesthetic-bullseye
-nav_link: <a href="https://davidklaing.com/notes">← Notes</a>
 published: true
 ---
 
