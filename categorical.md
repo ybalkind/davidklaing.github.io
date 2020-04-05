@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sitemap"
+title: "Categorical"
 published: true
 ---
 
