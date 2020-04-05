@@ -3,6 +3,7 @@ layout: page
 title: Favourite media of 2017
 permalink: /favourite-media-of-2017/
 published: true
+last_updated: 2017-12-31
 ---
 
 ## Books

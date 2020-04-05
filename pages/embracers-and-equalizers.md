@@ -3,6 +3,7 @@ layout: page
 title: "Embracers and equalizers"
 permalink: /embracers-and-equalizers/
 published: true
+last_updated: 2018-12-24
 ---
 
 One of the main topics in productivity and self-improvement is the asymmetry between present and future desires. On one side of the asymmetry, enjoying the present often costs you a harder future: ice cream tastes great now, but it makes you unhealthy later. On the other side, an easier future often costs you a less decadent present: you can enjoy good health, but only if you don't eat too much ice cream.

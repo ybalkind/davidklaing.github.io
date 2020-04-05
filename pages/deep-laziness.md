@@ -3,6 +3,7 @@ layout: page
 title: "Deep Laziness — Sarah Perry"
 permalink: /deep-laziness/
 published: true
+last_updated: 2019-10-09
 ---
 
 Laziness is usually frowned upon. We get paid, thanked, and admired for *producing*: for transforming chaos into order, for giving more than we take, for creating value rather than consuming it. Society doesn’t reward us for slacking off. 

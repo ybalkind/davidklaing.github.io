@@ -3,6 +3,7 @@ layout: page
 title: "Nested data in the tidyverse"
 permalink: /nested-data-in-the-tidyverse/
 published: true
+last_updated: 2019-02-25
 ---
 
 Most of my R training involved operations on dataframes, usually with `dplyr` functions like `filter`, `select`, `mutate`, `group_by`, and `summarize`. These are wonderful tools that I use every day. However, there is a second set of tools that have become equally important in my day-to-day data manipulation work in R: those for working with lists.

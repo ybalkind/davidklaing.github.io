@@ -3,6 +3,7 @@ layout: page
 title: "Roam as a slip-box"
 permalink: /roam-as-a-slip-box/
 published: true
+last_updated: 2020-02-01
 ---
 
 ## The slip-box method

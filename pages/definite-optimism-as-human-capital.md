@@ -3,6 +3,7 @@ layout: page
 title: "Definite optimism as human capital — Dan Wang"
 permalink: /definite-optimism-as-human-capital/
 published: true
+last_updated: 2019-08-21
 ---
 
 Part thought experiment, part call to action, Dan Wang’s 2017 essay "[Definite optimism as human capital](https://danwang.co/definite-optimism-as-human-capital/)" has crept into my thoughts over the past year whenever I’ve developed a new piece of software or watched a sci-fi movie.

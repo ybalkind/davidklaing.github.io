@@ -3,6 +3,7 @@ layout: page
 title: "If you're good, you need to talk more"
 permalink: /talk-more/
 published: true
+last_updated: 2019-07-09
 ---
 
 One evening last fall, I was invited to play a board game called [Avalon](https://www.amazon.com/Resistance-Avalon-Social-Deduction-Game/dp/B009SAAV0C). The game is a contest between a good team and a bad team. Through a series of public and private votes and discussion at the table, the bad people try to masquerade as good, while the good try to figure out who is good and who is bad.

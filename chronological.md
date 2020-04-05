@@ -9,9 +9,9 @@ By last update.
 ### 2020
 
 - [E.M. Forster predicted 2020 in 1909](https://davidklaing.com/the-machine-stops)
+- [Books I've read more than once](https://davidklaing.com/books-ive-read-more-than-once)
 - [Reading pipeline](https://davidklaing.com/reading-pipeline)
 - [All-time favourite albums](https://davidklaing.com/all-time-favourite-albums)
-- [Books I've read more than once](https://davidklaing.com/books-ive-read-more-than-once)
 - [How to invest in index funds, for Canadians](https://davidklaing.com/how-to-invest-in-index-funds)
 - [Roam as a slip-box](https://davidklaing.com/roam-as-a-slip-box)
 - [Godel, Escher, Bach in 34 propositions](https://davidklaing.com/godel-escher-bach)

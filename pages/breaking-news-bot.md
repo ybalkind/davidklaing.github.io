@@ -4,6 +4,7 @@ project: true
 title: Breaking news Twitter bot
 permalink: /breaking-news-bot/
 published: true
+last_updated: 2017-05-30
 ---
 
 I completed [News360](https://news360.com/){:target="_blank"}'s NLP [test task](https://docs.google.com/document/d/1ziUlEDtOBChJzHvArc4GzQKJKG1s-Ut9IkzGAyzAdJI/edit#heading=h.o1egger9j1r){:target="_blank"}, which is to write a data science pipeline that analyses tweets every ten minutes and sends a push notification when a big story breaks – but no more than twice per day.

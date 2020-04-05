@@ -6,8 +6,6 @@ permalink: /the-machine-stops/
 last_updated: 2020-04-03
 ---
 
----
-
 E.M. Forster's short story *[The Machine Stops](https://www.goodreads.com/book/show/4711854-the-machine-stops)*, published in 1909, gives an eerily prescient account of life in the time of the COVID-19 pandemic. It takes only an hour to read, but it's packed with passages that made my jaw drop for how specifically they describe our situation.
 
 Much like a Black Mirror episode, it imagines taking aspects of modern life taken to the extreme. But unlike a Black Mirror episode, it was written over a hundred years ago. It's hard not to wonder whether *The Machine Stops* will become more and more prophetic in years to come. What, exactly, does Forster predict? And how have those predictions turned out so far?

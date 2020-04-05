@@ -3,6 +3,7 @@ layout: page
 title: "Leverage Points — Donella Meadows"
 permalink: /leverage-points/
 published: true
+last_updated: 2019-11-06
 ---
 
 If there were ever an appropriate place to use the [Galaxy Brain meme](https://knowyourmeme.com/memes/galaxy-brain) unironically, it would be to describe Donella Meadows' 1999 essay, [Leverage Points: Places to Intervene in a System](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/). Reflecting on her career as an environmental scientist, Meadows lists twelve categories of "leverage points"—metaphorical buttons to press to change the performance or behavior of a system— from least to most impactful.

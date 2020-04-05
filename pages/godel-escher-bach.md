@@ -3,6 +3,7 @@ layout: page
 title: "Gödel, Escher, Bach in 34 propositions"
 permalink: /godel-escher-bach/
 published: true
+last_updated: 2020-01-02
 ---
 
 _I originally published this in 2016, after I finished reading the book. I'm republishing it now, with a few edits for clarity, after prompting from [@nosilverv](https://twitter.com/nosilverv), who [asked](https://twitter.com/nosilverv/status/1212716598236254212):_

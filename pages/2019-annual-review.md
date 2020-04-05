@@ -3,6 +3,7 @@ layout: page
 title: Annual review, 2019
 permalink: /2019-annual-review/
 published: true
+last_updated: 2019-12-31
 ---
 
 **Table of Contents**

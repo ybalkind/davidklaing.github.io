@@ -3,6 +3,7 @@ layout: page
 title: "Crony Beliefs — Kevin Simler"
 permalink: /crony-beliefs/
 published: true
+last_updated: 2019-11-13
 ---
 
 When looking to fill a position, you might hire someone because they would do a great job. Or you might hire them because they're the mayor's nephew, and pleasing the mayor will be good for business. In the latter case, you have hired a *crony*—a person who is there to provide social rather than pragmatic value.

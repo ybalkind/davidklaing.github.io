@@ -3,6 +3,7 @@ layout: page
 title: "Communication in data science is more than just the final report"
 permalink: /communication-in-data-science/
 published: true
+last_updated: 2017-11-10
 ---
 
 _Cross-posted from the [UBC MDS blog](https://ubc-mds.github.io/2017-11-10-DSCI-542-communication/)_.

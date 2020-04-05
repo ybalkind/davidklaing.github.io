@@ -3,6 +3,7 @@ layout: page
 title: "Levels of Action — Alyssa Vance"
 permalink: /levels-of-action/
 published: true
+last_updated: 2019-08-28
 ---
 
 What is a better use of time: improving the world, or improving your ability to improve the world?

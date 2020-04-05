@@ -3,6 +3,7 @@ layout: page
 title: "Covers shouldn't just be for musicians"
 permalink: /covers-shouldnt-just-be-for-musicians/
 published: true
+last_updated: 2019-12-04
 ---
 
 When aspiring musicians first learn to play their instruments, they rarely start composing their own songs immediately. Most start by learning to play the songs of others. This allows them to focus on skills like intonation, dynamics, and tempo. The skill of composition can wait until they have developed good playing technique.

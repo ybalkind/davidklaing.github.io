@@ -3,6 +3,7 @@ layout: page
 title: "How to get a job in data science"
 permalink: /how-to-get-a-job-in-data-science/
 published: true
+last_updated: 2019-04-11
 ---
 
 It is said that when you give the same advice three times, you should write it down in a blog post. I'm often approached for advice by job seekers in data science, so this is that blog post.

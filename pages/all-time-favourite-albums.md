@@ -2,10 +2,8 @@
 layout: page
 title: "All-time favourite albums"
 permalink: /all-time-favourite-albums/
-last_updated: 2020-04-01
 published: true
----
-
+last_updated: 2020-02-01
 ---
 
 1. The La's, [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x?si=R_6yRDIPTber0hdKvC3rxg)

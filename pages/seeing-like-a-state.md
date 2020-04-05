@@ -3,6 +3,7 @@ layout: page
 title: "Seeing Like a State — Scott Alexander and Venkatesh Rao"
 permalink: /seeing-like-a-state/
 published: true
+last_updated: 2019-09-04
 ---
 
 A few months ago I saw a funny exchange in a [Fox News clip](https://twitter.com/brianklaas/status/1137059735868493826) about the metric system:

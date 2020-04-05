@@ -3,6 +3,7 @@ layout: page
 title: "Atomic Habits"
 permalink: /atomic-habits/
 published: true
+last_updated: 2019-01-14
 ---
 
 <script type="text/javascript" async

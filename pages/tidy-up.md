@@ -3,6 +3,7 @@ layout: page
 title: "Tidy up so you can make a useful mess"
 permalink: /tidy-up/
 published: true
+last_updated: 2019-11-24
 ---
 
 An underappreciated benefit of habitually tidying up is that it gives you more confidence to make useful messes. A few examples:

@@ -3,6 +3,7 @@ layout: page
 title: "Solved conversations — Aaron Z. Lewis"
 permalink: /solved-conversations/
 published: true
+last_updated: 2019-10-23
 ---
 
 Some conversations feel more like scripted dialogues than like improvised exchanges. Perhaps we’re lazily rehashing the same talking points for the hundredth time, like when we comment on the weather or complain about politicians. Regardless of their context, these conversations proceed like clockwork, surprising no one.

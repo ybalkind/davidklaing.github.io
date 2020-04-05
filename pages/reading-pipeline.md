@@ -3,11 +3,8 @@ layout: page
 title: Reading pipeline
 permalink: /reading-pipeline/
 published: true
+last_updated: 2020-04-01
 ---
-
-Last updated: 2020-04-01
-
-------
 
 This is my reading pipeline from the past two years or so.
 

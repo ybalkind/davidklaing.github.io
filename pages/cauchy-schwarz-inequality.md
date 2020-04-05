@@ -3,6 +3,7 @@ layout: page
 title: "Size-constrained gradient descent and the Cauchy-Schwarz inequality"
 permalink: /cauchy-schwarz-inequality
 published: true
+last_updated: 2018-11-27
 ---
 
 <script type="text/javascript" async

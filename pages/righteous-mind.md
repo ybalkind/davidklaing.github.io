@@ -3,6 +3,7 @@ layout: page
 title: "The Righteous Mind"
 permalink: /righteous-mind/
 published: true
+last_updated: 2016-09-01
 ---
 
 I think everyone should read Jonathan Haidt's book, [*The Righteous Mind: Why Good People Are Divided by Politics and Religion*](http://righteousmind.com/). But if you don't have time, you can read my detailed summary here.
