@@ -22,7 +22,7 @@ Forster foresaw a world in which everyone lives alone, and few venture outside t
 
 Forster's dark premonition is thankfully more extreme than the world we live in. But even before the pandemic, we were trending more toward isolation than away from it. Since the publication of _The Machine Stops_, the prevalence of one-person households has risen exponentially.
 
-![](/assets/img/the-machine-stops/historical-one-person-households.png)
+[![](/assets/img/the-machine-stops/historical-one-person-households.png)](https://ourworldindata.org/living-alone)
 
 ## The end of originality.
 
