@@ -16,7 +16,7 @@ I haven't read much of Forster's other writings, so for all I know he made hundr
 
 Even before the pandemic, we were trending more toward isolation than away from it. Since the publication of _The Machine Stops_, the prevalence of one-person households has risen logarithmically.
 
-[![](/assets/img/the-machine-stops/historical-one-person-households.png)](
+[![](/assets/img/the-machine-stops/historical-one-person-households.png)](https://ourworldindata.org/living-alone)
 
 Forster's world lies at the end of that sigmoid, and it's dark. The Machine is a massive underground human beehive that offers protection from the toxic air on the Earth's surface. Every person lives alone in a hexagonal room through which the Machine provides their every need: food, entertainment, medical care, and the ability to communicate with others via video chats.
 
