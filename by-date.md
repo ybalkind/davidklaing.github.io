@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Chronological"
+title: "By date"
 published: true
 ---
-
-By last update.
 
 ### 2020
 

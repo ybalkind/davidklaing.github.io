@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Categorical"
+title: "By category"
 published: true
 ---
 
