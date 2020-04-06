@@ -8,7 +8,7 @@ last_updated: 2020-04-05
 
 > She made the room dark and slept; she awoke and made the room light; she ate and exchanged ideas with her friends, and listened to music and attended lectures; she made the room dark and slept. Above her, beneath her, and around her, the Machine hummed eternally; she did not notice the noise, for she had been born with it in her ears. The earth, carrying her, hummed as it sped through silence, turning her now to the invisible sun, now to the invisible stars. She awoke and made the room light.
 
-Incredibly, this passage was written in 1909. It comes from E.M. Forster's short story *[The Machine Stops](https://www.goodreads.com/book/show/4711854-the-machine-stops)*, which gives an eerily prescient account of contemporary life, particularly in the time of the COVID-19 pandemic. When a work of speculative fiction turns out to describe the distant future as comprehensively as does *The Machine Stops*, it deserves a close reading. Let me give you a brief tour of the Machine.
+Incredibly, this passage was written in 1909. It comes from E.M. Forster's short story *[The Machine Stops](https://www.goodreads.com/book/show/4711854-the-machine-stops)*, which gives an eerily prescient account of contemporary life, particularly in the time of the COVID-19 pandemic. When a work of speculative fiction turns out to describe the distant future as comprehensively as does *The Machine Stops*, it deserves a close reading. Let me take you on a brief tour of the Machine, and we'll see how it compares to our world.
 
 ## Isolation
 
