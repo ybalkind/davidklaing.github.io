@@ -26,7 +26,7 @@ Forster's world lies at the end of that sigmoid, and it's a dark one.
 
 People in the Machine communicate through tablet-like devices that transmit video and audio. These devices are good, but not perfect. One character notes that "the Machine did not transmit nuances of expression [...] it only gave a general idea of people—an idea that was good enough for all practical purposes." When giving a lecture, this character's audience "heard her, fairly well, and saw her, fairly well."
 
-Forster paints a strikingly accurate picture of modern video conferencing software. While it's getting better every year, video conferencing remains frustratingly low-bandwidth, relative to in-person communication. It doesn't allow eye contact; it cuts out if the internet connection is weak; it doesn't facilitate the use of 3-dimensional space. Yes, it's perfectly serviceable "for all practical purposes". But at its best, it simply allows us to see each other, *fairly* well, and hear each other, *fairly* well.
+Forster paints a strikingly accurate picture of modern video conferencing software. While it's getting better every year, video conferencing remains frustratingly low-bandwidth, relative to in-person communication. It doesn't allow eye contact; it cuts out if the internet connection is weak; it doesn't facilitate the use of 3-dimensional space. Yes, it's perfectly serviceable "for all practical purposes". But at its best, it simply allows us to see each other, fairly well, and hear each other, fairly well.
 
 Decades before the rise of personal computing, Forster knew that advanced telecommunication tools would fail to convey the nuances of speech and touch.
 
@@ -38,7 +38,7 @@ People in the Machine aren't forbidden from relocating, but few do:
 
 Tyler Cowen worries in his book [The Complacent Class](https://www.amazon.com/Complacent-Class-Self-Defeating-Quest-American/dp/1250108691) about how Americans are less and less likely to move away from their hometowns. He [writes in Time](https://time.com/4677919/tyler-cowen-book/) that "the interstate migration rate has fallen 51 percent below its 1948–1971 average, and that number has been falling steadily since the mid-1980s."
 
-Personally, I'm happy about the increasing availability of remote work. But in Forster's imagination, the geographic immobility implies stagnation and malaise.
+Personally, I'm happy about the increasing availability of remote work. But in Forster's imagination, geographic immobility implies stagnation and malaise.
 
 > Men seldom moved their bodies; all unrest was concentrated in the soul.
 
@@ -56,8 +56,8 @@ In what I hope is the least prescient part of Forster's story, the Machine does 
 
 > The sin against the body—it was for that they wept in chief; the centuries of wrong against the muscles and the nerves, and those five portals by which we can alone apprehend—glozing it over with talk of evolution, until the body was white pap, the home of ideas as colourless, last sloshy stirrings of a spirit that had grasped the stars.
 
-I wonder: am I still part of that spirit that grasped the stars? Or am I "white pap"? Compared to the lives of our ancestors, ours are far less gritty. First we moved from the country to the city; now we are moving from the physical to the virtual. What will happen to our bodies in the next century? What will they be _for_, if anything?
+I wonder: am I still part of that spirit that grasped the stars? Or am I "white pap"? Compared to the lives of our ancestors, ours are far less gritty. First we moved from the country to the city; now we are moving from the physical to the virtual. What will happen to our bodies in the next century? What will they be for, if anything?
 
-I haven't read much of Forster's other writings, so for all I know he made hundreds of other fictional 'predictions' that didn't pan out. The point of this close reading is not that it gives us clues to our own future, although it may. The point is that it gives us something equally rare: a chronological outsider's perspective on the present. A hundred years from now, our descendants might watch Black Mirror looking for *our* perspective on *their* world.
+I haven't read much of Forster's other writings, so for all I know he made hundreds of other fictional 'predictions' that didn't pan out. But the point of this close reading is not that it gives us clues to our own future, although it may. The point is that it gives us something equally rare: a chronological outsider's perspective on the present. A hundred years from now, our descendants might watch Black Mirror looking for our perspective on their world.
 
 I enjoyed my day, but I know what Forster would think of it. I spent ten hours sitting indoors, listening to music, messaging with friends, producing second-hand ideas. Soon, I'll make the room dark.
