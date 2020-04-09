@@ -6,8 +6,9 @@ permalink: /best-of/
 
 ---------
 
-<a class="link" href='#'>A link
-    <iframe class="preview" src="http://www.example.com"></iframe>
+<a class="link" href="#">
+   This is a cat link 
+   <img class="preview" src="http://myhswm.org/images/sized/images/animals/Waffles_cat-256x256.jpg">
 </a>
 
 
