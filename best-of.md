@@ -6,7 +6,7 @@ permalink: /best-of/
 
 ---------
 
-<p id="p1"><a href="https://davidklaing.com/essays/talk-more.html">Talk more</a></p>
+<p id="p1"><a href="https://davidklaing.com/talk-more.html">Talk more</a></p>
 
 
 ## Blog
