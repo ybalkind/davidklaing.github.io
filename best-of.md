@@ -6,10 +6,7 @@ permalink: /best-of/
 
 ---------
 
-<a class="link" href="#">
-   This is a cat link 
-   <img class="preview" src="http://myhswm.org/images/sized/images/animals/Waffles_cat-256x256.jpg">
-</a>
+<p id="p1"><a href="http://www.wikipedia.org">Wikipedia</a></p>
 
 
 ## Blog
