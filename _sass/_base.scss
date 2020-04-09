@@ -183,6 +183,8 @@ a:hover {
   text-decoration: underline;
 }
 
+.preview { display:none; }
+.link:hover .preview { display: inline-block; position: absolute; }
 
 
 // TODO
