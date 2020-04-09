@@ -36,7 +36,7 @@
         defaultOptions: {
             width: 512,
             height: 288,
-            scale: .75,
+            scale: 2.75,
             prefetch: 'pageload'
         },
                 
