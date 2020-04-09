@@ -93,3 +93,11 @@ Responsive friendships self-sustain via positive feedback loops; laggy ones suff
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“My guess: the average public speaker is nervous and rambly, so slowing down improves coherence, while the average podcast speaker is already coherent, so speeding up improves throughput.”</p>&mdash; David Laing (@davidklaing) <a href="https://twitter.com/davidklaing/status/1212048094587760646">December 31, 2019</a></blockquote>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<script>
+$(".tiptext").mouseover(function() {
+    $(this).children(".description").show();
+}).mouseout(function() {
+    $(this).children(".description").hide();
+});
+</script>
