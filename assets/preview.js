@@ -99,7 +99,8 @@
             var f = this.$el.find('.' + PREFIX + '-frame')
             f.attr('src', this.$el.attr('href'))
             f.on('load', function() {
-                f.contents().find('head').hide().css('background-color', '#fff');
+                f.contents().find('header.site-header').hide()
+                f.css('background-color', '#fff');
             });
         },
         
