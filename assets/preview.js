@@ -97,11 +97,13 @@
         
         loadPreview: function() {
             var f = this.$el.find('.' + PREFIX + '-frame')
+            f.css('opacity', '0');
             f.attr('src', this.$el.attr('href'))
             f.attr('scrolling', "no")
             f.on('load', function() {
                 f.contents().find('header.site-header').hide()
                 f.css('background-color', '#fff');
+                f.css('opacity', '1');
             });
         },
         
