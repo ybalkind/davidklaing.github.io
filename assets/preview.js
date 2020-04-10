@@ -70,7 +70,6 @@
             var fontSize = parseInt(this.$el.css('font-size').replace('px', ''), 10)
             var top = (this.$el.height() + fontSize) / 2;
             var left = (this.$el.width());
-            // var left = (this.$el.width() - $wrapper.outerWidth()) / 2;
             $wrapper.css({
                 top: top + 'px',
                 left: left + 'px'
