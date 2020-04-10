@@ -17,6 +17,8 @@ permalink: /best-of/
 
 [The personal PhD](https://davidklaing.com/essays/personal-phd.html)
 
+<p id="p1"><a href="https://davidklaing.com/personal-phd">The personal PhD</a></p>
+
 > I think people who are drawn to PhD programs should consider whether they can assemble the key ingredients on their own.
 
 ### Most viewed posts of 2018
