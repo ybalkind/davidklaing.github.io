@@ -34,9 +34,9 @@
         sharedCounter: 0,
         
         defaultOptions: {
-            width: 512,
-            height: 288,
-            scale: 0.75,
+            width: 600,
+            height: 500,
+            scale: 0.85,
             prefetch: 'pageload'
         },
                 
