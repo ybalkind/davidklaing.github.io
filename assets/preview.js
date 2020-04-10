@@ -104,7 +104,7 @@ function makePreview(x) {
                     f.attr('src', this.$el.attr('href'))
                     f.attr('scrolling', "no")
                     f.on('load', function() {
-                        f.contents().find('header.site-header').hide()
+                        f.contents().find('header.site-header,footer.article-footer').hide()
                         f.css('background-color', '#fff');
                         f.css('opacity', '1');
                     });
