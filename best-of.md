@@ -4,9 +4,7 @@ title: Best of
 permalink: /best-of/
 ---
 
----------
-
-<p id="p1"><a href="https://davidklaing.com/talk-more">Talking more</a></p>
+<p id="p1"><a href="https://davidklaing.com/talk-more">Talk more</a></p>
 
 
 ## Blog

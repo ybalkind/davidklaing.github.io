@@ -36,7 +36,7 @@
         defaultOptions: {
             width: 512,
             height: 288,
-            scale: 0.25,
+            scale: 0.75,
             prefetch: 'pageload'
         },
                 
@@ -67,7 +67,7 @@
             });
 
             // positioning
-            var fontSize = parseInt(this.$el.css('font-size').replace('px', ''), 100)
+            var fontSize = parseInt(this.$el.css('font-size').replace('px', ''), 10)
             var top = (this.$el.height() + fontSize) / 2;
             var left = (this.$el.width() - $wrapper.outerWidth()) / 2;
             $wrapper.css({
@@ -96,12 +96,13 @@
         },
         
         loadPreview: function() {
-            this.$el.find('.' + PREFIX + '-frame')
-                .attr('src', this.$el.attr('href'))
-                .on('load', function() {
-                    // some sites don't set their background color
-                    $(this).css('background-color', '#fff');
-                });
+            var f = this.$el.find('.' + PREFIX + '-frame')
+            f.attr('src', this.$el.attr('href'))
+            f.on('load', function() {
+                f.contents().find('header').hide();
+                // some sites don't set their background color
+                // article.css('background-color', '#fff');
+            });
         },
         
         getNamespacedEvent: function(event) {
