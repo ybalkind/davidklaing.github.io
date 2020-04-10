@@ -38,8 +38,8 @@
     width: 100%;
     font-size: 1.25rem;
     text-align: center;
-    color: #f5ead4;
-    background-color: #59513f;
+    color: white;
+    background-color: blueviolet;
 }
 
 .mini-preview-loading::before {
