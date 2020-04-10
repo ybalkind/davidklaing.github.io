@@ -6,50 +6,50 @@ published: true
 
 ### 2020
 
-- [E.M. Forster predicted 2020 in 1909](https://davidklaing.com/the-machine-stops)
-- [Books I've read more than once](https://davidklaing.com/books-ive-read-more-than-once)
-- [Reading pipeline](https://davidklaing.com/reading-pipeline)
-- [All-time favourite albums](https://davidklaing.com/all-time-favourite-albums)
-- [How to invest in index funds, for Canadians](https://davidklaing.com/how-to-invest-in-index-funds)
-- [Roam as a slip-box](https://davidklaing.com/roam-as-a-slip-box)
-- [Godel, Escher, Bach in 34 propositions](https://davidklaing.com/godel-escher-bach)
-- [40 ways to improve at chess, if you're a beginner](https://davidklaing.com/40-ways-to-improve-at-chess)
+<p id="p3"><a href="/the-machine-stops">E.M. Forster predicted 2020 in 1909</a></p>
+<p id="p3"><a href="/books-ive-read-more-than-once">Books I've read more than once</a></p>
+<p id="p3"><a href="/reading-pipeline">Reading pipeline</a></p>
+<p id="p3"><a href="/all-time-favourite-albums">All-time favourite albums</a></p>
+<p id="p3"><a href="/how-to-invest-in-index-funds">How to invest in index funds, for Canadians</a></p>
+<p id="p3"><a href="/roam-as-a-slip-box">Roam as a slip-box</a></p>
+<p id="p3"><a href="/godel-escher-bach">Godel, Escher, Bach in 34 propositions</a></p>
+<p id="p3"><a href="/40-ways-to-improve-at-chess">40 ways to improve at chess, if you're a beginner</a></p>
 
 ### 2019
 
-- [2019 annual review](https://davidklaing.com/2019-annual-review)
-- [Covers shouldn't just be for musicians](https://davidklaing.com/covers-shouldnt-just-be-for-musicians)
-- [Tidy up so you can make a useful mess](https://davidklaing.com/tidy-up)
-- [Research as a stochastic decision process — Jacob Steinhardt](https://davidklaing.com/research-as-a-stochastic-decision-process)
-- [Crony beliefs — Kevin Simler](https://davidklaing.com/crony-beliefs)
-- [Leverage points — Donella Meadows](https://davidklaing.com/leverage-points)
-- [The aesthetic bullseye](https://davidklaing.com/aesthetic-bullseye)
-- [Solved conversations — Aaron Z. Lewis](https://davidklaing.com/solved-conversations)
-- [The Ideological Turing Test — Bryan Caplan](https://davidklaing.com/ideological-turing-test)
-- [Deep laziness — Sarah Perry](https://davidklaing.com/deep-laziness)
-- [Pushing and pulling goals — Scott Alexander](https://davidklaing.com/pushing-and-pulling-goals)
-- [Prototyping at the speed of thought — Tom Chi](https://davidklaing.com/prototyping-at-the-speed-of-thought)
-- [Seeing like a state — Scott Alexander and Venkatesh Rao](https://davidklaing.com/seeing-like-a-state)
-- [Levels of action — Alyssa Vance](https://davidklaing.com/levels-of-action)
-- [Definite optimism as human capital — Dan Wang](https://davidklaing.com/definite-optimism-as-human-capital)
-- [The personal PhD](https://davidklaing.com/personal-phd)
-- [If you're good, you need to talk more](https://davidklaing.com/talk-more)
-- [How to get a job in data science](https://davidklaing.com/how-to-get-a-job-in-data-science)
-- [Nested data in the tidyverse](https://davidklaing.com/nested-data-in-the-tidyverse)
-- [Atomic Habits — James Clear](https://davidklaing.com/atomic-habits)
+<p id="p3"><a href="/2019-annual-review">2019 annual review</a></p>
+<p id="p3"><a href="/covers-shouldnt-just-be-for-musicians">Covers shouldn't just be for musicians</a></p>
+<p id="p3"><a href="/tidy-up">Tidy up so you can make a useful mess</a></p>
+<p id="p3"><a href="/research-as-a-stochastic-decision-process">Research as a stochastic decision process — Jacob Steinhardt</a></p>
+<p id="p3"><a href="/crony-beliefs">Crony beliefs — Kevin Simler</a></p>
+<p id="p3"><a href="/leverage-points">Leverage points — Donella Meadows</a></p>
+<p id="p3"><a href="/aesthetic-bullseye">The aesthetic bullseye</a></p>
+<p id="p3"><a href="/solved-conversations">Solved conversations — Aaron Z. Lewis</a></p>
+<p id="p3"><a href="/ideological-turing-test">The Ideological Turing Test — Bryan Caplan</a></p>
+<p id="p3"><a href="/deep-laziness">Deep laziness — Sarah Perry</a></p>
+<p id="p3"><a href="/pushing-and-pulling-goals">Pushing and pulling goals — Scott Alexander</a></p>
+<p id="p3"><a href="/prototyping-at-the-speed-of-thought">Prototyping at the speed of thought — Tom Chi</a></p>
+<p id="p3"><a href="/seeing-like-a-state">Seeing like a state — Scott Alexander and Venkatesh Rao</a></p>
+<p id="p3"><a href="/levels-of-action">Levels of action — Alyssa Vance</a></p>
+<p id="p3"><a href="/definite-optimism-as-human-capital">Definite optimism as human capital — Dan Wang</a></p>
+<p id="p3"><a href="/personal-phd">The personal PhD</a></p>
+<p id="p3"><a href="/talk-more">If you're good, you need to talk more</a></p>
+<p id="p3"><a href="/how-to-get-a-job-in-data-science">How to get a job in data science</a></p>
+<p id="p3"><a href="/nested-data-in-the-tidyverse">Nested data in the tidyverse</a></p>
+<p id="p3"><a href="/atomic-habits">Atomic Habits — James Clear</a></p>
 
 ### 2018
 
-- [Favourite media of 2018](https://davidklaing.com/favourite-media-of-2018)
-- [Embracers and equalizers](https://davidklaing.com/embracers-and-equalizers)
-- [My laptop setup](https://davidklaing.com/laptop-setup)
-- [Size-constrained gradient descent and the Cauchy-Schwarz inequality](https://davidklaing.com/cauchy-schwarz-inequality)
+<p id="p3"><a href="/favourite-media-of-2018">Favourite media of 2018</a></p>
+<p id="p3"><a href="/embracers-and-equalizers">Embracers and equalizers</a></p>
+<p id="p3"><a href="/laptop-setup">My laptop setup</a></p>
+<p id="p3"><a href="/cauchy-schwarz-inequality">Size-constrained gradient descent and the Cauchy-Schwarz inequality</a></p>
 
 ### 2017
 
-- [Favourite media of 2017](https://davidklaing.com/favourite-media-of-2017)
-- [Communication in data science is more than just the final report](https://davidklaing.com/communication-in-data-science)
+<p id="p3"><a href="/favourite-media-of-2017">Favourite media of 2017</a></p>
+<p id="p3"><a href="/communication-in-data-science">Communication in data science is more than just the final report</a></p>
 
 ### 2016
 
-- [The Righteous Mind — Jonathan Haidt](https://davidklaing.com/righteous-mind)
+<p id="p3"><a href="/righteous-mind">The Righteous Mind — Jonathan Haidt</a></p>

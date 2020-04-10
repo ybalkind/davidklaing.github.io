@@ -21,7 +21,7 @@ permalink: /best-of/
 
 ### Most viewed posts of 2018
 
-[Size-constrained gradient descent and the Cauchy-Schwarz inequality, explained step-by-step](https://davidklaing.com/blog/2018/11/27/step-by-step.html)
+<p id="p1"><a href="https://davidklaing.com/cauchy-schwarz-inequality">Size-constrained gradient descent and the Cauchy-Schwarz inequality, da da da</a></p>
 
 > Walkthrough of a practice problem in Michael Nielsen's book, Neural Networks and Deep Learning.
 

@@ -7,11 +7,12 @@
 .mini-preview-wrapper {
     -moz-box-sizing: content-box;
     box-sizing: content-box;
-    position: absolute;
+    position: fixed;
     overflow: hidden;
     z-index: -1;
     opacity: 0;
-    margin-top: 6px;
+    margin-top: -25px;
+    margin-left: 50px;
     border: solid 1px #000;
     box-shadow: 4px 4px 6px rgba(0, 0, 0, .3);
     transition: z-index steps(1) .3s, opacity .3s;
@@ -45,7 +46,7 @@
 }
 
 .mini-preview-loading::before {
-    content: 'Loading...';
+    content: 'Loading preview...';
     display: table-cell;
     text-align: center;
     vertical-align: middle;

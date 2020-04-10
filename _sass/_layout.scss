@@ -29,12 +29,7 @@ body {
   .left {
     a {
       color: #666;
-      border-bottom:1px dotted;
       text-decoration:none;
-    }
-    a:hover {
-      color:red;
-      border-bottom:1px dotted;
     }
   }
 }
@@ -161,7 +156,7 @@ input#menu-toggle {
 
 
 .site-header {
-  text-align:right;
+  text-align:left;
   @include media-query($on-laptop){
     text-align: center;
     margin-bottom: 40px;

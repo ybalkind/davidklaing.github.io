@@ -4,18 +4,18 @@
   <body>
     <div class="page-content">
       <div class="container">
-        <div class="three columns">
-          {% include header.html %}
-        </div>
-
+        
         <div class="nine columns" style="z-index:100;">
           <div class="wrapper">
             {{ content }}
           </div>
         </div>
+        <div class="two columns">
+          {% include header.html %}
+        </div>
       </div>
       {% include analytics.html %}
-      {% include footer.html %} 
+      <!-- {% include footer.html %}  -->
     </div>
   </body>
 </html>

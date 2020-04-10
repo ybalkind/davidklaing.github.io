@@ -34,8 +34,8 @@
         sharedCounter: 0,
         
         defaultOptions: {
-            width: 600,
-            height: 500,
+            width: 480,
+            height: 800,
             scale: 0.85,
             prefetch: 'pageload'
         },
@@ -72,7 +72,8 @@
             var left = (this.$el.width());
             $wrapper.css({
                 top: top + 'px',
-                left: left + 'px'
+                // left: left + 'px',
+                right: '0px'
             });
         },
         

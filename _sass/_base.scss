@@ -41,11 +41,10 @@
   position:relative;
   width: 100%;
   max-width: 960px;
-  margin: 0 auto;
+  margin: 0 10px 0 0;
   padding: 10px 10px;
   box-sizing: border-box;
   /* for test only */
-  border: 1px dashed #eeeeee;
 
 }
 .column,
@@ -74,7 +73,7 @@
 
   .one.column,
   .one.columns                    { width: 4.66666666667%; }
-  .two.columns                    { width: 13.3333333333%; }
+  .two.columns                    { width: 17.3333333333%; }
   .three.columns                  { width: 22%;            }
   .four.columns                   { width: 30.6666666667%; }
   .five.columns                   { width: 39.3333333333%; }
