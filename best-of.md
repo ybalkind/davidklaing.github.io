@@ -4,7 +4,7 @@ title: Best of
 permalink: /best-of/
 ---
 
-<p id="p1"><a href="https://davidklaing.com/talk-more">Talking more</a></p>
+<p id="p1"><a href="https://davidklaing.com/talk-more">If you're good, you need to talk more</a></p>
 
 
 ## Blog
@@ -14,8 +14,6 @@ permalink: /best-of/
 [If you're good, you need to talk more](https://davidklaing.com/essays/talk-more.html)
 
 > An essay about the virtue of openness.
-
-[The personal PhD](https://davidklaing.com/essays/personal-phd.html)
 
 <p id="p1"><a href="https://davidklaing.com/personal-phd">The personal PhD</a></p>
 
