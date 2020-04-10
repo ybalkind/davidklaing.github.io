@@ -156,6 +156,7 @@ input#menu-toggle {
 
 
 .site-header {
+  left:0;
   text-align:left;
   @include media-query($on-laptop){
     text-align: center;
