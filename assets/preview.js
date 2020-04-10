@@ -99,9 +99,7 @@
             var f = this.$el.find('.' + PREFIX + '-frame')
             f.attr('src', this.$el.attr('href'))
             f.on('load', function() {
-                f.contents().find('header').hide();
-                // some sites don't set their background color
-                // article.css('background-color', '#fff');
+                f.contents().find('head').hide().css('background-color', '#fff');
             });
         },
         
