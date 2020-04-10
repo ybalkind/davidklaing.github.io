@@ -7,7 +7,7 @@
 .mini-preview-wrapper {
     -moz-box-sizing: content-box;
     box-sizing: content-box;
-    position: relative;
+    position: absolute;
     overflow: hidden;
     z-index: -1;
     opacity: 0;
@@ -25,7 +25,7 @@
 }
 
 .mini-preview-loading, .mini-preview-cover {
-    position: relative;
+    position: absolute;
     top: 0;
     bottom: 0;
     right: 0;
@@ -40,6 +40,7 @@
     text-align: center;
     color: blueviolet;
     background-color: #f5ead4;
+    opacity: 1;
 }
 
 .mini-preview-loading::before {
